@@ -1,194 +1,194 @@
-Iceland,ISL,"(64.1265206, -21.8174392)",[]
-Ireland,IRL,"(53.3498053, -6.2603097)",['United Kingdom']
-Azerbaijan,AZE,"(40.4092617, 49.8670924)","['Iran', 'Georgia', 'Armenia', 'Russian Federation']"
-Afghanistan,AFG,"(34.5553494, 69.207486)","['Iran', 'Uzbekistan', 'Tajikistan', 'China', 'Turkmenistan', 'Pakistan']"
-United States,USA,"(38.9071923, -77.0368707)","['Canada', 'Mexico']"
-United Arab Emirates,ARE,"(24.453884, 54.3773438)","['Oman', 'Qatar', 'Saudi Arabia']"
-Algeria,DZA,"(36.753768, 3.0587561)","['Tunisia', 'Niger', 'Mali', 'Mauritania', 'Morocco', 'Libya']"
-Argentina,ARG,"(-34.6036844, -58.3815591)","['Uruguay', 'Chile', 'Paraguay', 'Bolivia', 'Brazil']"
-Albania,ALB,"(41.3275459, 19.8186982)","['Greece', 'Kosovo', 'Macedonia', 'Montenegro']"
-Armenia,ARM,"(40.1791857, 44.4991029)","['Iran', 'Azerbaijan', 'Georgia', 'Turkey']"
-Angola,AGO,"(-8.8399876, 13.2894368)","['Congo', 'Congo', 'Zambia', 'Namibia']"
-Antigua and Barbuda,ATG,"(17.1274104, -61.846772)",[]
-Andorra,AND,"(42.5063174, 1.5218355)","['Spain', 'France']"
-Yemen,YEM,"(15.3694451, 44.1910066)","['Oman', 'Saudi Arabia']"
-United Kingdom,GBR,"(51.5073509, -0.1277583)","['Ireland', 'Cyprus', 'Spain']"
-Israel,ISR,"(31.768319, 35.21371)","['Egypt', 'Syrian Arab Republic', 'Jordan', 'Lebanon']"
-Italy,ITA,"(41.9027835, 12.4963655)","['Austria', 'San Marino', 'Switzerland', 'Slovenia', 'Holy See (Vatican City State)', 'France']"
-Iraq,IRQ,"(33.3128057, 44.3614875)","['Iran', 'Kuwait', 'Saudi Arabia', 'Syrian Arab Republic', 'Turkey', 'Jordan']"
-Iran,IRN,"(35.6891975, 51.3889736)","['Azerbaijan', 'Afghanistan', 'Armenia', 'Iraq', 'Turkmenistan', 'Turkey', 'Pakistan']"
-India,IND,"(28.6139391, 77.2090212)","['China', 'Bangladesh', 'Bhutan', 'Nepal', 'Myanmar']"
-Indonesia,IDN,"(-6.2087634, 106.845599)","['Timor-Leste', 'Papua New Guinea', 'Malaysia']"
-Uganda,UGA,"(0.3475964, 32.5825197)","['Kenya', 'Congo', 'Sudan', 'Tanzania', 'Rwanda']"
-Ukraine,UKR,"(50.4501, 30.5234)","['Slovakia', 'Hungary', 'Belarus', 'Poland', 'Moldova', 'Romania', 'Russian Federation']"
-Uzbekistan,UZB,"(41.2994958, 69.2400734)","['Afghanistan', 'Kazakhstan', 'Kyrgyzstan', 'Tajikistan', 'Turkmenistan']"
-Uruguay,URY,"(-34.9011127, -56.1645314)","['Argentina', 'Brazil']"
-Ecuador,ECU,"(-0.1806532, -78.4678382)","['Colombia', 'Peru']"
-Egypt,EGY,"(30.0444196, 31.2357116)","['Israel', 'Sudan', 'Libya']"
-Estonia,EST,"(59.4369608, 24.7535747)","['Latvia', 'Russian Federation']"
-Ethiopia,ETH,"(8.9806034, 38.7577605)","['Eritrea', 'Kenya', 'Djibouti', 'Sudan', 'Somalia']"
-Eritrea,ERI,"(15.3228767, 38.9250517)","['Ethiopia', 'Djibouti', 'Sudan']"
-El Salvador,SLV,"(13.6929403, -89.2181911)","['Guatemala', 'Honduras']"
-Australia,AUS,"(-35.308129, 149.124402)",[]
-Austria,AUT,"(48.2081743, 16.3738189)","['Italy', 'Switzerland', 'Slovakia', 'Slovenia', 'Czech Republic', 'Germany', 'Hungary', 'Liechtenstein']"
-Oman,OMN,"(23.58589, 58.4059227)","['United Arab Emirates', 'Yemen', 'Saudi Arabia']"
-Netherlands,NLD,"(52.3702157, 4.8951679)","['Germany', 'Belgium']"
-Ghana,GHA,"(5.6037168, -0.1869644)","[""Côte d'Ivoire"", 'Togo', 'Burkina Faso']"
-Cape Verde,CPV,"(14.93305, -23.5133267)",[]
-Guyana,GUY,"(6.8012793, -58.1551255)","['Suriname', 'Brazil', 'Venezuela']"
-Kazakhstan,KAZ,"(51.1605227, 71.4703558)","['Uzbekistan', 'Kyrgyzstan', 'China', 'Turkmenistan', 'Russian Federation']"
-Qatar,QAT,"(25.2854473, 51.5310398)","['United Arab Emirates', 'Saudi Arabia']"
-Canada,CAN,"(45.4215296, -75.6971931)",['United States']
-Gabon,GAB,"(0.4161976, 9.4672676)","['Cameroon', 'Congo', 'Equatorial Guinea']"
-Cameroon,CMR,"(3.8480325, 11.5020752)","['Gabon', 'Congo', 'Equatorial Guinea', 'Chad', 'Central African Republic', 'Nigeria']"
-Gambia,GMB,"(13.4548761, -16.5790323)",['Senegal']
-Cambodia,KHM,"(11.5563738, 104.9282099)","['Thailand', 'Viet Nam', ""Lao People's Democratic Republic""]"
-Guinea,GIN,"(9.6411855, -13.5784012)","['Guinea-Bissau', ""Côte d'Ivoire"", 'Sierra Leone', 'Senegal', 'Mali', 'Liberia']"
-Guinea-Bissau,GNB,"(11.8816553, -15.6177942)","['Guinea', 'Senegal']"
-Cyprus,CYP,"(35.1855659, 33.3822764)",['United Kingdom']
-Cuba,CUB,"(23.1135925, -82.3665956)",[]
-Greece,GRC,"(37.9838096, 23.7275388)","['Albania', 'Turkey', 'Bulgaria', 'Macedonia']"
-Kiribati,KIR,"(1.4518171, 172.9716617)",[]
-Kyrgyzstan,KGZ,"(42.8746212, 74.5697617)","['Uzbekistan', 'Kazakhstan', 'Tajikistan', 'China']"
-Guatemala,GTM,"(14.6349149, -90.5068824)","['El Salvador', 'Belize', 'Honduras', 'Mexico']"
-Kuwait,KWT,"(29.375859, 47.9774052)","['Iraq', 'Saudi Arabia']"
-Georgia,GEO,"(41.7151377, 44.827096)","['Armenia', 'Azerbaijan', 'Turkey', 'Russian Federation']"
-Grenada,GRD,"(12.0560975, -61.7487996)",[]
-Croatia,HRV,"(45.8150108, 15.9819189)","['Slovenia', 'Serbia', 'Hungary', 'Bosnia and Herzegovina']"
-Kenya,KEN,"(-1.2920659, 36.8219462)","['Uganda', 'Ethiopia', 'Sudan', 'Somalia', 'Tanzania']"
-Côte d'Ivoire,CIV,"(6.8276228, -5.2893433)","['Ghana', 'Guinea', 'Burkina Faso', 'Mali', 'Liberia']"
-Costa Rica,CRI,"(9.9280694, -84.0907246)","['Nicaragua', 'Panama']"
-Kosovo,KOS,"(21.1655, 42.6629)","['Albania', 'Serbia', 'Macedonia', 'Montenegro']"
-Comoros,COM,"(-11.7172157, 43.2473146)",[]
-Colombia,COL,"(4.7109886, -74.072092)","['Ecuador', 'Panama', 'Brazil', 'Venezuela', 'Peru']"
-Congo,COG,"(-4.2633597, 15.2428853)","['Angola', 'Gabon', 'Cameroon', 'Congo', 'Central African Republic']"
-Congo,COD,"(-4.4419311, 15.2662931)","['Angola', 'Uganda', 'Congo', 'Zambia', 'Sudan', 'Tanzania', 'Central African Republic', 'Burundi', 'Rwanda']"
-Saudi Arabia,SAU,"(24.7135517, 46.6752957)","['United Arab Emirates', 'Yemen', 'Iraq', 'Oman', 'Qatar', 'Kuwait', 'Jordan']"
-Samoa,WSM,"(-13.8506958, -171.7513551)",[]
-Sao Tome and Principe,STP,"(0.3301924, 6.733343)",[]
-Zambia,ZMB,"(-15.3875259, 28.3228165)","['Angola', 'Congo', 'Zimbabwe', 'Tanzania', 'Namibia', 'Botswana', 'Malawi', 'Mozambique']"
-San Marino,SMR,"(43.9355907, 12.4472806)",['Italy']
-Sierra Leone,SLE,"(8.4656765, -13.2317225)","['Guinea', 'Liberia']"
-Djibouti,DJI,"(11.5720765, 43.1456475)","['Ethiopia', 'Eritrea', 'Somalia']"
-Jamaica,JAM,"(18.0178743, -76.8099041)",[]
-Syrian Arab Republic,SYR,"(33.5138073, 36.2765279)","['Israel', 'Iraq', 'Turkey', 'Jordan', 'Lebanon']"
-Singapore,SGP,"(1.355429, 103.867722)",[]
-Zimbabwe,ZWE,"(-17.8251657, 31.03351)","['Zambia', 'Botswana', 'South Africa', 'Mozambique']"
-Switzerland,CHE,"(46.9479739, 7.4474468)","['Italy', 'Austria', 'Germany', 'France', 'Liechtenstein']"
-Sweden,SWE,"(59.3293235, 18.0685808)","['Finland', 'Norway']"
-Sudan,SDN,"(15.5006544, 32.5598994)","['Uganda', 'Egypt', 'Ethiopia', 'Eritrea', 'Kenya', 'Congo', 'Chad', 'Central African Republic', 'Libya']"
-Spain,ESP,"(40.4167754, -3.7037902)","['Andorra', 'United Kingdom', 'France', 'Portugal', 'Morocco']"
-Suriname,SUR,"(5.8520355, -55.2038278)","['Guyana', 'France', 'Brazil']"
-Sri Lanka,LKA,"(6.8867616, 79.9187142)",[]
-Slovakia,SVK,"(48.1485965, 17.1077478)","['Ukraine', 'Austria', 'Czech Republic', 'Hungary', 'Poland']"
-Slovenia,SVN,"(46.0569465, 14.5057515)","['Italy', 'Austria', 'Croatia', 'Hungary']"
-Swaziland,SWZ,"(-26.3054482, 31.1366715)","['South Africa', 'Mozambique']"
-Seychelles,SYC,"(-4.619143, 55.4513149)",[]
-Equatorial Guinea,GNQ,"(3.7504118, 8.7371039)","['Gabon', 'Cameroon']"
-Senegal,SEN,"(14.716677, -17.4676861)","['Gambia', 'Guinea', 'Guinea-Bissau', 'Mali', 'Mauritania']"
-Serbia,SRB,"(44.786568, 20.4489216)","['Croatia', 'Kosovo', 'Hungary', 'Bulgaria', 'Bosnia and Herzegovina', 'Macedonia', 'Montenegro', 'Romania']"
-Saint Kitts and Nevis,KNA,"(17.3026058, -62.7176924)",[]
-Saint Vincent and the Grenadines,VCT,"(13.1600249, -61.2248157)",[]
-Saint Lucia,LCA,"(14.0101094, -60.9874687)",[]
-Somalia,SOM,"(2.0469343, 45.3181623)","['Ethiopia', 'Kenya', 'Djibouti']"
-Solomon Islands,SLB,"(-9.4456381, 159.9728999)",[]
-Thailand,THA,"(13.7563309, 100.5017651)","['Cambodia', 'Malaysia', 'Myanmar', ""Lao People's Democratic Republic""]"
-Korea,KOR,"(37.552361, 126.991432)","[""Korea, Democratic People's Republic of""]"
-Tajikistan,TJK,"(38.5597722, 68.7870384)","['Afghanistan', 'Uzbekistan', 'Kyrgyzstan', 'China']"
-Tanzania,TZA,"(-6.162959, 35.7516069)","['Uganda', 'Kenya', 'Congo', 'Zambia', 'Burundi', 'Malawi', 'Mozambique', 'Rwanda']"
-Czech Republic,CZE,"(50.0755381, 14.4378005)","['Austria', 'Slovakia', 'Germany', 'Poland']"
-Chad,TCD,"(12.1348457, 15.0557415)","['Cameroon', 'Sudan', 'Central African Republic', 'Nigeria', 'Niger', 'Libya']"
-Central African Republic,CAF,"(4.3946735, 18.5581899)","['Cameroon', 'Congo', 'Congo', 'Sudan', 'Chad']"
-China,CHN,"(39.9041999, 116.4073963)","['Afghanistan', 'India', 'Kazakhstan', 'Kyrgyzstan', 'Tajikistan', ""Korea, Democratic People's Republic of"", 'Viet Nam', 'Myanmar', 'Mongolia', ""Lao People's Democratic Republic"", 'Russian Federation']"
-Tunisia,TUN,"(36.8064948, 10.1815316)","['Algeria', 'Libya']"
-"Korea, Democratic People's Republic of",PRK,"(39.0392193, 125.7625241)","['Korea', 'China', 'Russian Federation']"
-Chile,CHL,"(-33.4488897, -70.6692655)","['Argentina', 'Peru', 'Bolivia']"
-Tuvalu,TUV,"(-8.5211471, 179.1961926)",[]
-Denmark,DNK,"(55.6760968, 12.5683372)",['Germany']
-Germany,DEU,"(52.5200066, 13.404954)","['Austria', 'Netherlands', 'Switzerland', 'Czech Republic', 'Denmark', 'France', 'Belgium', 'Poland', 'Luxembourg']"
-Togo,TGO,"(6.1724969, 1.2313618)","['Ghana', 'Burkina Faso', 'Benin']"
-Dominican Republic,DOM,"(18.4860575, -69.9312117)",['Haiti']
-Dominica,DMA,"(15.3091676, -61.3793554)",[]
-Trinidad and Tobago,TTO,"(10.6549013, -61.5019256)",[]
-Turkmenistan,TKM,"(37.9600766, 58.3260629)","['Afghanistan', 'Iran', 'Uzbekistan', 'Kazakhstan']"
-Turkey,TUR,"(39.9333635, 32.8597419)","['Armenia', 'Iraq', 'Iran', 'Greece', 'Georgia', 'Syrian Arab Republic', 'Bulgaria']"
-Tonga,TON,"(-21.1393418, -175.204947)",[]
-Nigeria,NGA,"(9.0764785, 7.398574)","['Cameroon', 'Chad', 'Niger', 'Benin']"
-Nauru,NRU,"(-0.5466857, 166.9210913)",[]
-Namibia,NAM,"(-22.5608807, 17.0657549)","['Angola', 'Zambia', 'Botswana', 'South Africa']"
-Nicaragua,NIC,"(12.1149926, -86.2361744)","['Costa Rica', 'Honduras']"
-Niger,NER,"(13.5115963, 2.1253854)","['Algeria', 'Chad', 'Nigeria', 'Burkina Faso', 'Benin', 'Mali', 'Libya']"
-Japan,JPN,"(35.7090259, 139.7319925)",[]
-New Zealand,NZL,"(-41.2864603, 174.776236)",[]
-Nepal,NPL,"(27.7172453, 85.3239605)","['India', 'China']"
-Norway,NOR,"(59.9138688, 10.7522454)","['Sweden', 'Finland', 'Russian Federation']"
-Bahrain,BHR,"(26.2285161, 50.5860497)",[]
-Haiti,HTI,"(18.594395, -72.3074326)",['Dominican Republic']
-Pakistan,PAK,"(33.6844202, 73.0478848)","['Afghanistan', 'India', 'Iran']"
-Holy See (Vatican City State),VAT,"(41.902916, 12.453389)",['Italy']
-Panama,PAN,"(8.9823792, -79.5198696)","['Costa Rica', 'Colombia']"
-Vanuatu,VUT,"(-17.7332512, 168.3273245)",[]
-Bahamas,BHS,"(25.0479835, -77.355413)",[]
-Papua New Guinea,PNG,"(-9.4438004, 147.1802671)",['Indonesia']
-Palau,PLW,"(7.4951158, 134.6336896)",[]
-Paraguay,PRY,"(-25.2637399, -57.575926)","['Argentina', 'Brazil', 'Bolivia']"
-Barbados,BRB,"(13.0968511, -59.6144819)",[]
-Hungary,HUN,"(47.497912, 19.040235)","['Ukraine', 'Austria', 'Croatia', 'Slovakia', 'Slovenia', 'Serbia', 'Romania']"
-Bangladesh,BGD,"(23.810332, 90.4125181)","['India', 'Myanmar']"
-Timor-Leste,TLS,"(-8.5568557, 125.5603143)",['Indonesia']
-Fiji,FJI,"(-18.1248086, 178.4500789)",[]
-Philippines,PHL,"(14.5995124, 120.9842195)",[]
-Finland,FIN,"(60.1698557, 24.9383791)","['Sweden', 'Norway', 'Russian Federation']"
-Bhutan,BTN,"(27.4727924, 89.6392863)","['India', 'China']"
-Brazil,BRA,"(-15.794392, -47.882004)","['Argentina', 'Uruguay', 'Guyana', 'Colombia', 'Suriname', 'Paraguay', 'France', 'Venezuela', 'Peru', 'Bolivia']"
-France,FRA,"(48.856614, 2.3522219)","['Andorra', 'Italy', 'Switzerland', 'Spain', 'Germany', 'Belgium', 'Monaco', 'Luxembourg']"
-Bulgaria,BGR,"(42.6977082, 23.3218675)","['Greece', 'Serbia', 'Turkey', 'Macedonia', 'Romania']"
-Burkina Faso,BFA,"(12.3714277, -1.5196603)","['Ghana', ""Côte d'Ivoire"", 'Togo', 'Niger', 'Benin', 'Mali']"
-Brunei Darussalam,BRN,"(4.9030522, 114.939821)",['Malaysia']
-Burundi,BDI,"(-3.361378, 29.3598782)","['Congo', 'Tanzania', 'Rwanda']"
-Viet Nam,VNM,"(21.0277644, 105.8341598)","['Cambodia', 'China', ""Lao People's Democratic Republic""]"
-Benin,BEN,"(6.4968574, 2.6288523)","['Togo', 'Nigeria', 'Niger', 'Burkina Faso']"
-Venezuela,VEN,"(10.4805937, -66.9036063)","['Guyana', 'Colombia', 'Brazil']"
-Belarus,BLR,"(53.9045398, 27.5615244)","['Ukraine', 'Poland', 'Latvia', 'Lithuania', 'Russian Federation']"
-Belize,BLZ,"(17.2510114, -88.7590201)","['Guatemala', 'Mexico']"
-Peru,PER,"(-12.0463731, -77.042754)","['Ecuador', 'Colombia', 'Chile', 'Brazil', 'Bolivia']"
-Belgium,BEL,"(50.8503463, 4.3517211)","['Netherlands', 'Germany', 'France', 'Luxembourg']"
-Poland,POL,"(52.2296756, 21.0122287)","['Ukraine', 'Slovakia', 'Czech Republic', 'Germany', 'Belarus', 'Lithuania', 'Russian Federation']"
-Bosnia and Herzegovina,BIH,"(43.8562586, 18.4130763)","['Croatia', 'Serbia', 'Montenegro']"
-Botswana,BWA,"(-24.6282079, 25.9231471)","['Zimbabwe', 'Namibia', 'Botswana', 'South Africa']"
-Bolivia,BOL,"(-16.489689, -68.1192936)","['Argentina', 'Chile', 'Paraguay', 'Brazil', 'Peru']"
-Portugal,PRT,"(38.7222524, -9.1393366)",['Spain']
-Honduras,HND,"(14.0722751, -87.192136)","['El Salvador', 'Guatemala', 'Nicaragua']"
-Marshall Islands,MHL,"(7.1164214, 171.1857736)",[]
-Macedonia,MKD,"(41.9973462, 21.4279956)","['Albania', 'Greece', 'Kosovo', 'Serbia', 'Bulgaria']"
-Madagascar,MDG,"(-18.8791902, 47.5079055)",[]
-Malawi,MWI,"(-13.9626121, 33.7741195)","['Zambia', 'Tanzania', 'Mozambique']"
-Mali,MLI,"(12.6392316, -8.0028892)","['Algeria', 'Guinea', ""Côte d'Ivoire"", 'Senegal', 'Niger', 'Burkina Faso', 'Mauritania']"
-Malta,MLT,"(35.8989085, 14.5145528)",[]
-Malaysia,MYS,"(3.139003, 101.686855)","['Thailand', 'Brunei Darussalam']"
-Micronesia,FSM,"(6.9147118, 158.1610274)",[]
-South Africa,ZAF,"(-25.7478676, 28.2292712)","['Zimbabwe', 'Swaziland', 'Namibia', 'Botswana', 'Mozambique', 'Lesotho']"
-Myanmar,MMR,"(19.7633057, 96.0785104)","['India', 'Thailand', 'China', 'Bangladesh', ""Lao People's Democratic Republic""]"
-Mexico,MEX,"(19.4326077, -99.133208)","['United States', 'Guatemala', 'Belize']"
-Mauritius,MUS,"(-20.1608912, 57.5012222)",[]
-Mauritania,MRT,"(18.0735299, -15.9582372)","['Algeria', 'Senegal', 'Mali']"
-Mozambique,MOZ,"(-25.969248, 32.5731746)","['Zambia', 'Zimbabwe', 'Swaziland', 'Tanzania', 'Malawi', 'South Africa']"
-Monaco,MCO,"(43.737247, 7.420681)","['Italy', 'France']"
-Maldives,MDV,"(4.1754959, 73.5093474)",[]
-Moldova,MDA,"(47.0104529, 28.8638102)","['Ukraine', 'Romania']"
-Morocco,MAR,"(33.9715904, -6.8498129)","['Algeria', 'Spain']"
-Mongolia,MNG,"(47.8863988, 106.9057439)","['China', 'Russian Federation']"
-Montenegro,MNE,"(42.4304196, 19.2593642)","['Albania', 'Serbia', 'Bosnia and Herzegovina']"
-Jordan,JOR,"(31.9453666, 35.9283716)","['Israel', 'Iraq', 'Saudi Arabia', 'Syrian Arab Republic']"
-Lao People's Democratic Republic,LAO,"(17.9757058, 102.6331035)","['Cambodia', 'Thailand', 'China', 'Viet Nam', 'Myanmar']"
-Latvia,LVA,"(56.9496487, 24.1051865)","['Estonia', 'Belarus', 'Lithuania', 'Russian Federation']"
-Lithuania,LTU,"(54.6871555, 25.2796514)","['Belarus', 'Poland', 'Latvia', 'Russian Federation']"
-Libya,LBY,"(32.8872094, 13.1913383)","['Algeria', 'Egypt', 'Sudan', 'Chad', 'Tunisia', 'Niger']"
-Liechtenstein,LIE,"(47.1410303, 9.5209277)","['Austria', 'Switzerland']"
-Liberia,LBR,"(6.2907432, -10.7605239)","['Guinea', ""Côte d'Ivoire"", 'Sierra Leone']"
-Romania,ROU,"(44.4267674, 26.1025384)","['Ukraine', 'Serbia', 'Hungary', 'Bulgaria', 'Moldova']"
-Luxembourg,LUX,"(49.611621, 6.1319346)","['Germany', 'France', 'Belgium']"
-Rwanda,RWA,"(-1.9705786, 30.1044288)","['Uganda', 'Congo', 'Tanzania', 'Burundi']"
-Lesotho,LSO,"(-29.3150767, 27.4869229)",['South Africa']
-Lebanon,LBN,"(33.8937913, 35.5017767)","['Israel', 'Syrian Arab Republic', 'Jordan']"
-Russian Federation,RUS,"(55.755826, 37.6172999)","['Azerbaijan', 'Ukraine', 'Estonia', 'Kazakhstan', 'Georgia', 'China', ""Korea, Democratic People's Republic of"", 'Norway', 'Finland', 'Belarus', 'Poland', 'Mongolia', 'Latvia', 'Lithuania']"
+Iceland,ISL,-21.8174392,-21.8174392,[]
+Ireland,IRL,-6.2603097,-6.2603097,[['イギリス']]
+Azerbaijan,AZE,49.8670924,49.8670924,"[['イラン'], ['グルジア'], ['アルメニア'], ['ロシア']]"
+Afghanistan,AFG,69.207486,69.207486,"[['イラン'], ['ウズベキスタン'], ['タジキスタン'], ['中華人民共和国'], ['トルクメニスタン'], ['パキスタン']]"
+United States,USA,-77.0368707,-77.0368707,"[['カナダ'], ['メキシコ']]"
+United Arab Emirates,ARE,54.3773438,54.3773438,"[['オマーン'], ['カタール'], ['サウジアラビア']]"
+Algeria,DZA,3.0587561,3.0587561,"[['チュニジア'], ['ニジェール'], ['マリ'], ['モーリタニア'], ['モロッコ'], ['リビア']]"
+Argentina,ARG,-58.3815591,-58.3815591,"[['ウルグアイ'], ['チリ'], ['パラグアイ'], ['ボリビア'], ['ブラジル']]"
+Albania,ALB,19.8186982,19.8186982,"[['ギリシャ'], ['コソボ'], ['マケドニア'], ['モンテネグロ']]"
+Armenia,ARM,44.4991029,44.4991029,"[['イラン'], ['アゼルバイジャン'], ['グルジア'], ['トルコ']]"
+Angola,AGO,13.2894368,13.2894368,"[['コンゴ共和国'], ['コンゴ民主共和国'], ['ザンビア'], ['ナミビア']]"
+Antigua and Barbuda,ATG,-61.846772,-61.846772,[]
+Andorra,AND,1.5218355,1.5218355,"[['スペイン'], ['フランス']]"
+Yemen,YEM,44.1910066,44.1910066,"[['オマーン'], ['サウジアラビア']]"
+United Kingdom,GBR,-0.1277583,-0.1277583,"[['アイルランド'], ['キプロス'], ['スペイン']]"
+Israel,ISR,35.21371,35.21371,"[['エジプト'], ['シリア'], ['ヨルダン'], ['レバノン']]"
+Italy,ITA,12.4963655,12.4963655,"[['オーストリア'], ['サンマリノ'], ['スイス'], ['スロベニア'], ['バチカン'], ['フランス']]"
+Iraq,IRQ,44.3614875,44.3614875,"[['イラン'], ['クウェート'], ['サウジアラビア'], ['シリア'], ['トルコ'], ['ヨルダン']]"
+Iran,IRN,51.3889736,51.3889736,"[['アゼルバイジャン'], ['アフガニスタン'], ['アルメニア'], ['イラク'], ['トルクメニスタン'], ['トルコ'], ['パキスタン']]"
+India,IND,77.2090212,77.2090212,"[['中華人民共和国'], ['バングラデシュ'], ['ブータン'], ['ネパール'], ['ミャンマー']]"
+Indonesia,IDN,106.845599,106.845599,"[['東ティモール'], ['パプアニューギニア'], ['マレーシア']]"
+Uganda,UGA,32.5825197,32.5825197,"[['ケニア'], ['コンゴ民主共和国'], ['スーダン'], ['タンザニア'], ['ルワンダ']]"
+Ukraine,UKR,30.5234,30.5234,"[['スロバキア'], ['ハンガリー'], ['ベラルーシ'], ['ポーランド'], ['モルドバ'], ['ルーマニア'], ['ロシア']]"
+Uzbekistan,UZB,69.2400734,69.2400734,"[['アフガニスタン'], ['カザフスタン'], ['キルギス'], ['タジキスタン'], ['トルクメニスタン']]"
+Uruguay,URY,-56.1645314,-56.1645314,"[['アルゼンチン'], ['ブラジル']]"
+Ecuador,ECU,-78.4678382,-78.4678382,"[['コロンビア'], ['ペルー']]"
+Egypt,EGY,31.2357116,31.2357116,"[['イスラエル'], ['スーダン'], ['リビア']]"
+Estonia,EST,24.7535747,24.7535747,"[['ラトビア'], ['ロシア']]"
+Ethiopia,ETH,38.7577605,38.7577605,"[['エリトリア'], ['ケニア'], ['ジブチ'], ['スーダン'], ['ソマリア']]"
+Eritrea,ERI,38.9250517,38.9250517,"[['エチオピア'], ['ジブチ'], ['スーダン']]"
+El Salvador,SLV,-89.2181911,-89.2181911,"[['グアテマラ'], ['ホンジュラス']]"
+Australia,AUS,149.124402,149.124402,[]
+Austria,AUT,16.3738189,16.3738189,"[['イタリア'], ['スイス'], ['スロバキア'], ['スロベニア'], ['チェコ'], ['ドイツ'], ['ハンガリー'], ['リヒテンシュタイン']]"
+Oman,OMN,58.4059227,58.4059227,"[['アラブ首長国連邦'], ['イエメン'], ['サウジアラビア']]"
+Netherlands,NLD,4.8951679,4.8951679,"[['ドイツ'], ['ベルギー']]"
+Ghana,GHA,-0.1869644,-0.1869644,"[['コートジボワール'], ['トーゴ'], ['ブルキナファソ']]"
+Cape Verde,CPV,-23.5133267,-23.5133267,[]
+Guyana,GUY,-58.1551255,-58.1551255,"[['スリナム'], ['ブラジル'], ['ベネズエラ']]"
+Kazakhstan,KAZ,71.4703558,71.4703558,"[['ウズベキスタン'], ['キルギス'], ['中華人民共和国'], ['トルクメニスタン'], ['ロシア']]"
+Qatar,QAT,51.5310398,51.5310398,"[['アラブ首長国連邦'], ['サウジアラビア']]"
+Canada,CAN,-75.6971931,-75.6971931,[['アメリカ']]
+Gabon,GAB,9.4672676,9.4672676,"[['カメルーン'], ['コンゴ共和国'], ['赤道ギニア']]"
+Cameroon,CMR,11.5020752,11.5020752,"[['ガボン'], ['コンゴ共和国'], ['赤道ギニア'], ['チャド'], ['中央アフリカ'], ['ナイジェリア']]"
+Gambia,GMB,-16.5790323,-16.5790323,[['セネガル']]
+Cambodia,KHM,104.9282099,104.9282099,"[['タイ'], ['ベトナム'], ['ラオス']]"
+Guinea,GIN,-13.5784012,-13.5784012,"[['ギニアビサウ'], ['コートジボワール'], ['シエラレオネ'], ['セネガル'], ['マリ'], ['リベリア']]"
+Guinea-Bissau,GNB,-15.6177942,-15.6177942,"[['ギニア'], ['セネガル']]"
+Cyprus,CYP,33.3822764,33.3822764,[['イギリス']]
+Cuba,CUB,-82.3665956,-82.3665956,[]
+Greece,GRC,23.7275388,23.7275388,"[['アルバニア'], ['トルコ'], ['ブルガリア'], ['マケドニア']]"
+Kiribati,KIR,172.9716617,172.9716617,[]
+Kyrgyzstan,KGZ,74.5697617,74.5697617,"[['ウズベキスタン'], ['カザフスタン'], ['タジキスタン'], ['中華人民共和国']]"
+Guatemala,GTM,-90.5068824,-90.5068824,"[['エルサルバドル'], ['ベリーズ'], ['ホンジュラス'], ['メキシコ']]"
+Kuwait,KWT,47.9774052,47.9774052,"[['イラク'], ['サウジアラビア']]"
+Georgia,GEO,44.827096,44.827096,"[['アルメニア'], ['アゼルバイジャン'], ['トルコ'], ['ロシア']]"
+Grenada,GRD,-61.7487996,-61.7487996,[]
+Croatia,HRV,15.9819189,15.9819189,"[['スロベニア'], ['セルビア'], ['ハンガリー'], ['ボスニア＝ヘルツェゴビナ']]"
+Kenya,KEN,36.8219462,36.8219462,"[['ウガンダ'], ['エチオピア'], ['スーダン'], ['ソマリア'], ['タンザニア']]"
+Côte d'Ivoire,CIV,-5.2893433,-5.2893433,"[['ガーナ'], ['ギニア'], ['ブルキナファソ'], ['マリ'], ['リベリア']]"
+Costa Rica,CRI,-84.0907246,-84.0907246,"[['ニカラグア'], ['パナマ']]"
+Kosovo,KOS,42.6629,42.6629,"[['アルバニア'], ['セルビア'], ['マケドニア'], ['モンテネグロ']]"
+Comoros,COM,43.2473146,43.2473146,[]
+Colombia,COL,-74.072092,-74.072092,"[['エクアドル'], ['パナマ'], ['ブラジル'], ['ベネズエラ'], ['ペルー']]"
+Congo,COG,15.2428853,15.2428853,"[['アンゴラ'], ['ガボン'], ['カメルーン'], ['コンゴ民主共和国'], ['中央アフリカ']]"
+Congo,COD,15.2662931,15.2662931,"[['アンゴラ'], ['ウガンダ'], ['コンゴ共和国'], ['ザンビア'], ['スーダン'], ['タンザニア'], ['中央アフリカ'], ['ブルンジ'], ['ルワンダ']]"
+Saudi Arabia,SAU,46.6752957,46.6752957,"[['アラブ首長国連邦'], ['イエメン'], ['イラク'], ['オマーン'], ['カタール'], ['クウェート'], ['ヨルダン']]"
+Samoa,WSM,-171.7513551,-171.7513551,[]
+Sao Tome and Principe,STP,6.733343,6.733343,[]
+Zambia,ZMB,28.3228165,28.3228165,"[['アンゴラ'], ['コンゴ民主共和国'], ['ジンバブエ'], ['タンザニア'], ['ナミビア'], ['ボツワナ'], ['マラウイ'], ['モザンビーク']]"
+San Marino,SMR,12.4472806,12.4472806,[['イタリア']]
+Sierra Leone,SLE,-13.2317225,-13.2317225,"[['ギニア'], ['リベリア']]"
+Djibouti,DJI,43.1456475,43.1456475,"[['エチオピア'], ['エリトリア'], ['ソマリア']]"
+Jamaica,JAM,-76.8099041,-76.8099041,[]
+Syrian Arab Republic,SYR,36.2765279,36.2765279,"[['イスラエル'], ['イラク'], ['トルコ'], ['ヨルダン'], ['レバノン']]"
+Singapore,SGP,103.867722,103.867722,[]
+Zimbabwe,ZWE,31.03351,31.03351,"[['ザンビア'], ['ボツワナ'], ['南アフリカ'], ['モザンビーク']]"
+Switzerland,CHE,7.4474468,7.4474468,"[['イタリア'], ['オーストリア'], ['ドイツ'], ['フランス'], ['リヒテンシュタイン']]"
+Sweden,SWE,18.0685808,18.0685808,"[['フィンランド'], ['ノルウェー']]"
+Sudan,SDN,32.5598994,32.5598994,"[['ウガンダ'], ['エジプト'], ['エチオピア'], ['エリトリア'], ['ケニア'], ['コンゴ民主共和国'], ['チャド'], ['中央アフリカ'], ['リビア']]"
+Spain,ESP,-3.7037902,-3.7037902,"[['アンドラ'], ['イギリス'], ['フランス'], ['ポルトガル'], ['モロッコ']]"
+Suriname,SUR,-55.2038278,-55.2038278,"[['ガイアナ'], ['フランス'], ['ブラジル']]"
+Sri Lanka,LKA,79.9187142,79.9187142,[]
+Slovakia,SVK,17.1077478,17.1077478,"[['ウクライナ'], ['オーストリア'], ['チェコ'], ['ハンガリー'], ['ポーランド']]"
+Slovenia,SVN,14.5057515,14.5057515,"[['イタリア'], ['オーストリア'], ['クロアチア'], ['ハンガリー']]"
+Swaziland,SWZ,31.1366715,31.1366715,"[['南アフリカ'], ['モザンビーク']]"
+Seychelles,SYC,55.4513149,55.4513149,[]
+Equatorial Guinea,GNQ,8.7371039,8.7371039,"[['ガボン'], ['カメルーン']]"
+Senegal,SEN,-17.4676861,-17.4676861,"[['ガンビア'], ['ギニア'], ['ギニアビサウ'], ['マリ'], ['モーリタニア']]"
+Serbia,SRB,20.4489216,20.4489216,"[['クロアチア'], ['コソボ'], ['ハンガリー'], ['ブルガリア'], ['ボスニア＝ヘルツェゴビナ'], ['マケドニア'], ['モンテネグロ'], ['ルーマニア']]"
+Saint Kitts and Nevis,KNA,-62.7176924,-62.7176924,[]
+Saint Vincent and the Grenadines,VCT,-61.2248157,-61.2248157,[]
+Saint Lucia,LCA,-60.9874687,-60.9874687,[]
+Somalia,SOM,45.3181623,45.3181623,"[['エチオピア'], ['ケニア'], ['ジブチ']]"
+Solomon Islands,SLB,159.9728999,159.9728999,[]
+Thailand,THA,100.5017651,100.5017651,"[['カンボジア'], ['マレーシア'], ['ミャンマー'], ['ラオス']]"
+Korea,KOR,126.991432,126.991432,[['朝鮮民主主義人民共和国']]
+Tajikistan,TJK,68.7870384,68.7870384,"[['アフガニスタン'], ['ウズベキスタン'], ['キルギス'], ['中華人民共和国']]"
+Tanzania,TZA,35.7516069,35.7516069,"[['ウガンダ'], ['ケニア'], ['コンゴ民主共和国'], ['ザンビア'], ['ブルンジ'], ['マラウイ'], ['モザンビーク'], ['ルワンダ']]"
+Czech Republic,CZE,14.4378005,14.4378005,"[['オーストリア'], ['スロバキア'], ['ドイツ'], ['ポーランド']]"
+Chad,TCD,15.0557415,15.0557415,"[['カメルーン'], ['スーダン'], ['中央アフリカ'], ['ナイジェリア'], ['ニジェール'], ['リビア']]"
+Central African Republic,CAF,18.5581899,18.5581899,"[['カメルーン'], ['コンゴ共和国'], ['コンゴ民主共和国'], ['スーダン'], ['チャド']]"
+China,CHN,116.4073963,116.4073963,"[['アフガニスタン'], ['インド'], ['カザフスタン'], ['キルギス'], ['タジキスタン'], ['朝鮮民主主義人民共和国'], ['ベトナム'], ['ミャンマー'], ['モンゴル'], ['ラオス'], ['ロシア']]"
+Tunisia,TUN,10.1815316,10.1815316,"[['アルジェリア'], ['リビア']]"
+"Korea, Democratic People's Republic of",PRK,125.7625241,125.7625241,"[['大韓民国'], ['中華人民共和国'], ['ロシア']]"
+Chile,CHL,-70.6692655,-70.6692655,"[['アルゼンチン'], ['ペルー'], ['ボリビア']]"
+Tuvalu,TUV,179.1961926,179.1961926,[]
+Denmark,DNK,12.5683372,12.5683372,[['ドイツ']]
+Germany,DEU,13.404954,13.404954,"[['オーストリア'], ['オランダ'], ['スイス'], ['チェコ'], ['デンマーク'], ['フランス'], ['ベルギー'], ['ポーランド'], ['ルクセンブルク']]"
+Togo,TGO,1.2313618,1.2313618,"[['ガーナ'], ['ブルキナファソ'], ['ベナン']]"
+Dominican Republic,DOM,-69.9312117,-69.9312117,[['ハイチ']]
+Dominica,DMA,-61.3793554,-61.3793554,[]
+Trinidad and Tobago,TTO,-61.5019256,-61.5019256,[]
+Turkmenistan,TKM,58.3260629,58.3260629,"[['アフガニスタン'], ['イラン'], ['ウズベキスタン'], ['カザフスタン']]"
+Turkey,TUR,32.8597419,32.8597419,"[['アルメニア'], ['イラク'], ['イラン'], ['ギリシャ'], ['グルジア'], ['シリア'], ['ブルガリア']]"
+Tonga,TON,-175.204947,-175.204947,[]
+Nigeria,NGA,7.398574,7.398574,"[['カメルーン'], ['チャド'], ['ニジェール'], ['ベナン']]"
+Nauru,NRU,166.9210913,166.9210913,[]
+Namibia,NAM,17.0657549,17.0657549,"[['アンゴラ'], ['ザンビア'], ['ボツワナ'], ['南アフリカ']]"
+Nicaragua,NIC,-86.2361744,-86.2361744,"[['コスタリカ'], ['ホンジュラス']]"
+Niger,NER,2.1253854,2.1253854,"[['アルジェリア'], ['チャド'], ['ナイジェリア'], ['ブルキナファソ'], ['ベナン'], ['マリ'], ['リビア']]"
+Japan,JPN,139.7319925,139.7319925,[]
+New Zealand,NZL,174.776236,174.776236,[]
+Nepal,NPL,85.3239605,85.3239605,"[['インド'], ['中華人民共和国']]"
+Norway,NOR,10.7522454,10.7522454,"[['スウェーデン'], ['フィンランド'], ['ロシア']]"
+Bahrain,BHR,50.5860497,50.5860497,[]
+Haiti,HTI,-72.3074326,-72.3074326,[['ドミニカ共和国']]
+Pakistan,PAK,73.0478848,73.0478848,"[['アフガニスタン'], ['インド'], ['イラン']]"
+Holy See (Vatican City State),VAT,12.453389,12.453389,[['イタリア']]
+Panama,PAN,-79.5198696,-79.5198696,"[['コスタリカ'], ['コロンビア']]"
+Vanuatu,VUT,168.3273245,168.3273245,[]
+Bahamas,BHS,-77.355413,-77.355413,[]
+Papua New Guinea,PNG,147.1802671,147.1802671,[['インドネシア']]
+Palau,PLW,134.6336896,134.6336896,[]
+Paraguay,PRY,-57.575926,-57.575926,"[['アルゼンチン'], ['ブラジル'], ['ボリビア']]"
+Barbados,BRB,-59.6144819,-59.6144819,[]
+Hungary,HUN,19.040235,19.040235,"[['ウクライナ'], ['オーストリア'], ['クロアチア'], ['スロバキア'], ['スロベニア'], ['セルビア'], ['ルーマニア']]"
+Bangladesh,BGD,90.4125181,90.4125181,"[['インド'], ['ミャンマー']]"
+Timor-Leste,TLS,125.5603143,125.5603143,[['インドネシア']]
+Fiji,FJI,178.4500789,178.4500789,[]
+Philippines,PHL,120.9842195,120.9842195,[]
+Finland,FIN,24.9383791,24.9383791,"[['スウェーデン'], ['ノルウェー'], ['ロシア']]"
+Bhutan,BTN,89.6392863,89.6392863,"[['インド'], ['中華人民共和国']]"
+Brazil,BRA,-47.882004,-47.882004,"[['アルゼンチン'], ['ウルグアイ'], ['ガイアナ'], ['コロンビア'], ['スリナム'], ['パラグアイ'], ['フランス'], ['ベネズエラ'], ['ペルー'], ['ボリビア']]"
+France,FRA,2.3522219,2.3522219,"[['アンドラ'], ['イタリア'], ['スイス'], ['スペイン'], ['ドイツ'], ['ベルギー'], ['モナコ'], ['ルクセンブルク']]"
+Bulgaria,BGR,23.3218675,23.3218675,"[['ギリシャ'], ['セルビア'], ['トルコ'], ['マケドニア'], ['ルーマニア']]"
+Burkina Faso,BFA,-1.5196603,-1.5196603,"[['ガーナ'], ['コートジボワール'], ['トーゴ'], ['ニジェール'], ['ベナン'], ['マリ']]"
+Brunei Darussalam,BRN,114.939821,114.939821,[['マレーシア']]
+Burundi,BDI,29.3598782,29.3598782,"[['コンゴ民主共和国'], ['タンザニア'], ['ルワンダ']]"
+Viet Nam,VNM,105.8341598,105.8341598,"[['カンボジア'], ['中華人民共和国'], ['ラオス']]"
+Benin,BEN,2.6288523,2.6288523,"[['トーゴ'], ['ナイジェリア'], ['ニジェール'], ['ブルキナファソ']]"
+Venezuela,VEN,-66.9036063,-66.9036063,"[['ガイアナ'], ['コロンビア'], ['ブラジル']]"
+Belarus,BLR,27.5615244,27.5615244,"[['ウクライナ'], ['ポーランド'], ['ラトビア'], ['リトアニア'], ['ロシア']]"
+Belize,BLZ,-88.7590201,-88.7590201,"[['グアテマラ'], ['メキシコ']]"
+Peru,PER,-77.042754,-77.042754,"[['エクアドル'], ['コロンビア'], ['チリ'], ['ブラジル'], ['ボリビア']]"
+Belgium,BEL,4.3517211,4.3517211,"[['オランダ'], ['ドイツ'], ['フランス'], ['ルクセンブルク']]"
+Poland,POL,21.0122287,21.0122287,"[['ウクライナ'], ['スロバキア'], ['チェコ'], ['ドイツ'], ['ベラルーシ'], ['リトアニア'], ['ロシア']]"
+Bosnia and Herzegovina,BIH,18.4130763,18.4130763,"[['クロアチア'], ['セルビア'], ['モンテネグロ']]"
+Botswana,BWA,25.9231471,25.9231471,"[['ジンバブエ'], ['ナミビア'], ['ボツワナ'], ['南アフリカ']]"
+Bolivia,BOL,-68.1192936,-68.1192936,"[['アルゼンチン'], ['チリ'], ['パラグアイ'], ['ブラジル'], ['ペルー']]"
+Portugal,PRT,-9.1393366,-9.1393366,[['スペイン']]
+Honduras,HND,-87.192136,-87.192136,"[['エルサルバドル'], ['グアテマラ'], ['ニカラグア']]"
+Marshall Islands,MHL,171.1857736,171.1857736,[]
+Macedonia,MKD,21.4279956,21.4279956,"[['アルバニア'], ['ギリシャ'], ['コソボ'], ['セルビア'], ['ブルガリア']]"
+Madagascar,MDG,47.5079055,47.5079055,[]
+Malawi,MWI,33.7741195,33.7741195,"[['ザンビア'], ['タンザニア'], ['モザンビーク']]"
+Mali,MLI,-8.0028892,-8.0028892,"[['アルジェリア'], ['ギニア'], ['コートジボワール'], ['セネガル'], ['ニジェール'], ['ブルキナファソ'], ['モーリタニア']]"
+Malta,MLT,14.5145528,14.5145528,[]
+Malaysia,MYS,101.686855,101.686855,"[['タイ'], ['ブルネイ']]"
+Micronesia,FSM,158.1610274,158.1610274,[]
+South Africa,ZAF,28.2292712,28.2292712,"[['ジンバブエ'], ['スワジランド'], ['ナミビア'], ['ボツワナ'], ['モザンビーク'], ['レソト']]"
+Myanmar,MMR,96.0785104,96.0785104,"[['インド'], ['タイ'], ['中華人民共和国'], ['バングラデシュ'], ['ラオス']]"
+Mexico,MEX,-99.133208,-99.133208,"[['アメリカ'], ['グアテマラ'], ['ベリーズ']]"
+Mauritius,MUS,57.5012222,57.5012222,[]
+Mauritania,MRT,-15.9582372,-15.9582372,"[['アルジェリア'], ['セネガル'], ['マリ']]"
+Mozambique,MOZ,32.5731746,32.5731746,"[['ザンビア'], ['ジンバブエ'], ['スワジランド'], ['タンザニア'], ['マラウイ'], ['南アフリカ']]"
+Monaco,MCO,7.420681,7.420681,"[['イタリア'], ['フランス']]"
+Maldives,MDV,73.5093474,73.5093474,[]
+Moldova,MDA,28.8638102,28.8638102,"[['ウクライナ'], ['ルーマニア']]"
+Morocco,MAR,-6.8498129,-6.8498129,"[['アルジェリア'], ['スペイン']]"
+Mongolia,MNG,106.9057439,106.9057439,"[['中華人民共和国'], ['ロシア']]"
+Montenegro,MNE,19.2593642,19.2593642,"[['アルバニア'], ['セルビア'], ['ボスニア＝ヘルツェゴビナ']]"
+Jordan,JOR,35.9283716,35.9283716,"[['イスラエル'], ['イラク'], ['サウジアラビア'], ['シリア']]"
+Lao People's Democratic Republic,LAO,102.6331035,102.6331035,"[['カンボジア'], ['タイ'], ['中華人民共和国'], ['ベトナム'], ['ミャンマー']]"
+Latvia,LVA,24.1051865,24.1051865,"[['エストニア'], ['ベラルーシ'], ['リトアニア'], ['ロシア']]"
+Lithuania,LTU,25.2796514,25.2796514,"[['ベラルーシ'], ['ポーランド'], ['ラトビア'], ['ロシア']]"
+Libya,LBY,13.1913383,13.1913383,"[['アルジェリア'], ['エジプト'], ['スーダン'], ['チャド'], ['チュニジア'], ['ニジェール']]"
+Liechtenstein,LIE,9.5209277,9.5209277,"[['オーストリア'], ['スイス']]"
+Liberia,LBR,-10.7605239,-10.7605239,"[['ギニア'], ['コートジボワール'], ['シエラレオネ']]"
+Romania,ROU,26.1025384,26.1025384,"[['ウクライナ'], ['セルビア'], ['ハンガリー'], ['ブルガリア'], ['モルドバ']]"
+Luxembourg,LUX,6.1319346,6.1319346,"[['ドイツ'], ['フランス'], ['ベルギー']]"
+Rwanda,RWA,30.1044288,30.1044288,"[['ウガンダ'], ['コンゴ民主共和国'], ['タンザニア'], ['ブルンジ']]"
+Lesotho,LSO,27.4869229,27.4869229,[['南アフリカ']]
+Lebanon,LBN,35.5017767,35.5017767,"[['イスラエル'], ['シリア'], ['ヨルダン']]"
+Russian Federation,RUS,37.6172999,37.6172999,"[['アゼルバイジャン'], ['ウクライナ'], ['エストニア'], ['カザフスタン'], ['グルジア'], ['中華人民共和国'], ['朝鮮民主主義人民共和国'], ['ノルウェー'], ['フィンランド'], ['ベラルーシ'], ['ポーランド'], ['モンゴル'], ['ラトビア'], ['リトアニア']]"
