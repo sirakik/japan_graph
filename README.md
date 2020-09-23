@@ -3,8 +3,8 @@
 ## 日本グラフによるコロナ予測
 (Japan_graph.ipynb)(https://colab.research.google.com/github/sirakik/japan_graph/blob/master/japan_graph.ipynb)
 
-都道府県をノード　　
-陸路続きをエッジ，航空路をエッジ
+都道府県をノード  
+陸路続きをエッジ, 航空路をエッジ
 
 ## 世界グラフ作ってみる
 (SEKAI_DATA.ipynb)(https://colab.research.google.com/github/sirakik/japan_graph/blob/master/SEKAI_DATA.ipynb)  
