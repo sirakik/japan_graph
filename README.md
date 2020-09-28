@@ -4,9 +4,11 @@
 [Japan_graph.ipynb](https://colab.research.google.com/github/sirakik/japan_graph/blob/master/japan_graph.ipynb)
 
 都道府県をノード  
-陸路続きをエッジ, 航空路をエッジ
+陸路続きをエッジ, 航空路をエッジ　　
+具体的なタスクが分からない
 
-## 世界グラフ作ってみる
+
+## 天地創造の前準備
 [SEKAI_DATA.ipynb](https://colab.research.google.com/github/sirakik/japan_graph/blob/master/SEKAI_DATA.ipynb)  
 
 世界グラフを作るためのデータ整理の過程  
