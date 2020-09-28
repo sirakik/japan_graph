@@ -1,0 +1,4770 @@
+﻿<?xml version="1.0" encoding="UTF-8" ?>
+<ksj:Dataset gml:id="S10bDataset"
+ xmlns:ksj="http://nlftp.mlit.go.jp/ksj/schemas/ksj-app"
+ xmlns:gml="http://www.opengis.net/gml/3.2"
+ xmlns:xlink="http://www.w3.org/1999/xlink"
+ xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance"
+ xsi:schemaLocation="http://nlftp.mlit.go.jp/ksj/schemas/ksj-app KsjAppSchema-S10b-v1_1.xsd">
+
+<ksj:BetAport gml:id="aport_1">
+  <ksj:depAport>東京</ksj:depAport>
+  <ksj:arrAport>新千歳</ksj:arrAport>
+  <ksj:distAirRt>894</ksj:distAirRt>
+  <ksj:frequency>381</ksj:frequency>
+  <ksj:numOfPass>4391501</ksj:numOfPass>
+  <ksj:pasVolume>6448411</ksj:pasVolume>
+  <ksj:numOfCargo>87472</ksj:numOfCargo>
+  <ksj:airportLine xlink:href="#cv1"/>
+</ksj:BetAport>
+<ksj:BetAport gml:id="aport_2">
+  <ksj:depAport>新千歳</ksj:depAport>
+  <ksj:arrAport>東京</ksj:arrAport>
+  <ksj:distAirRt>894</ksj:distAirRt>
+  <ksj:frequency>381</ksj:frequency>
+  <ksj:numOfPass>4447166</ksj:numOfPass>
+  <ksj:pasVolume>6447004</ksj:pasVolume>
+  <ksj:numOfCargo>93868</ksj:numOfCargo>
+  <ksj:airportLine xlink:href="#cv2"/>
+</ksj:BetAport>
+<ksj:BetAport gml:id="aport_3">
+  <ksj:depAport>東京</ksj:depAport>
+  <ksj:arrAport>大阪</ksj:arrAport>
+  <ksj:distAirRt>514</ksj:distAirRt>
+  <ksj:frequency>211</ksj:frequency>
+  <ksj:numOfPass>2581772</ksj:numOfPass>
+  <ksj:pasVolume>3953120</ksj:pasVolume>
+  <ksj:numOfCargo>44447</ksj:numOfCargo>
+  <ksj:airportLine xlink:href="#cv3"/>
+</ksj:BetAport>
+<ksj:BetAport gml:id="aport_4">
+  <ksj:depAport>大阪</ksj:depAport>
+  <ksj:arrAport>東京</ksj:arrAport>
+  <ksj:distAirRt>514</ksj:distAirRt>
+  <ksj:frequency>210</ksj:frequency>
+  <ksj:numOfPass>2627871</ksj:numOfPass>
+  <ksj:pasVolume>3949716</ksj:pasVolume>
+  <ksj:numOfCargo>36866</ksj:numOfCargo>
+  <ksj:airportLine xlink:href="#cv4"/>
+</ksj:BetAport>
+<ksj:BetAport gml:id="aport_5">
+  <ksj:depAport>東京</ksj:depAport>
+  <ksj:arrAport>関西</ksj:arrAport>
+  <ksj:distAirRt>678</ksj:distAirRt>
+  <ksj:frequency>76</ksj:frequency>
+  <ksj:numOfPass>558182</ksj:numOfPass>
+  <ksj:pasVolume>824571</ksj:pasVolume>
+  <ksj:numOfCargo>4264</ksj:numOfCargo>
+  <ksj:airportLine xlink:href="#cv5"/>
+</ksj:BetAport>
+<ksj:BetAport gml:id="aport_6">
+  <ksj:depAport>関西</ksj:depAport>
+  <ksj:arrAport>東京</ksj:arrAport>
+  <ksj:distAirRt>678</ksj:distAirRt>
+  <ksj:frequency>80</ksj:frequency>
+  <ksj:numOfPass>542994</ksj:numOfPass>
+  <ksj:pasVolume>823910</ksj:pasVolume>
+  <ksj:numOfCargo>5752</ksj:numOfCargo>
+  <ksj:airportLine xlink:href="#cv6"/>
+</ksj:BetAport>
+<ksj:BetAport gml:id="aport_7">
+  <ksj:depAport>東京</ksj:depAport>
+  <ksj:arrAport>福岡</ksj:arrAport>
+  <ksj:distAirRt>1041</ksj:distAirRt>
+  <ksj:frequency>378</ksj:frequency>
+  <ksj:numOfPass>3873435</ksj:numOfPass>
+  <ksj:pasVolume>5954034</ksj:pasVolume>
+  <ksj:numOfCargo>69043</ksj:numOfCargo>
+  <ksj:airportLine xlink:href="#cv7"/>
+</ksj:BetAport>
+<ksj:BetAport gml:id="aport_8">
+  <ksj:depAport>福岡</ksj:depAport>
+  <ksj:arrAport>東京</ksj:arrAport>
+  <ksj:distAirRt>1041</ksj:distAirRt>
+  <ksj:frequency>379</ksj:frequency>
+  <ksj:numOfPass>3918884</ksj:numOfPass>
+  <ksj:pasVolume>5955279</ksj:pasVolume>
+  <ksj:numOfCargo>84082</ksj:numOfCargo>
+  <ksj:airportLine xlink:href="#cv8"/>
+</ksj:BetAport>
+<ksj:BetAport gml:id="aport_9">
+  <ksj:depAport>東京</ksj:depAport>
+  <ksj:arrAport>那覇</ksj:arrAport>
+  <ksj:distAirRt>1687</ksj:distAirRt>
+  <ksj:frequency>195</ksj:frequency>
+  <ksj:numOfPass>2539335</ksj:numOfPass>
+  <ksj:pasVolume>3781918</ksj:pasVolume>
+  <ksj:numOfCargo>74626</ksj:numOfCargo>
+  <ksj:airportLine xlink:href="#cv9"/>
+</ksj:BetAport>
+<ksj:BetAport gml:id="aport_10">
+  <ksj:depAport>那覇</ksj:depAport>
+  <ksj:arrAport>東京</ksj:arrAport>
+  <ksj:distAirRt>1687</ksj:distAirRt>
+  <ksj:frequency>196</ksj:frequency>
+  <ksj:numOfPass>2537937</ksj:numOfPass>
+  <ksj:pasVolume>3786089</ksj:pasVolume>
+  <ksj:numOfCargo>53999</ksj:numOfCargo>
+  <ksj:airportLine xlink:href="#cv10"/>
+</ksj:BetAport>
+<ksj:BetAport gml:id="aport_11">
+  <ksj:depAport>成田</ksj:depAport>
+  <ksj:arrAport>新千歳</ksj:arrAport>
+  <ksj:distAirRt>892</ksj:distAirRt>
+  <ksj:frequency>101</ksj:frequency>
+  <ksj:numOfPass>569142</ksj:numOfPass>
+  <ksj:pasVolume>907561</ksj:pasVolume>成田
+  <ksj:numOfCargo>115</ksj:numOfCargo>
+  <ksj:airportLine xlink:href="#cv11"/>
+</ksj:BetAport>
+<ksj:BetAport gml:id="aport_12">
+  <ksj:depAport>新千歳</ksj:depAport>
+  <ksj:arrAport>成田</ksj:arrAport>
+  <ksj:distAirRt>892</ksj:distAirRt>
+  <ksj:frequency>101</ksj:frequency>
+  <ksj:numOfPass>584625</ksj:numOfPass>
+  <ksj:pasVolume>915910</ksj:pasVolume>
+  <ksj:numOfCargo>106</ksj:numOfCargo>
+  <ksj:airportLine xlink:href="#cv12"/>
+</ksj:BetAport>
+<ksj:BetAport gml:id="aport_13">
+  <ksj:depAport>成田</ksj:depAport>
+  <ksj:arrAport>大阪</ksj:arrAport>
+  <ksj:distAirRt>589</ksj:distAirRt>
+  <ksj:frequency>27</ksj:frequency>
+  <ksj:numOfPass>226531</ksj:numOfPass>
+  <ksj:pasVolume>297578</ksj:pasVolume>
+  <ksj:numOfCargo>1058</ksj:numOfCargo>
+  <ksj:airportLine xlink:href="#cv13"/>
+</ksj:BetAport>
+<ksj:BetAport gml:id="aport_14">
+  <ksj:depAport>大阪</ksj:depAport>
+  <ksj:arrAport>成田</ksj:arrAport>
+  <ksj:distAirRt>589</ksj:distAirRt>
+  <ksj:frequency>27</ksj:frequency>
+  <ksj:numOfPass>251316</ksj:numOfPass>
+  <ksj:pasVolume>301004</ksj:pasVolume>
+  <ksj:numOfCargo>1781</ksj:numOfCargo>
+  <ksj:airportLine xlink:href="#cv14"/>
+</ksj:BetAport>
+<ksj:BetAport gml:id="aport_15">
+  <ksj:depAport>成田</ksj:depAport>
+  <ksj:arrAport>関西</ksj:arrAport>
+  <ksj:distAirRt>752</ksj:distAirRt>
+  <ksj:frequency>21</ksj:frequency>
+  <ksj:numOfPass>145516</ksj:numOfPass>
+  <ksj:pasVolume>205020</ksj:pasVolume>
+  <ksj:numOfCargo>1</ksj:numOfCargo>
+  <ksj:airportLine xlink:href="#cv15"/>
+</ksj:BetAport>
+<ksj:BetAport gml:id="aport_16">
+  <ksj:depAport>関西</ksj:depAport>
+  <ksj:arrAport>成田</ksj:arrAport>
+  <ksj:distAirRt>752</ksj:distAirRt>
+  <ksj:frequency>22</ksj:frequency>
+  <ksj:numOfPass>159711</ksj:numOfPass>
+  <ksj:pasVolume>205920</ksj:pasVolume>
+  <ksj:numOfCargo>26</ksj:numOfCargo>
+  <ksj:airportLine xlink:href="#cv16"/>
+</ksj:BetAport>
+<ksj:BetAport gml:id="aport_17">
+  <ksj:depAport>成田</ksj:depAport>
+  <ksj:arrAport>福岡</ksj:arrAport>
+  <ksj:distAirRt>1107</ksj:distAirRt>
+  <ksj:frequency>96</ksj:frequency>
+  <ksj:numOfPass>478272</ksj:numOfPass>
+  <ksj:pasVolume>846536</ksj:pasVolume>
+  <ksj:numOfCargo>128</ksj:numOfCargo>
+  <ksj:airportLine xlink:href="#cv17"/>
+</ksj:BetAport>
+<ksj:BetAport gml:id="aport_18">
+  <ksj:depAport>福岡</ksj:depAport>
+  <ksj:arrAport>成田</ksj:arrAport>
+  <ksj:distAirRt>1107</ksj:distAirRt>
+  <ksj:frequency>96</ksj:frequency>
+  <ksj:numOfPass>503176</ksj:numOfPass>
+  <ksj:pasVolume>841011</ksj:pasVolume>
+  <ksj:numOfCargo>71</ksj:numOfCargo>
+  <ksj:airportLine xlink:href="#cv18"/>
+</ksj:BetAport>
+<ksj:BetAport gml:id="aport_19">
+  <ksj:depAport>成田</ksj:depAport>
+  <ksj:arrAport>那覇</ksj:arrAport>
+  <ksj:distAirRt>1887</ksj:distAirRt>
+  <ksj:frequency>56</ksj:frequency>
+  <ksj:numOfPass>339888</ksj:numOfPass>
+  <ksj:pasVolume>514787</ksj:pasVolume>
+  <ksj:numOfCargo>6387</ksj:numOfCargo>
+  <ksj:airportLine xlink:href="#cv19"/>
+</ksj:BetAport>
+<ksj:BetAport gml:id="aport_20">
+  <ksj:depAport>那覇</ksj:depAport>
+  <ksj:arrAport>成田</ksj:arrAport>
+  <ksj:distAirRt>1887</ksj:distAirRt>
+  <ksj:frequency>56</ksj:frequency>
+  <ksj:numOfPass>344763</ksj:numOfPass>
+  <ksj:pasVolume>522237</ksj:pasVolume>
+  <ksj:numOfCargo>6248</ksj:numOfCargo>
+  <ksj:airportLine xlink:href="#cv20"/>
+</ksj:BetAport>
+<ksj:BetAport gml:id="aport_21">
+  <ksj:depAport>大阪</ksj:depAport>
+  <ksj:arrAport>新千歳</ksj:arrAport>
+  <ksj:distAirRt>1161</ksj:distAirRt>
+  <ksj:frequency>27</ksj:frequency>
+  <ksj:numOfPass>258234</ksj:numOfPass>
+  <ksj:pasVolume>332313</ksj:pasVolume>
+  <ksj:numOfCargo>4649</ksj:numOfCargo>
+  <ksj:airportLine xlink:href="#cv21"/>
+</ksj:BetAport>
+<ksj:BetAport gml:id="aport_22">
+  <ksj:depAport>新千歳</ksj:depAport>
+  <ksj:arrAport>大阪</ksj:arrAport>
+  <ksj:distAirRt>1161</ksj:distAirRt>
+  <ksj:frequency>26</ksj:frequency>
+  <ksj:numOfPass>259454</ksj:numOfPass>
+  <ksj:pasVolume>331349</ksj:pasVolume>
+  <ksj:numOfCargo>5279</ksj:numOfCargo>
+  <ksj:airportLine xlink:href="#cv22"/>
+</ksj:BetAport>
+<ksj:BetAport gml:id="aport_23">
+  <ksj:depAport>大阪</ksj:depAport>
+  <ksj:arrAport>福岡</ksj:arrAport>
+  <ksj:distAirRt>578</ksj:distAirRt>
+  <ksj:frequency>103</ksj:frequency>
+  <ksj:numOfPass>328333</ksj:numOfPass>
+  <ksj:pasVolume>594397</ksj:pasVolume>
+  <ksj:numOfCargo>1749</ksj:numOfCargo>
+  <ksj:airportLine xlink:href="#cv23"/>
+</ksj:BetAport>
+<ksj:BetAport gml:id="aport_24">
+  <ksj:depAport>福岡</ksj:depAport>
+  <ksj:arrAport>大阪</ksj:arrAport>
+  <ksj:distAirRt>578</ksj:distAirRt>
+  <ksj:frequency>102</ksj:frequency>
+  <ksj:numOfPass>325330</ksj:numOfPass>
+  <ksj:pasVolume>592433</ksj:pasVolume>
+  <ksj:numOfCargo>2319</ksj:numOfCargo>
+  <ksj:airportLine xlink:href="#cv24"/>
+</ksj:BetAport>
+<ksj:BetAport gml:id="aport_25">
+  <ksj:depAport>大阪</ksj:depAport>
+  <ksj:arrAport>那覇</ksj:arrAport>
+  <ksj:distAirRt>1304</ksj:distAirRt>
+  <ksj:frequency>23</ksj:frequency>
+  <ksj:numOfPass>343831</ksj:numOfPass>
+  <ksj:pasVolume>448732</ksj:pasVolume>
+  <ksj:numOfCargo>10357</ksj:numOfCargo>
+  <ksj:airportLine xlink:href="#cv25"/>
+</ksj:BetAport>
+<ksj:BetAport gml:id="aport_26">
+  <ksj:depAport>那覇</ksj:depAport>
+  <ksj:arrAport>大阪</ksj:arrAport>
+  <ksj:distAirRt>1304</ksj:distAirRt>
+  <ksj:frequency>23</ksj:frequency>
+  <ksj:numOfPass>339115</ksj:numOfPass>
+  <ksj:pasVolume>448198</ksj:pasVolume>
+  <ksj:numOfCargo>8097</ksj:numOfCargo>
+  <ksj:airportLine xlink:href="#cv26"/>
+</ksj:BetAport>
+<ksj:BetAport gml:id="aport_27">
+  <ksj:depAport>関西</ksj:depAport>
+  <ksj:arrAport>新千歳</ksj:arrAport>
+  <ksj:distAirRt>1309</ksj:distAirRt>
+  <ksj:frequency>107</ksj:frequency>
+  <ksj:numOfPass>746403</ksj:numOfPass>
+  <ksj:pasVolume>1007661</ksj:pasVolume>
+  <ksj:numOfCargo>3007</ksj:numOfCargo>
+  <ksj:airportLine xlink:href="#cv27"/>
+</ksj:BetAport>
+<ksj:BetAport gml:id="aport_28">
+  <ksj:depAport>新千歳</ksj:depAport>
+  <ksj:arrAport>関西</ksj:arrAport>
+  <ksj:distAirRt>1309</ksj:distAirRt>
+  <ksj:frequency>108</ksj:frequency>
+  <ksj:numOfPass>751197</ksj:numOfPass>
+  <ksj:pasVolume>1009928</ksj:pasVolume>
+  <ksj:numOfCargo>2891</ksj:numOfCargo>
+  <ksj:airportLine xlink:href="#cv28"/>
+</ksj:BetAport>
+<ksj:BetAport gml:id="aport_29">
+  <ksj:depAport>関西</ksj:depAport>
+  <ksj:arrAport>福岡</ksj:arrAport>
+  <ksj:distAirRt>553</ksj:distAirRt>
+  <ksj:frequency>51</ksj:frequency>
+  <ksj:numOfPass>324425</ksj:numOfPass>
+  <ksj:pasVolume>445621</ksj:pasVolume>
+  <ksj:numOfCargo>287</ksj:numOfCargo>
+  <ksj:airportLine xlink:href="#cv29"/>
+</ksj:BetAport>
+<ksj:BetAport gml:id="aport_30">
+  <ksj:depAport>福岡</ksj:depAport>
+  <ksj:arrAport>関西</ksj:arrAport>
+  <ksj:distAirRt>553</ksj:distAirRt>
+  <ksj:frequency>51</ksj:frequency>
+  <ksj:numOfPass>325152</ksj:numOfPass>
+  <ksj:pasVolume>446522</ksj:pasVolume>
+  <ksj:numOfCargo>11</ksj:numOfCargo>
+  <ksj:airportLine xlink:href="#cv30"/>
+</ksj:BetAport>
+<ksj:BetAport gml:id="aport_31">
+  <ksj:depAport>関西</ksj:depAport>
+  <ksj:arrAport>那覇</ksj:arrAport>
+  <ksj:distAirRt>1261</ksj:distAirRt>
+  <ksj:frequency>93</ksj:frequency>
+  <ksj:numOfPass>594269</ksj:numOfPass>
+  <ksj:pasVolume>806382</ksj:pasVolume>
+  <ksj:numOfCargo>15006</ksj:numOfCargo>
+  <ksj:airportLine xlink:href="#cv31"/>
+</ksj:BetAport>
+<ksj:BetAport gml:id="aport_32">
+  <ksj:depAport>那覇</ksj:depAport>
+  <ksj:arrAport>関西</ksj:arrAport>
+  <ksj:distAirRt>1261</ksj:distAirRt>
+  <ksj:frequency>94</ksj:frequency>
+  <ksj:numOfPass>599143</ksj:numOfPass>
+  <ksj:pasVolume>804447</ksj:pasVolume>
+  <ksj:numOfCargo>13626</ksj:numOfCargo>
+  <ksj:airportLine xlink:href="#cv32"/>
+</ksj:BetAport>
+<ksj:BetAport gml:id="aport_33">
+  <ksj:depAport>福岡</ksj:depAport>
+  <ksj:arrAport>新千歳</ksj:arrAport>
+  <ksj:distAirRt>1614</ksj:distAirRt>
+  <ksj:frequency>27</ksj:frequency>
+  <ksj:numOfPass>235325</ksj:numOfPass>
+  <ksj:pasVolume>368327</ksj:pasVolume>
+  <ksj:numOfCargo>4921</ksj:numOfCargo>
+  <ksj:airportLine xlink:href="#cv33"/>
+</ksj:BetAport>
+<ksj:BetAport gml:id="aport_34">
+  <ksj:depAport>新千歳</ksj:depAport>
+  <ksj:arrAport>福岡</ksj:arrAport>
+  <ksj:distAirRt>1614</ksj:distAirRt>
+  <ksj:frequency>27</ksj:frequency>
+  <ksj:numOfPass>239403</ksj:numOfPass>
+  <ksj:pasVolume>366903</ksj:pasVolume>
+  <ksj:numOfCargo>4286</ksj:numOfCargo>
+  <ksj:airportLine xlink:href="#cv34"/>
+</ksj:BetAport>
+<ksj:BetAport gml:id="aport_35">
+  <ksj:depAport>福岡</ksj:depAport>
+  <ksj:arrAport>那覇</ksj:arrAport>
+  <ksj:distAirRt>1008</ksj:distAirRt>
+  <ksj:frequency>116</ksj:frequency>
+  <ksj:numOfPass>750156</ksj:numOfPass>
+  <ksj:pasVolume>1114195</ksj:pasVolume>
+  <ksj:numOfCargo>13217</ksj:numOfCargo>
+  <ksj:airportLine xlink:href="#cv35"/>
+</ksj:BetAport>
+<ksj:BetAport gml:id="aport_36">
+  <ksj:depAport>那覇</ksj:depAport>
+  <ksj:arrAport>福岡</ksj:arrAport>
+  <ksj:distAirRt>1008</ksj:distAirRt>
+  <ksj:frequency>116</ksj:frequency>
+  <ksj:numOfPass>751137</ksj:numOfPass>
+  <ksj:pasVolume>1115959</ksj:pasVolume>
+  <ksj:numOfCargo>7703</ksj:numOfCargo>
+  <ksj:airportLine xlink:href="#cv36"/>
+</ksj:BetAport>
+<ksj:BetAport gml:id="aport_37">
+  <ksj:depAport>新千歳</ksj:depAport>
+  <ksj:arrAport>那覇</ksj:arrAport>
+  <ksj:distAirRt>2418</ksj:distAirRt>
+  <ksj:frequency>6</ksj:frequency>
+  <ksj:numOfPass>42243</ksj:numOfPass>
+  <ksj:pasVolume>64074</ksj:pasVolume>
+  <ksj:numOfCargo>23</ksj:numOfCargo>
+  <ksj:airportLine xlink:href="#cv37"/>
+</ksj:BetAport>
+<ksj:BetAport gml:id="aport_38">
+  <ksj:depAport>那覇</ksj:depAport>
+  <ksj:arrAport>新千歳</ksj:arrAport>
+  <ksj:distAirRt>2418</ksj:distAirRt>
+  <ksj:frequency>6</ksj:frequency>
+  <ksj:numOfPass>42159</ksj:numOfPass>
+  <ksj:pasVolume>63389</ksj:pasVolume>
+  <ksj:numOfCargo>95</ksj:numOfCargo>
+  <ksj:airportLine xlink:href="#cv38"/>
+</ksj:BetAport>
+<ksj:BetAport gml:id="aport_39">
+  <ksj:depAport>東京</ksj:depAport>
+  <ksj:arrAport>稚内</ksj:arrAport>
+  <ksj:distAirRt>1195</ksj:distAirRt>
+  <ksj:frequency>8</ksj:frequency>
+  <ksj:numOfPass>61172</ksj:numOfPass>
+  <ksj:pasVolume>94799</ksj:pasVolume>
+  <ksj:numOfCargo>4</ksj:numOfCargo>
+  <ksj:airportLine xlink:href="#cv39"/>
+</ksj:BetAport>
+<ksj:BetAport gml:id="aport_40">
+  <ksj:depAport>稚内</ksj:depAport>
+  <ksj:arrAport>東京</ksj:arrAport>
+  <ksj:distAirRt>1195</ksj:distAirRt>
+  <ksj:frequency>8</ksj:frequency>
+  <ksj:numOfPass>57005</ksj:numOfPass>
+  <ksj:pasVolume>94630</ksj:pasVolume>
+  <ksj:numOfCargo>169</ksj:numOfCargo>
+  <ksj:airportLine xlink:href="#cv40"/>
+</ksj:BetAport>
+<ksj:BetAport gml:id="aport_41">
+  <ksj:depAport>東京</ksj:depAport>
+  <ksj:arrAport>釧路</ksj:arrAport>
+  <ksj:distAirRt>1032</ksj:distAirRt>
+  <ksj:frequency>44</ksj:frequency>
+  <ksj:numOfPass>232398</ksj:numOfPass>
+  <ksj:pasVolume>369849</ksj:pasVolume>
+  <ksj:numOfCargo>557</ksj:numOfCargo>
+  <ksj:airportLine xlink:href="#cv41"/>
+</ksj:BetAport>
+<ksj:BetAport gml:id="aport_42">
+  <ksj:depAport>釧路</ksj:depAport>
+  <ksj:arrAport>東京</ksj:arrAport>
+  <ksj:distAirRt>1032</ksj:distAirRt>
+  <ksj:frequency>43</ksj:frequency>
+  <ksj:numOfPass>233196</ksj:numOfPass>
+  <ksj:pasVolume>368746</ksj:pasVolume>
+  <ksj:numOfCargo>2123</ksj:numOfCargo>
+  <ksj:airportLine xlink:href="#cv42"/>
+</ksj:BetAport>
+<ksj:BetAport gml:id="aport_43">
+  <ksj:depAport>東京</ksj:depAport>
+  <ksj:arrAport>函館</ksj:arrAport>
+  <ksj:distAirRt>786</ksj:distAirRt>
+  <ksj:frequency>52</ksj:frequency>
+  <ksj:numOfPass>548817</ksj:numOfPass>
+  <ksj:pasVolume>802586</ksj:pasVolume>
+  <ksj:numOfCargo>2831</ksj:numOfCargo>
+  <ksj:airportLine xlink:href="#cv43"/>
+</ksj:BetAport>
+<ksj:BetAport gml:id="aport_44">
+  <ksj:depAport>函館</ksj:depAport>
+  <ksj:arrAport>東京</ksj:arrAport>
+  <ksj:distAirRt>786</ksj:distAirRt>
+  <ksj:frequency>52</ksj:frequency>
+  <ksj:numOfPass>530709</ksj:numOfPass>
+  <ksj:pasVolume>801348</ksj:pasVolume>
+  <ksj:numOfCargo>5363</ksj:numOfCargo>
+  <ksj:airportLine xlink:href="#cv44"/>
+</ksj:BetAport>
+<ksj:BetAport gml:id="aport_45">
+  <ksj:depAport>東京</ksj:depAport>
+  <ksj:arrAport>旭川</ksj:arrAport>
+  <ksj:distAirRt>1052</ksj:distAirRt>
+  <ksj:frequency>52</ksj:frequency>
+  <ksj:numOfPass>400764</ksj:numOfPass>
+  <ksj:pasVolume>560518</ksj:pasVolume>
+  <ksj:numOfCargo>1578</ksj:numOfCargo>
+  <ksj:airportLine xlink:href="#cv45"/>
+</ksj:BetAport>
+<ksj:BetAport gml:id="aport_46">
+  <ksj:depAport>旭川</ksj:depAport>
+  <ksj:arrAport>東京</ksj:arrAport>
+  <ksj:distAirRt>1052</ksj:distAirRt>
+  <ksj:frequency>52</ksj:frequency>
+  <ksj:numOfPass>375452</ksj:numOfPass>
+  <ksj:pasVolume>560338</ksj:pasVolume>
+  <ksj:numOfCargo>2702</ksj:numOfCargo>
+  <ksj:airportLine xlink:href="#cv46"/>
+</ksj:BetAport>
+<ksj:BetAport gml:id="aport_47">
+  <ksj:depAport>東京</ksj:depAport>
+  <ksj:arrAport>帯広</ksj:arrAport>
+  <ksj:distAirRt>999</ksj:distAirRt>
+  <ksj:frequency>48</ksj:frequency>
+  <ksj:numOfPass>262452</ksj:numOfPass>
+  <ksj:pasVolume>391583</ksj:pasVolume>
+  <ksj:numOfCargo>1212</ksj:numOfCargo>
+  <ksj:airportLine xlink:href="#cv47"/>
+</ksj:BetAport>
+<ksj:BetAport gml:id="aport_48">
+  <ksj:depAport>帯広</ksj:depAport>
+  <ksj:arrAport>東京</ksj:arrAport>
+  <ksj:distAirRt>999</ksj:distAirRt>
+  <ksj:frequency>48</ksj:frequency>
+  <ksj:numOfPass>252205</ksj:numOfPass>
+  <ksj:pasVolume>391418</ksj:pasVolume>
+  <ksj:numOfCargo>757</ksj:numOfCargo>
+  <ksj:airportLine xlink:href="#cv48"/>
+</ksj:BetAport>
+<ksj:BetAport gml:id="aport_49">
+  <ksj:depAport>東京</ksj:depAport>
+  <ksj:arrAport>中標津</ksj:arrAport>
+  <ksj:distAirRt>1118</ksj:distAirRt>
+  <ksj:frequency>6</ksj:frequency>
+  <ksj:numOfPass>44776</ksj:numOfPass>
+  <ksj:pasVolume>72207</ksj:pasVolume>
+  <ksj:numOfCargo>19</ksj:numOfCargo>
+  <ksj:airportLine xlink:href="#cv49"/>
+</ksj:BetAport>
+<ksj:BetAport gml:id="aport_50">
+  <ksj:depAport>中標津</ksj:depAport>
+  <ksj:arrAport>東京</ksj:arrAport>
+  <ksj:distAirRt>1118</ksj:distAirRt>
+  <ksj:frequency>6</ksj:frequency>
+  <ksj:numOfPass>39733</ksj:numOfPass>
+  <ksj:pasVolume>72040</ksj:pasVolume>
+  <ksj:numOfCargo>568</ksj:numOfCargo>
+  <ksj:airportLine xlink:href="#cv50"/>
+</ksj:BetAport>
+<ksj:BetAport gml:id="aport_51">
+  <ksj:depAport>東京</ksj:depAport>
+  <ksj:arrAport>女満別</ksj:arrAport>
+  <ksj:distAirRt>1156</ksj:distAirRt>
+  <ksj:frequency>34</ksj:frequency>
+  <ksj:numOfPass>216548</ksj:numOfPass>
+  <ksj:pasVolume>320111</ksj:pasVolume>
+  <ksj:numOfCargo>493</ksj:numOfCargo>
+  <ksj:airportLine xlink:href="#cv51"/>
+</ksj:BetAport>
+<ksj:BetAport gml:id="aport_52">
+  <ksj:depAport>女満別</ksj:depAport>
+  <ksj:arrAport>東京</ksj:arrAport>
+  <ksj:distAirRt>1156</ksj:distAirRt>
+  <ksj:frequency>34</ksj:frequency>
+  <ksj:numOfPass>214170</ksj:numOfPass>
+  <ksj:pasVolume>320090</ksj:pasVolume>
+  <ksj:numOfCargo>1683</ksj:numOfCargo>
+  <ksj:airportLine xlink:href="#cv52"/>
+</ksj:BetAport>
+<ksj:BetAport gml:id="aport_53">
+  <ksj:depAport>東京</ksj:depAport>
+  <ksj:arrAport>紋別</ksj:arrAport>
+  <ksj:distAirRt>1233</ksj:distAirRt>
+  <ksj:frequency>5</ksj:frequency>
+  <ksj:numOfPass>25649</ksj:numOfPass>
+  <ksj:pasVolume>44597</ksj:pasVolume>
+  <ksj:airportLine xlink:href="#cv53"/>
+</ksj:BetAport>
+<ksj:BetAport gml:id="aport_54">
+  <ksj:depAport>紋別</ksj:depAport>
+  <ksj:arrAport>東京</ksj:arrAport>
+  <ksj:distAirRt>1233</ksj:distAirRt>
+  <ksj:frequency>5</ksj:frequency>
+  <ksj:numOfPass>20361</ksj:numOfPass>
+  <ksj:pasVolume>44258</ksj:pasVolume>
+  <ksj:airportLine xlink:href="#cv54"/>
+</ksj:BetAport>
+<ksj:BetAport gml:id="aport_55">
+  <ksj:depAport>東京</ksj:depAport>
+  <ksj:arrAport>青森</ksj:arrAport>
+  <ksj:distAirRt>690</ksj:distAirRt>
+  <ksj:frequency>41</ksj:frequency>
+  <ksj:numOfPass>253341</ksj:numOfPass>
+  <ksj:pasVolume>414049</ksj:pasVolume>
+  <ksj:numOfCargo>1283</ksj:numOfCargo>
+  <ksj:airportLine xlink:href="#cv55"/>
+</ksj:BetAport>
+<ksj:BetAport gml:id="aport_56">
+  <ksj:depAport>青森</ksj:depAport>
+  <ksj:arrAport>東京</ksj:arrAport>
+  <ksj:distAirRt>690</ksj:distAirRt>
+  <ksj:frequency>41</ksj:frequency>
+  <ksj:numOfPass>246389</ksj:numOfPass>
+  <ksj:pasVolume>413362</ksj:pasVolume>
+  <ksj:numOfCargo>913</ksj:numOfCargo>
+  <ksj:airportLine xlink:href="#cv56"/>
+</ksj:BetAport>
+<ksj:BetAport gml:id="aport_57">
+  <ksj:depAport>東京</ksj:depAport>
+  <ksj:arrAport>三沢</ksj:arrAport>
+  <ksj:distAirRt>685</ksj:distAirRt>
+  <ksj:frequency>20</ksj:frequency>
+  <ksj:numOfPass>100620</ksj:numOfPass>
+  <ksj:pasVolume>177267</ksj:pasVolume>
+  <ksj:numOfCargo>259</ksj:numOfCargo>
+  <ksj:airportLine xlink:href="#cv57"/>
+</ksj:BetAport>
+<ksj:BetAport gml:id="aport_58">
+  <ksj:depAport>三沢</ksj:depAport>
+  <ksj:arrAport>東京</ksj:arrAport>
+  <ksj:distAirRt>685</ksj:distAirRt>
+  <ksj:frequency>20</ksj:frequency>
+  <ksj:numOfPass>103634</ksj:numOfPass>
+  <ksj:pasVolume>177102</ksj:pasVolume>
+  <ksj:numOfCargo>187</ksj:numOfCargo>
+  <ksj:airportLine xlink:href="#cv58"/>
+</ksj:BetAport>
+<ksj:BetAport gml:id="aport_59">
+  <ksj:depAport>東京</ksj:depAport>
+  <ksj:arrAport>秋田</ksj:arrAport>
+  <ksj:distAirRt>555</ksj:distAirRt>
+  <ksj:frequency>62</ksj:frequency>
+  <ksj:numOfPass>388368</ksj:numOfPass>
+  <ksj:pasVolume>697706</ksj:pasVolume>
+  <ksj:numOfCargo>1007</ksj:numOfCargo>
+  <ksj:airportLine xlink:href="#cv59"/>
+</ksj:BetAport>
+<ksj:BetAport gml:id="aport_60">
+  <ksj:depAport>秋田</ksj:depAport>
+  <ksj:arrAport>東京</ksj:arrAport>
+  <ksj:distAirRt>555</ksj:distAirRt>
+  <ksj:frequency>62</ksj:frequency>
+  <ksj:numOfPass>381983</ksj:numOfPass>
+  <ksj:pasVolume>697653</ksj:pasVolume>
+  <ksj:numOfCargo>1088</ksj:numOfCargo>
+  <ksj:airportLine xlink:href="#cv60"/>
+</ksj:BetAport>
+<ksj:BetAport gml:id="aport_61">
+  <ksj:depAport>東京</ksj:depAport>
+  <ksj:arrAport>大館</ksj:arrAport>
+  <ksj:distAirRt>628</ksj:distAirRt>
+  <ksj:frequency>13</ksj:frequency>
+  <ksj:numOfPass>51871</ksj:numOfPass>
+  <ksj:pasVolume>117782</ksj:pasVolume>
+  <ksj:numOfCargo>40</ksj:numOfCargo>
+  <ksj:airportLine xlink:href="#cv61"/>
+</ksj:BetAport>
+<ksj:BetAport gml:id="aport_62">
+  <ksj:depAport>大館</ksj:depAport>
+  <ksj:arrAport>東京</ksj:arrAport>
+  <ksj:distAirRt>628</ksj:distAirRt>
+  <ksj:frequency>13</ksj:frequency>
+  <ksj:numOfPass>51311</ksj:numOfPass>
+  <ksj:pasVolume>117609</ksj:pasVolume>
+  <ksj:numOfCargo>7</ksj:numOfCargo>
+  <ksj:airportLine xlink:href="#cv62"/>
+</ksj:BetAport>
+<ksj:BetAport gml:id="aport_63">
+  <ksj:depAport>東京</ksj:depAport>
+  <ksj:arrAport>山形</ksj:arrAport>
+  <ksj:distAirRt>441</ksj:distAirRt>
+  <ksj:frequency>6</ksj:frequency>
+  <ksj:numOfPass>13964</ksj:numOfPass>
+  <ksj:pasVolume>25302</ksj:pasVolume>
+  <ksj:airportLine xlink:href="#cv63"/>
+</ksj:BetAport>
+<ksj:BetAport gml:id="aport_64">
+  <ksj:depAport>山形</ksj:depAport>
+  <ksj:arrAport>東京</ksj:arrAport>
+  <ksj:distAirRt>441</ksj:distAirRt>
+  <ksj:frequency>6</ksj:frequency>
+  <ksj:numOfPass>13322</ksj:numOfPass>
+  <ksj:pasVolume>25150</ksj:pasVolume>
+  <ksj:airportLine xlink:href="#cv64"/>
+</ksj:BetAport>
+<ksj:BetAport gml:id="aport_65">
+  <ksj:depAport>東京</ksj:depAport>
+  <ksj:arrAport>庄内</ksj:arrAport>
+  <ksj:distAirRt>489</ksj:distAirRt>
+  <ksj:frequency>27</ksj:frequency>
+  <ksj:numOfPass>165753</ksj:numOfPass>
+  <ksj:pasVolume>286992</ksj:pasVolume>
+  <ksj:numOfCargo>272</ksj:numOfCargo>
+  <ksj:airportLine xlink:href="#cv65"/>
+</ksj:BetAport>
+<ksj:BetAport gml:id="aport_66">
+  <ksj:depAport>庄内</ksj:depAport>
+  <ksj:arrAport>東京</ksj:arrAport>
+  <ksj:distAirRt>489</ksj:distAirRt>
+  <ksj:frequency>27</ksj:frequency>
+  <ksj:numOfPass>167972</ksj:numOfPass>
+  <ksj:pasVolume>286832</ksj:pasVolume>
+  <ksj:numOfCargo>408</ksj:numOfCargo>
+  <ksj:airportLine xlink:href="#cv66"/>
+</ksj:BetAport>
+<ksj:BetAport gml:id="aport_67">
+  <ksj:depAport>東京</ksj:depAport>
+  <ksj:arrAport>大島</ksj:arrAport>
+  <ksj:distAirRt>162</ksj:distAirRt>
+  <ksj:frequency>6</ksj:frequency>
+  <ksj:numOfPass>5516</ksj:numOfPass>
+  <ksj:pasVolume>17528</ksj:pasVolume>
+  <ksj:numOfCargo>4</ksj:numOfCargo>
+  <ksj:airportLine xlink:href="#cv67"/>
+</ksj:BetAport>
+<ksj:BetAport gml:id="aport_68">
+  <ksj:depAport>大島</ksj:depAport>
+  <ksj:arrAport>東京</ksj:arrAport>
+  <ksj:distAirRt>162</ksj:distAirRt>
+  <ksj:frequency>6</ksj:frequency>
+  <ksj:numOfPass>4566</ksj:numOfPass>
+  <ksj:pasVolume>17528</ksj:pasVolume>
+  <ksj:numOfCargo>2</ksj:numOfCargo>
+  <ksj:airportLine xlink:href="#cv68"/>
+</ksj:BetAport>
+<ksj:BetAport gml:id="aport_69">
+  <ksj:depAport>東京</ksj:depAport>
+  <ksj:arrAport>三宅島</ksj:arrAport>
+  <ksj:distAirRt>227</ksj:distAirRt>
+  <ksj:frequency>2</ksj:frequency>
+  <ksj:numOfPass>796</ksj:numOfPass>
+  <ksj:pasVolume>7056</ksj:pasVolume>
+  <ksj:airportLine xlink:href="#cv69"/>
+</ksj:BetAport>
+<ksj:BetAport gml:id="aport_70">
+  <ksj:depAport>三宅島</ksj:depAport>
+  <ksj:arrAport>東京</ksj:arrAport>
+  <ksj:distAirRt>227</ksj:distAirRt>
+  <ksj:frequency>2</ksj:frequency>
+  <ksj:numOfPass>4374</ksj:numOfPass>
+  <ksj:pasVolume>7055</ksj:pasVolume>
+  <ksj:airportLine xlink:href="#cv70"/>
+</ksj:BetAport>
+<ksj:BetAport gml:id="aport_71">
+  <ksj:depAport>東京</ksj:depAport>
+  <ksj:arrAport>八丈島</ksj:arrAport>
+  <ksj:distAirRt>353</ksj:distAirRt>
+  <ksj:frequency>19</ksj:frequency>
+  <ksj:numOfPass>89286</ksj:numOfPass>
+  <ksj:pasVolume>170931</ksj:pasVolume>
+  <ksj:numOfCargo>328</ksj:numOfCargo>
+  <ksj:airportLine xlink:href="#cv71"/>
+</ksj:BetAport>
+<ksj:BetAport gml:id="aport_72">
+  <ksj:depAport>八丈島</ksj:depAport>
+  <ksj:arrAport>東京</ksj:arrAport>
+  <ksj:distAirRt>353</ksj:distAirRt>
+  <ksj:frequency>19</ksj:frequency>
+  <ksj:numOfPass>95893</ksj:numOfPass>
+  <ksj:pasVolume>170760</ksj:pasVolume>
+  <ksj:numOfCargo>897</ksj:numOfCargo>
+  <ksj:airportLine xlink:href="#cv72"/>
+</ksj:BetAport>
+<ksj:BetAport gml:id="aport_73">
+  <ksj:depAport>東京</ksj:depAport>
+  <ksj:arrAport>富山</ksj:arrAport>
+  <ksj:distAirRt>570</ksj:distAirRt>
+  <ksj:frequency>41</ksj:frequency>
+  <ksj:numOfPass>386750</ksj:numOfPass>
+  <ksj:pasVolume>602060</ksj:pasVolume>
+  <ksj:numOfCargo>631</ksj:numOfCargo>
+  <ksj:airportLine xlink:href="#cv73"/>
+</ksj:BetAport>
+<ksj:BetAport gml:id="aport_74">
+  <ksj:depAport>富山</ksj:depAport>
+  <ksj:arrAport>東京</ksj:arrAport>
+  <ksj:distAirRt>570</ksj:distAirRt>
+  <ksj:frequency>41</ksj:frequency>
+  <ksj:numOfPass>388288</ksj:numOfPass>
+  <ksj:pasVolume>601195</ksj:pasVolume>
+  <ksj:numOfCargo>793</ksj:numOfCargo>
+  <ksj:airportLine xlink:href="#cv74"/>
+</ksj:BetAport>
+<ksj:BetAport gml:id="aport_75">
+  <ksj:depAport>東京</ksj:depAport>
+  <ksj:arrAport>金沢</ksj:arrAport>
+  <ksj:distAirRt>528</ksj:distAirRt>
+  <ksj:frequency>82</ksj:frequency>
+  <ksj:numOfPass>815731</ksj:numOfPass>
+  <ksj:pasVolume>1287763</ksj:pasVolume>
+  <ksj:numOfCargo>1631</ksj:numOfCargo>
+  <ksj:airportLine xlink:href="#cv75"/>
+</ksj:BetAport>
+<ksj:BetAport gml:id="aport_76">
+  <ksj:depAport>金沢</ksj:depAport>
+  <ksj:arrAport>東京</ksj:arrAport>
+  <ksj:distAirRt>528</ksj:distAirRt>
+  <ksj:frequency>82</ksj:frequency>
+  <ksj:numOfPass>810658</ksj:numOfPass>
+  <ksj:pasVolume>1287551</ksj:pasVolume>
+  <ksj:numOfCargo>1800</ksj:numOfCargo>
+  <ksj:airportLine xlink:href="#cv76"/>
+</ksj:BetAport>
+<ksj:BetAport gml:id="aport_77">
+  <ksj:depAport>東京</ksj:depAport>
+  <ksj:arrAport>能登</ksj:arrAport>
+  <ksj:distAirRt>530</ksj:distAirRt>
+  <ksj:frequency>13</ksj:frequency>
+  <ksj:numOfPass>77021</ksj:numOfPass>
+  <ksj:pasVolume>124062</ksj:pasVolume>
+  <ksj:airportLine xlink:href="#cv77"/>
+</ksj:BetAport>
+<ksj:BetAport gml:id="aport_78">
+  <ksj:depAport>能登</ksj:depAport>
+  <ksj:arrAport>東京</ksj:arrAport>
+  <ksj:distAirRt>530</ksj:distAirRt>
+  <ksj:frequency>13</ksj:frequency>
+  <ksj:numOfPass>72441</ksj:numOfPass>
+  <ksj:pasVolume>124065</ksj:pasVolume>
+  <ksj:numOfCargo>3</ksj:numOfCargo>
+  <ksj:airportLine xlink:href="#cv78"/>
+</ksj:BetAport>
+<ksj:BetAport gml:id="aport_79">
+  <ksj:depAport>東京</ksj:depAport>
+  <ksj:arrAport>中部</ksj:arrAport>
+  <ksj:distAirRt>440</ksj:distAirRt>
+  <ksj:frequency>5</ksj:frequency>
+  <ksj:numOfPass>22990</ksj:numOfPass>
+  <ksj:pasVolume>39549</ksj:pasVolume>
+  <ksj:numOfCargo>13</ksj:numOfCargo>
+  <ksj:airportLine xlink:href="#cv79"/>
+</ksj:BetAport>
+<ksj:BetAport gml:id="aport_80">
+  <ksj:depAport>中部</ksj:depAport>
+  <ksj:arrAport>東京</ksj:arrAport>
+  <ksj:distAirRt>440</ksj:distAirRt>
+  <ksj:frequency>5</ksj:frequency>
+  <ksj:numOfPass>22108</ksj:numOfPass>
+  <ksj:pasVolume>39549</ksj:pasVolume>
+  <ksj:numOfCargo>63</ksj:numOfCargo>
+  <ksj:airportLine xlink:href="#cv80"/>
+</ksj:BetAport>
+<ksj:BetAport gml:id="aport_81">
+  <ksj:depAport>東京</ksj:depAport>
+  <ksj:arrAport>南紀白浜</ksj:arrAport>
+  <ksj:distAirRt>634</ksj:distAirRt>
+  <ksj:frequency>20</ksj:frequency>
+  <ksj:numOfPass>52342</ksj:numOfPass>
+  <ksj:pasVolume>88677</ksj:pasVolume>
+  <ksj:numOfCargo>4</ksj:numOfCargo>
+  <ksj:airportLine xlink:href="#cv81"/>
+</ksj:BetAport>
+<ksj:BetAport gml:id="aport_82">
+  <ksj:depAport>南紀白浜</ksj:depAport>
+  <ksj:arrAport>東京</ksj:arrAport>
+  <ksj:distAirRt>634</ksj:distAirRt>
+  <ksj:frequency>20</ksj:frequency>
+  <ksj:numOfPass>50953</ksj:numOfPass>
+  <ksj:pasVolume>88525</ksj:pasVolume>
+  <ksj:numOfCargo>5</ksj:numOfCargo>
+  <ksj:airportLine xlink:href="#cv82"/>
+</ksj:BetAport>
+<ksj:BetAport gml:id="aport_83">
+  <ksj:depAport>東京</ksj:depAport>
+  <ksj:arrAport>神戸</ksj:arrAport>
+  <ksj:distAirRt>695</ksj:distAirRt>
+  <ksj:frequency>32</ksj:frequency>
+  <ksj:numOfPass>240329</ksj:numOfPass>
+  <ksj:pasVolume>370848</ksj:pasVolume>
+  <ksj:numOfCargo>1299</ksj:numOfCargo>
+  <ksj:airportLine xlink:href="#cv83"/>
+</ksj:BetAport>
+<ksj:BetAport gml:id="aport_84">
+  <ksj:depAport>神戸</ksj:depAport>
+  <ksj:arrAport>東京</ksj:arrAport>
+  <ksj:distAirRt>695</ksj:distAirRt>
+  <ksj:frequency>32</ksj:frequency>
+  <ksj:numOfPass>243889</ksj:numOfPass>
+  <ksj:pasVolume>370357</ksj:pasVolume>
+  <ksj:numOfCargo>84</ksj:numOfCargo>
+  <ksj:airportLine xlink:href="#cv84"/>
+</ksj:BetAport>
+<ksj:BetAport gml:id="aport_85">
+  <ksj:depAport>東京</ksj:depAport>
+  <ksj:arrAport>鳥取</ksj:arrAport>
+  <ksj:distAirRt>667</ksj:distAirRt>
+  <ksj:frequency>27</ksj:frequency>
+  <ksj:numOfPass>157524</ksj:numOfPass>
+  <ksj:pasVolume>242380</ksj:pasVolume>
+  <ksj:numOfCargo>180</ksj:numOfCargo>
+  <ksj:airportLine xlink:href="#cv85"/>
+</ksj:BetAport>
+<ksj:BetAport gml:id="aport_86">
+  <ksj:depAport>鳥取</ksj:depAport>
+  <ksj:arrAport>東京</ksj:arrAport>
+  <ksj:distAirRt>667</ksj:distAirRt>
+  <ksj:frequency>27</ksj:frequency>
+  <ksj:numOfPass>151488</ksj:numOfPass>
+  <ksj:pasVolume>241397</ksj:pasVolume>
+  <ksj:numOfCargo>318</ksj:numOfCargo>
+  <ksj:airportLine xlink:href="#cv86"/>
+</ksj:BetAport>
+<ksj:BetAport gml:id="aport_87">
+  <ksj:depAport>東京</ksj:depAport>
+  <ksj:arrAport>米子</ksj:arrAport>
+  <ksj:distAirRt>776</ksj:distAirRt>
+  <ksj:frequency>36</ksj:frequency>
+  <ksj:numOfPass>250574</ksj:numOfPass>
+  <ksj:pasVolume>368973</ksj:pasVolume>
+  <ksj:numOfCargo>333</ksj:numOfCargo>
+  <ksj:airportLine xlink:href="#cv87"/>
+</ksj:BetAport>
+<ksj:BetAport gml:id="aport_88">
+  <ksj:depAport>米子</ksj:depAport>
+  <ksj:arrAport>東京</ksj:arrAport>
+  <ksj:distAirRt>776</ksj:distAirRt>
+  <ksj:frequency>36</ksj:frequency>
+  <ksj:numOfPass>252905</ksj:numOfPass>
+  <ksj:pasVolume>368188</ksj:pasVolume>
+  <ksj:numOfCargo>1417</ksj:numOfCargo>
+  <ksj:airportLine xlink:href="#cv88"/>
+</ksj:BetAport>
+<ksj:BetAport gml:id="aport_89">
+  <ksj:depAport>東京</ksj:depAport>
+  <ksj:arrAport>出雲</ksj:arrAport>
+  <ksj:distAirRt>801</ksj:distAirRt>
+  <ksj:frequency>37</ksj:frequency>
+  <ksj:numOfPass>297428</ksj:numOfPass>
+  <ksj:pasVolume>406121</ksj:pasVolume>
+  <ksj:numOfCargo>280</ksj:numOfCargo>
+  <ksj:airportLine xlink:href="#cv89"/>
+</ksj:BetAport>
+<ksj:BetAport gml:id="aport_90">
+  <ksj:depAport>出雲</ksj:depAport>
+  <ksj:arrAport>東京</ksj:arrAport>
+  <ksj:distAirRt>801</ksj:distAirRt>
+  <ksj:frequency>37</ksj:frequency>
+  <ksj:numOfPass>293917</ksj:numOfPass>
+  <ksj:pasVolume>404513</ksj:pasVolume>
+  <ksj:numOfCargo>878</ksj:numOfCargo>
+  <ksj:airportLine xlink:href="#cv90"/>
+</ksj:BetAport>
+<ksj:BetAport gml:id="aport_91">
+  <ksj:depAport>東京</ksj:depAport>
+  <ksj:arrAport>石見</ksj:arrAport>
+  <ksj:distAirRt>907</ksj:distAirRt>
+  <ksj:frequency>6</ksj:frequency>
+  <ksj:numOfPass>46435</ksj:numOfPass>
+  <ksj:pasVolume>61985</ksj:pasVolume>
+  <ksj:airportLine xlink:href="#cv91"/>
+</ksj:BetAport>
+<ksj:BetAport gml:id="aport_92">
+  <ksj:depAport>石見</ksj:depAport>
+  <ksj:arrAport>東京</ksj:arrAport>
+  <ksj:distAirRt>907</ksj:distAirRt>
+  <ksj:frequency>6</ksj:frequency>
+  <ksj:numOfPass>28318</ksj:numOfPass>
+  <ksj:pasVolume>61641</ksj:pasVolume>
+  <ksj:airportLine xlink:href="#cv92"/>
+</ksj:BetAport>
+<ksj:BetAport gml:id="aport_93">
+  <ksj:depAport>東京</ksj:depAport>
+  <ksj:arrAport>岡山</ksj:arrAport>
+  <ksj:distAirRt>685</ksj:distAirRt>
+  <ksj:frequency>68</ksj:frequency>
+  <ksj:numOfPass>479924</ksj:numOfPass>
+  <ksj:pasVolume>826603</ksj:pasVolume>
+  <ksj:numOfCargo>1674</ksj:numOfCargo>
+  <ksj:airportLine xlink:href="#cv93"/>
+</ksj:BetAport>
+<ksj:BetAport gml:id="aport_94">
+  <ksj:depAport>岡山</ksj:depAport>
+  <ksj:arrAport>東京</ksj:arrAport>
+  <ksj:distAirRt>685</ksj:distAirRt>
+  <ksj:frequency>68</ksj:frequency>
+  <ksj:numOfPass>464519</ksj:numOfPass>
+  <ksj:pasVolume>825832</ksj:pasVolume>
+  <ksj:numOfCargo>3287</ksj:numOfCargo>
+  <ksj:airportLine xlink:href="#cv94"/>
+</ksj:BetAport>
+<ksj:BetAport gml:id="aport_95">
+  <ksj:depAport>東京</ksj:depAport>
+  <ksj:arrAport>広島</ksj:arrAport>
+  <ksj:distAirRt>790</ksj:distAirRt>
+  <ksj:frequency>112</ksj:frequency>
+  <ksj:numOfPass>885066</ksj:numOfPass>
+  <ksj:pasVolume>1496649</ksj:pasVolume>
+  <ksj:numOfCargo>6780</ksj:numOfCargo>
+  <ksj:airportLine xlink:href="#cv95"/>
+</ksj:BetAport>
+<ksj:BetAport gml:id="aport_96">
+  <ksj:depAport>広島</ksj:depAport>
+  <ksj:arrAport>東京</ksj:arrAport>
+  <ksj:distAirRt>790</ksj:distAirRt>
+  <ksj:frequency>112</ksj:frequency>
+  <ksj:numOfPass>894047</ksj:numOfPass>
+  <ksj:pasVolume>1493735</ksj:pasVolume>
+  <ksj:numOfCargo>11136</ksj:numOfCargo>
+  <ksj:airportLine xlink:href="#cv96"/>
+</ksj:BetAport>
+<ksj:BetAport gml:id="aport_97">
+  <ksj:depAport>東京</ksj:depAport>
+  <ksj:arrAport>岩国</ksj:arrAport>
+  <ksj:distAirRt>741</ksj:distAirRt>
+  <ksj:frequency>28</ksj:frequency>
+  <ksj:numOfPass>166381</ksj:numOfPass>
+  <ksj:pasVolume>246124</ksj:pasVolume>
+  <ksj:numOfCargo>10</ksj:numOfCargo>
+  <ksj:airportLine xlink:href="#cv97"/>
+</ksj:BetAport>
+<ksj:BetAport gml:id="aport_98">
+  <ksj:depAport>岩国</ksj:depAport>
+  <ksj:arrAport>東京</ksj:arrAport>
+  <ksj:distAirRt>741</ksj:distAirRt>
+  <ksj:frequency>28</ksj:frequency>
+  <ksj:numOfPass>174757</ksj:numOfPass>
+  <ksj:pasVolume>246132</ksj:pasVolume>
+  <ksj:numOfCargo>2</ksj:numOfCargo>
+  <ksj:airportLine xlink:href="#cv98"/>
+</ksj:BetAport>
+<ksj:BetAport gml:id="aport_99">
+  <ksj:depAport>東京</ksj:depAport>
+  <ksj:arrAport>山口宇部</ksj:arrAport>
+  <ksj:distAirRt>935</ksj:distAirRt>
+  <ksj:frequency>63</ksj:frequency>
+  <ksj:numOfPass>393914</ksj:numOfPass>
+  <ksj:pasVolume>731967</ksj:pasVolume>
+  <ksj:numOfCargo>820</ksj:numOfCargo>
+  <ksj:airportLine xlink:href="#cv99"/>
+</ksj:BetAport>
+<ksj:BetAport gml:id="aport_100">
+  <ksj:depAport>山口宇部</ksj:depAport>
+  <ksj:arrAport>東京</ksj:arrAport>
+  <ksj:distAirRt>935</ksj:distAirRt>
+  <ksj:frequency>63</ksj:frequency>
+  <ksj:numOfPass>386952</ksj:numOfPass>
+  <ksj:pasVolume>730751</ksj:pasVolume>
+  <ksj:numOfCargo>1894</ksj:numOfCargo>
+  <ksj:airportLine xlink:href="#cv100"/>
+</ksj:BetAport>
+<ksj:BetAport gml:id="aport_101">
+  <ksj:depAport>東京</ksj:depAport>
+  <ksj:arrAport>徳島</ksj:arrAport>
+  <ksj:distAirRt>703</ksj:distAirRt>
+  <ksj:frequency>71</ksj:frequency>
+  <ksj:numOfPass>436651</ksj:numOfPass>
+  <ksj:pasVolume>721748</ksj:pasVolume>
+  <ksj:numOfCargo>716</ksj:numOfCargo>
+  <ksj:airportLine xlink:href="#cv101"/>
+</ksj:BetAport>
+<ksj:BetAport gml:id="aport_102">
+  <ksj:depAport>徳島</ksj:depAport>
+  <ksj:arrAport>東京</ksj:arrAport>
+  <ksj:distAirRt>703</ksj:distAirRt>
+  <ksj:frequency>71</ksj:frequency>
+  <ksj:numOfPass>418907</ksj:numOfPass>
+  <ksj:pasVolume>721507</ksj:pasVolume>
+  <ksj:numOfCargo>1345</ksj:numOfCargo>
+  <ksj:airportLine xlink:href="#cv102"/>
+</ksj:BetAport>
+<ksj:BetAport gml:id="aport_103">
+  <ksj:depAport>東京</ksj:depAport>
+  <ksj:arrAport>高松</ksj:arrAport>
+  <ksj:distAirRt>711</ksj:distAirRt>
+  <ksj:frequency>83</ksj:frequency>
+  <ksj:numOfPass>604544</ksj:numOfPass>
+  <ksj:pasVolume>1010832</ksj:pasVolume>
+  <ksj:numOfCargo>2842</ksj:numOfCargo>
+  <ksj:airportLine xlink:href="#cv103"/>
+</ksj:BetAport>
+<ksj:BetAport gml:id="aport_104">
+  <ksj:depAport>高松</ksj:depAport>
+  <ksj:arrAport>東京</ksj:arrAport>
+  <ksj:distAirRt>711</ksj:distAirRt>
+  <ksj:frequency>83</ksj:frequency>
+  <ksj:numOfPass>606661</ksj:numOfPass>
+  <ksj:pasVolume>1007380</ksj:pasVolume>
+  <ksj:numOfCargo>3704</ksj:numOfCargo>
+  <ksj:airportLine xlink:href="#cv104"/>
+</ksj:BetAport>
+<ksj:BetAport gml:id="aport_105">
+  <ksj:depAport>東京</ksj:depAport>
+  <ksj:arrAport>松山</ksj:arrAport>
+  <ksj:distAirRt>859</ksj:distAirRt>
+  <ksj:frequency>83</ksj:frequency>
+  <ksj:numOfPass>709643</ksj:numOfPass>
+  <ksj:pasVolume>1178552</ksj:pasVolume>
+  <ksj:numOfCargo>1542</ksj:numOfCargo>
+  <ksj:airportLine xlink:href="#cv105"/>
+</ksj:BetAport>
+<ksj:BetAport gml:id="aport_106">
+  <ksj:depAport>松山</ksj:depAport>
+  <ksj:arrAport>東京</ksj:arrAport>
+  <ksj:distAirRt>859</ksj:distAirRt>
+  <ksj:frequency>83</ksj:frequency>
+  <ksj:numOfPass>721022</ksj:numOfPass>
+  <ksj:pasVolume>1175887</ksj:pasVolume>
+  <ksj:numOfCargo>5502</ksj:numOfCargo>
+  <ksj:airportLine xlink:href="#cv106"/>
+</ksj:BetAport>
+<ksj:BetAport gml:id="aport_107">
+  <ksj:depAport>東京</ksj:depAport>
+  <ksj:arrAport>高知</ksj:arrAport>
+  <ksj:distAirRt>824</ksj:distAirRt>
+  <ksj:frequency>68</ksj:frequency>
+  <ksj:numOfPass>434581</ksj:numOfPass>
+  <ksj:pasVolume>743440</ksj:pasVolume>
+  <ksj:numOfCargo>604</ksj:numOfCargo>
+  <ksj:airportLine xlink:href="#cv107"/>
+</ksj:BetAport>
+<ksj:BetAport gml:id="aport_108">
+  <ksj:depAport>高知</ksj:depAport>
+  <ksj:arrAport>東京</ksj:arrAport>
+  <ksj:distAirRt>824</ksj:distAirRt>
+  <ksj:frequency>68</ksj:frequency>
+  <ksj:numOfPass>434665</ksj:numOfPass>
+  <ksj:pasVolume>742687</ksj:pasVolume>
+  <ksj:numOfCargo>2248</ksj:numOfCargo>
+  <ksj:airportLine xlink:href="#cv108"/>
+</ksj:BetAport>
+<ksj:BetAport gml:id="aport_109">
+  <ksj:depAport>東京</ksj:depAport>
+  <ksj:arrAport>北九州</ksj:arrAport>
+  <ksj:distAirRt>958</ksj:distAirRt>
+  <ksj:frequency>117</ksj:frequency>
+  <ksj:numOfPass>585445</ksj:numOfPass>
+  <ksj:pasVolume>915111</ksj:pasVolume>
+  <ksj:numOfCargo>5622</ksj:numOfCargo>
+  <ksj:airportLine xlink:href="#cv109"/>
+</ksj:BetAport>
+<ksj:BetAport gml:id="aport_110">
+  <ksj:depAport>北九州</ksj:depAport>
+  <ksj:arrAport>東京</ksj:arrAport>
+  <ksj:distAirRt>958</ksj:distAirRt>
+  <ksj:frequency>117</ksj:frequency>
+  <ksj:numOfPass>564722</ksj:numOfPass>
+  <ksj:pasVolume>915497</ksj:pasVolume>
+  <ksj:numOfCargo>6218</ksj:numOfCargo>
+  <ksj:airportLine xlink:href="#cv110"/>
+</ksj:BetAport>
+<ksj:BetAport gml:id="aport_111">
+  <ksj:depAport>東京</ksj:depAport>
+  <ksj:arrAport>佐賀</ksj:arrAport>
+  <ksj:distAirRt>1130</ksj:distAirRt>
+  <ksj:frequency>32</ksj:frequency>
+  <ksj:numOfPass>149277</ksj:numOfPass>
+  <ksj:pasVolume>246418</ksj:pasVolume>
+  <ksj:numOfCargo>6102</ksj:numOfCargo>
+  <ksj:airportLine xlink:href="#cv111"/>
+</ksj:BetAport>
+<ksj:BetAport gml:id="aport_112">
+  <ksj:depAport>佐賀</ksj:depAport>
+  <ksj:arrAport>東京</ksj:arrAport>
+  <ksj:distAirRt>1130</ksj:distAirRt>
+  <ksj:frequency>27</ksj:frequency>
+  <ksj:numOfPass>150070</ksj:numOfPass>
+  <ksj:pasVolume>246236</ksj:pasVolume>
+  <ksj:numOfCargo>762</ksj:numOfCargo>
+  <ksj:airportLine xlink:href="#cv112"/>
+</ksj:BetAport>
+<ksj:BetAport gml:id="aport_113">
+  <ksj:depAport>東京</ksj:depAport>
+  <ksj:arrAport>長崎</ksj:arrAport>
+  <ksj:distAirRt>1143</ksj:distAirRt>
+  <ksj:frequency>97</ksj:frequency>
+  <ksj:numOfPass>765680</ksj:numOfPass>
+  <ksj:pasVolume>1232643</ksj:pasVolume>
+  <ksj:numOfCargo>2641</ksj:numOfCargo>
+  <ksj:airportLine xlink:href="#cv113"/>
+</ksj:BetAport>
+<ksj:BetAport gml:id="aport_114">
+  <ksj:depAport>長崎</ksj:depAport>
+  <ksj:arrAport>東京</ksj:arrAport>
+  <ksj:distAirRt>1143</ksj:distAirRt>
+  <ksj:frequency>97</ksj:frequency>
+  <ksj:numOfPass>743474</ksj:numOfPass>
+  <ksj:pasVolume>1233025</ksj:pasVolume>
+  <ksj:numOfCargo>8578</ksj:numOfCargo>
+  <ksj:airportLine xlink:href="#cv114"/>
+</ksj:BetAport>
+<ksj:BetAport gml:id="aport_115">
+  <ksj:depAport>東京</ksj:depAport>
+  <ksj:trsAport>神戸</ksj:trsAport>
+  <ksj:arrAport>長崎</ksj:arrAport>
+  <ksj:distAirRt>1345</ksj:distAirRt>
+  <ksj:frequency>21</ksj:frequency>
+  <ksj:numOfPass>221294</ksj:numOfPass>
+  <ksj:pasVolume>193815</ksj:pasVolume>
+  <ksj:airportLine xlink:href="#cv115"/>
+</ksj:BetAport>
+<ksj:BetAport gml:id="aport_116">
+  <ksj:depAport>長崎</ksj:depAport>
+  <ksj:trsAport>神戸</ksj:trsAport>
+  <ksj:arrAport>東京</ksj:arrAport>
+  <ksj:distAirRt>1345</ksj:distAirRt>
+  <ksj:frequency>21</ksj:frequency>
+  <ksj:numOfPass>223999</ksj:numOfPass>
+  <ksj:pasVolume>193638</ksj:pasVolume>
+  <ksj:airportLine xlink:href="#cv116"/>
+</ksj:BetAport>
+<ksj:BetAport gml:id="aport_117">
+  <ksj:depAport>東京</ksj:depAport>
+  <ksj:arrAport>熊本</ksj:arrAport>
+  <ksj:distAirRt>1086</ksj:distAirRt>
+  <ksj:frequency>143</ksj:frequency>
+  <ksj:numOfPass>987088</ksj:numOfPass>
+  <ksj:pasVolume>1600201</ksj:pasVolume>
+  <ksj:numOfCargo>4563</ksj:numOfCargo>
+  <ksj:airportLine xlink:href="#cv117"/>
+</ksj:BetAport>
+<ksj:BetAport gml:id="aport_118">
+  <ksj:depAport>熊本</ksj:depAport>
+  <ksj:arrAport>東京</ksj:arrAport>
+  <ksj:distAirRt>1086</ksj:distAirRt>
+  <ksj:frequency>143</ksj:frequency>
+  <ksj:numOfPass>997080</ksj:numOfPass>
+  <ksj:pasVolume>1596635</ksj:pasVolume>
+  <ksj:numOfCargo>9248</ksj:numOfCargo>
+  <ksj:airportLine xlink:href="#cv118"/>
+</ksj:BetAport>
+<ksj:BetAport gml:id="aport_119">
+  <ksj:depAport>東京</ksj:depAport>
+  <ksj:arrAport>大分</ksj:arrAport>
+  <ksj:distAirRt>928</ksj:distAirRt>
+  <ksj:frequency>95</ksj:frequency>
+  <ksj:numOfPass>577358</ksj:numOfPass>
+  <ksj:pasVolume>1003353</ksj:pasVolume>
+  <ksj:numOfCargo>2187</ksj:numOfCargo>
+  <ksj:airportLine xlink:href="#cv119"/>
+</ksj:BetAport>
+<ksj:BetAport gml:id="aport_120">
+  <ksj:depAport>大分</ksj:depAport>
+  <ksj:arrAport>東京</ksj:arrAport>
+  <ksj:distAirRt>928</ksj:distAirRt>
+  <ksj:frequency>95</ksj:frequency>
+  <ksj:numOfPass>568257</ksj:numOfPass>
+  <ksj:pasVolume>1002185</ksj:pasVolume>
+  <ksj:numOfCargo>6154</ksj:numOfCargo>
+  <ksj:airportLine xlink:href="#cv120"/>
+</ksj:BetAport>
+<ksj:BetAport gml:id="aport_121">
+  <ksj:depAport>東京</ksj:depAport>
+  <ksj:arrAport>宮崎</ksj:arrAport>
+  <ksj:distAirRt>1023</ksj:distAirRt>
+  <ksj:frequency>124</ksj:frequency>
+  <ksj:numOfPass>688076</ksj:numOfPass>
+  <ksj:pasVolume>1182703</ksj:pasVolume>
+  <ksj:numOfCargo>1796</ksj:numOfCargo>
+  <ksj:airportLine xlink:href="#cv121"/>
+</ksj:BetAport>
+<ksj:BetAport gml:id="aport_122">
+  <ksj:depAport>宮崎</ksj:depAport>
+  <ksj:arrAport>東京</ksj:arrAport>
+  <ksj:distAirRt>1023</ksj:distAirRt>
+  <ksj:frequency>124</ksj:frequency>
+  <ksj:numOfPass>681336</ksj:numOfPass>
+  <ksj:pasVolume>1182338</ksj:pasVolume>
+  <ksj:numOfCargo>6018</ksj:numOfCargo>
+  <ksj:airportLine xlink:href="#cv122"/>
+</ksj:BetAport>
+<ksj:BetAport gml:id="aport_123">
+  <ksj:depAport>東京</ksj:depAport>
+  <ksj:arrAport>鹿児島</ksj:arrAport>
+  <ksj:distAirRt>1111</ksj:distAirRt>
+  <ksj:frequency>159</ksj:frequency>
+  <ksj:numOfPass>1138145</ksj:numOfPass>
+  <ksj:pasVolume>1916352</ksj:pasVolume>
+  <ksj:numOfCargo>4437</ksj:numOfCargo>
+  <ksj:airportLine xlink:href="#cv123"/>
+</ksj:BetAport>
+<ksj:BetAport gml:id="aport_124">
+  <ksj:depAport>鹿児島</ksj:depAport>
+  <ksj:arrAport>東京</ksj:arrAport>
+  <ksj:distAirRt>1111</ksj:distAirRt>
+  <ksj:frequency>159</ksj:frequency>
+  <ksj:numOfPass>1135100</ksj:numOfPass>
+  <ksj:pasVolume>1912135</ksj:pasVolume>
+  <ksj:numOfCargo>18792</ksj:numOfCargo>
+  <ksj:airportLine xlink:href="#cv124"/>
+</ksj:BetAport>
+<ksj:BetAport gml:id="aport_125">
+  <ksj:depAport>東京</ksj:depAport>
+  <ksj:arrAport>奄美</ksj:arrAport>
+  <ksj:distAirRt>1436</ksj:distAirRt>
+  <ksj:frequency>6</ksj:frequency>
+  <ksj:numOfPass>41686</ksj:numOfPass>
+  <ksj:pasVolume>58413</ksj:pasVolume>
+  <ksj:numOfCargo>48</ksj:numOfCargo>
+  <ksj:airportLine xlink:href="#cv125"/>
+</ksj:BetAport>
+<ksj:BetAport gml:id="aport_126">
+  <ksj:depAport>奄美</ksj:depAport>
+  <ksj:arrAport>東京</ksj:arrAport>
+  <ksj:distAirRt>1436</ksj:distAirRt>
+  <ksj:frequency>6</ksj:frequency>
+  <ksj:numOfPass>40488</ksj:numOfPass>
+  <ksj:pasVolume>58413</ksj:pasVolume>
+  <ksj:numOfCargo>240</ksj:numOfCargo>
+  <ksj:airportLine xlink:href="#cv126"/>
+</ksj:BetAport>
+<ksj:BetAport gml:id="aport_127">
+  <ksj:depAport>東京</ksj:depAport>
+  <ksj:arrAport>久米島</ksj:arrAport>
+  <ksj:distAirRt>1888</ksj:distAirRt>
+  <ksj:frequency>0</ksj:frequency>
+  <ksj:numOfPass>3640</ksj:numOfPass>
+  <ksj:pasVolume>7250</ksj:pasVolume>
+  <ksj:numOfCargo>1</ksj:numOfCargo>
+  <ksj:airportLine xlink:href="#cv127"/>
+</ksj:BetAport>
+<ksj:BetAport gml:id="aport_128">
+  <ksj:depAport>久米島</ksj:depAport>
+  <ksj:trsAport>那覇</ksj:trsAport>
+  <ksj:arrAport>東京</ksj:arrAport>
+  <ksj:distAirRt>1888</ksj:distAirRt>
+  <ksj:frequency>0</ksj:frequency>
+  <ksj:numOfPass>6872</ksj:numOfPass>
+  <ksj:pasVolume>7250</ksj:pasVolume>
+  <ksj:numOfCargo>21</ksj:numOfCargo>
+  <ksj:airportLine xlink:href="#cv128"/>
+</ksj:BetAport>
+<ksj:BetAport gml:id="aport_129">
+  <ksj:depAport>東京</ksj:depAport>
+  <ksj:arrAport>宮古</ksj:arrAport>
+  <ksj:distAirRt>2020</ksj:distAirRt>
+  <ksj:frequency>6</ksj:frequency>
+  <ksj:numOfPass>39094</ksj:numOfPass>
+  <ksj:pasVolume>53270</ksj:pasVolume>
+  <ksj:numOfCargo>423</ksj:numOfCargo>
+  <ksj:airportLine xlink:href="#cv129"/>
+</ksj:BetAport>
+<ksj:BetAport gml:id="aport_130">
+  <ksj:depAport>宮古</ksj:depAport>
+  <ksj:arrAport>東京</ksj:arrAport>
+  <ksj:distAirRt>2020</ksj:distAirRt>
+  <ksj:frequency>6</ksj:frequency>
+  <ksj:numOfPass>33957</ksj:numOfPass>
+  <ksj:pasVolume>53295</ksj:pasVolume>
+  <ksj:numOfCargo>246</ksj:numOfCargo>
+  <ksj:airportLine xlink:href="#cv130"/>
+</ksj:BetAport>
+<ksj:BetAport gml:id="aport_131">
+  <ksj:depAport>東京</ksj:depAport>
+  <ksj:arrAport>石垣</ksj:arrAport>
+  <ksj:distAirRt>2171</ksj:distAirRt>
+  <ksj:frequency>15</ksj:frequency>
+  <ksj:numOfPass>116231</ksj:numOfPass>
+  <ksj:pasVolume>154875</ksj:pasVolume>
+  <ksj:numOfCargo>781</ksj:numOfCargo>
+  <ksj:airportLine xlink:href="#cv131"/>
+</ksj:BetAport>
+<ksj:BetAport gml:id="aport_132">
+  <ksj:depAport>石垣</ksj:depAport>
+  <ksj:arrAport>東京</ksj:arrAport>
+  <ksj:distAirRt>2171</ksj:distAirRt>
+  <ksj:frequency>15</ksj:frequency>
+  <ksj:numOfPass>111509</ksj:numOfPass>
+  <ksj:pasVolume>153523</ksj:pasVolume>
+  <ksj:numOfCargo>780</ksj:numOfCargo>
+  <ksj:airportLine xlink:href="#cv132"/>
+</ksj:BetAport>
+<ksj:BetAport gml:id="aport_133">
+  <ksj:depAport>東京</ksj:depAport>
+  <ksj:arrAport>石垣</ksj:arrAport>
+  <ksj:distAirRt>2171</ksj:distAirRt>
+  <ksj:frequency>2</ksj:frequency>
+  <ksj:numOfPass>10419</ksj:numOfPass>
+  <ksj:pasVolume>17285</ksj:pasVolume>
+  <ksj:numOfCargo>103</ksj:numOfCargo>
+  <ksj:airportLine xlink:href="#cv133"/>
+</ksj:BetAport>
+<ksj:BetAport gml:id="aport_134">
+  <ksj:depAport>石垣</ksj:depAport>
+  <ksj:trsAport>那覇</ksj:trsAport>
+  <ksj:arrAport>東京</ksj:arrAport>
+  <ksj:distAirRt>2171</ksj:distAirRt>
+  <ksj:frequency>1</ksj:frequency>
+  <ksj:numOfPass>8149</ksj:numOfPass>
+  <ksj:pasVolume>9595</ksj:pasVolume>
+  <ksj:numOfCargo>88</ksj:numOfCargo>
+  <ksj:airportLine xlink:href="#cv134"/>
+</ksj:BetAport>
+<ksj:BetAport gml:id="aport_135">
+  <ksj:depAport>成田</ksj:depAport>
+  <ksj:arrAport>旭川</ksj:arrAport>
+  <ksj:distAirRt>1050</ksj:distAirRt>
+  <ksj:frequency>9</ksj:frequency>
+  <ksj:numOfPass>36831</ksj:numOfPass>
+  <ksj:pasVolume>86553</ksj:pasVolume>
+  <ksj:airportLine xlink:href="#cv135"/>
+</ksj:BetAport>
+<ksj:BetAport gml:id="aport_136">
+  <ksj:depAport>旭川</ksj:depAport>
+  <ksj:arrAport>成田</ksj:arrAport>
+  <ksj:distAirRt>1050</ksj:distAirRt>
+  <ksj:frequency>9</ksj:frequency>
+  <ksj:numOfPass>36818</ksj:numOfPass>
+  <ksj:pasVolume>86376</ksj:pasVolume>
+  <ksj:airportLine xlink:href="#cv136"/>
+</ksj:BetAport>
+<ksj:BetAport gml:id="aport_137">
+  <ksj:depAport>成田</ksj:depAport>
+  <ksj:arrAport>仙台</ksj:arrAport>
+  <ksj:distAirRt>435</ksj:distAirRt>
+  <ksj:frequency>13</ksj:frequency>
+  <ksj:numOfPass>43092</ksj:numOfPass>
+  <ksj:pasVolume>86473</ksj:pasVolume>
+  <ksj:numOfCargo>1</ksj:numOfCargo>
+  <ksj:airportLine xlink:href="#cv137"/>
+</ksj:BetAport>
+<ksj:BetAport gml:id="aport_138">
+  <ksj:depAport>仙台</ksj:depAport>
+  <ksj:arrAport>成田</ksj:arrAport>
+  <ksj:distAirRt>435</ksj:distAirRt>
+  <ksj:frequency>13</ksj:frequency>
+  <ksj:numOfPass>45715</ksj:numOfPass>
+  <ksj:pasVolume>83550</ksj:pasVolume>
+  <ksj:numOfCargo>30</ksj:numOfCargo>
+  <ksj:airportLine xlink:href="#cv138"/>
+</ksj:BetAport>
+<ksj:BetAport gml:id="aport_139">
+  <ksj:depAport>成田</ksj:depAport>
+  <ksj:arrAport>新潟</ksj:arrAport>
+  <ksj:distAirRt>358</ksj:distAirRt>
+  <ksj:frequency>6</ksj:frequency>
+  <ksj:numOfPass>10775</ksj:numOfPass>
+  <ksj:pasVolume>26566</ksj:pasVolume>
+  <ksj:airportLine xlink:href="#cv139"/>
+</ksj:BetAport>
+<ksj:BetAport gml:id="aport_140">
+  <ksj:depAport>新潟</ksj:depAport>
+  <ksj:arrAport>成田</ksj:arrAport>
+  <ksj:distAirRt>358</ksj:distAirRt>
+  <ksj:frequency>6</ksj:frequency>
+  <ksj:numOfPass>10429</ksj:numOfPass>
+  <ksj:pasVolume>26638</ksj:pasVolume>
+  <ksj:airportLine xlink:href="#cv140"/>
+</ksj:BetAport>
+<ksj:BetAport gml:id="aport_141">
+  <ksj:depAport>成田</ksj:depAport>
+  <ksj:arrAport>金沢</ksj:arrAport>
+  <ksj:distAirRt>645</ksj:distAirRt>
+  <ksj:frequency>13</ksj:frequency>
+  <ksj:numOfPass>25757</ksj:numOfPass>
+  <ksj:pasVolume>46660</ksj:pasVolume>
+  <ksj:airportLine xlink:href="#cv141"/>
+</ksj:BetAport>
+<ksj:BetAport gml:id="aport_142">
+  <ksj:depAport>金沢</ksj:depAport>
+  <ksj:arrAport>成田</ksj:arrAport>
+  <ksj:distAirRt>645</ksj:distAirRt>
+  <ksj:frequency>13</ksj:frequency>
+  <ksj:numOfPass>26565</ksj:numOfPass>
+  <ksj:pasVolume>46510</ksj:pasVolume>
+  <ksj:airportLine xlink:href="#cv142"/>
+</ksj:BetAport>
+<ksj:BetAport gml:id="aport_143">
+  <ksj:depAport>成田</ksj:depAport>
+  <ksj:arrAport>中部</ksj:arrAport>
+  <ksj:distAirRt>500</ksj:distAirRt>
+  <ksj:frequency>37</ksj:frequency>
+  <ksj:numOfPass>196823</ksj:numOfPass>
+  <ksj:pasVolume>326470</ksj:pasVolume>
+  <ksj:numOfCargo>4434</ksj:numOfCargo>
+  <ksj:airportLine xlink:href="#cv143"/>
+</ksj:BetAport>
+<ksj:BetAport gml:id="aport_144">
+  <ksj:depAport>中部</ksj:depAport>
+  <ksj:arrAport>成田</ksj:arrAport>
+  <ksj:distAirRt>500</ksj:distAirRt>
+  <ksj:frequency>35</ksj:frequency>
+  <ksj:numOfPass>203848</ksj:numOfPass>
+  <ksj:pasVolume>325935</ksj:pasVolume>
+  <ksj:numOfCargo>1067</ksj:numOfCargo>
+  <ksj:airportLine xlink:href="#cv144"/>
+</ksj:BetAport>
+<ksj:BetAport gml:id="aport_145">
+  <ksj:depAport>成田</ksj:depAport>
+  <ksj:arrAport>米子</ksj:arrAport>
+  <ksj:distAirRt>943</ksj:distAirRt>
+  <ksj:frequency>0</ksj:frequency>
+  <ksj:numOfPass>2915</ksj:numOfPass>
+  <ksj:pasVolume>4248</ksj:pasVolume>
+  <ksj:airportLine xlink:href="#cv145"/>
+</ksj:BetAport>
+<ksj:BetAport gml:id="aport_146">
+  <ksj:depAport>米子</ksj:depAport>
+  <ksj:arrAport>成田</ksj:arrAport>
+  <ksj:distAirRt>943</ksj:distAirRt>
+  <ksj:frequency>0</ksj:frequency>
+  <ksj:numOfPass>2063</ksj:numOfPass>
+  <ksj:pasVolume>4071</ksj:pasVolume>
+  <ksj:airportLine xlink:href="#cv146"/>
+</ksj:BetAport>
+<ksj:BetAport gml:id="aport_147">
+  <ksj:depAport>成田</ksj:depAport>
+  <ksj:arrAport>広島</ksj:arrAport>
+  <ksj:distAirRt>898</ksj:distAirRt>
+  <ksj:frequency>13</ksj:frequency>
+  <ksj:numOfPass>26611</ksj:numOfPass>
+  <ksj:pasVolume>73723</ksj:pasVolume>
+  <ksj:numOfCargo>1</ksj:numOfCargo>
+  <ksj:airportLine xlink:href="#cv147"/>
+</ksj:BetAport>
+<ksj:BetAport gml:id="aport_148">
+  <ksj:depAport>広島</ksj:depAport>
+  <ksj:arrAport>成田</ksj:arrAport>
+  <ksj:distAirRt>898</ksj:distAirRt>
+  <ksj:frequency>13</ksj:frequency>
+  <ksj:numOfPass>28881</ksj:numOfPass>
+  <ksj:pasVolume>74433</ksj:pasVolume>
+  <ksj:airportLine xlink:href="#cv148"/>
+</ksj:BetAport>
+<ksj:BetAport gml:id="aport_149">
+  <ksj:depAport>成田</ksj:depAport>
+  <ksj:arrAport>高松</ksj:arrAport>
+  <ksj:distAirRt>711</ksj:distAirRt>
+  <ksj:frequency>0</ksj:frequency>
+  <ksj:numOfPass>6009</ksj:numOfPass>
+  <ksj:pasVolume>7920</ksj:pasVolume>
+  <ksj:airportLine xlink:href="#cv149"/>
+</ksj:BetAport>
+<ksj:BetAport gml:id="aport_150">
+  <ksj:depAport>高松</ksj:depAport>
+  <ksj:arrAport>成田</ksj:arrAport>
+  <ksj:distAirRt>711</ksj:distAirRt>
+  <ksj:frequency>0</ksj:frequency>
+  <ksj:numOfPass>5678</ksj:numOfPass>
+  <ksj:pasVolume>7740</ksj:pasVolume>
+  <ksj:airportLine xlink:href="#cv150"/>
+</ksj:BetAport>
+<ksj:BetAport gml:id="aport_151">
+  <ksj:depAport>成田</ksj:depAport>
+  <ksj:arrAport>松山</ksj:arrAport>
+  <ksj:distAirRt>832</ksj:distAirRt>
+  <ksj:frequency>9</ksj:frequency>
+  <ksj:numOfPass>62834</ksj:numOfPass>
+  <ksj:pasVolume>84240</ksj:pasVolume>
+  <ksj:airportLine xlink:href="#cv151"/>
+</ksj:BetAport>
+<ksj:BetAport gml:id="aport_152">
+  <ksj:depAport>松山</ksj:depAport>
+  <ksj:arrAport>成田</ksj:arrAport>
+  <ksj:distAirRt>832</ksj:distAirRt>
+  <ksj:frequency>9</ksj:frequency>
+  <ksj:numOfPass>64044</ksj:numOfPass>
+  <ksj:pasVolume>84240</ksj:pasVolume>
+  <ksj:airportLine xlink:href="#cv152"/>
+</ksj:BetAport>
+<ksj:BetAport gml:id="aport_153">
+  <ksj:depAport>成田</ksj:depAport>
+  <ksj:arrAport>大分</ksj:arrAport>
+  <ksj:distAirRt>924</ksj:distAirRt>
+  <ksj:frequency>12</ksj:frequency>
+  <ksj:numOfPass>73671</ksj:numOfPass>
+  <ksj:pasVolume>113040</ksj:pasVolume>
+  <ksj:airportLine xlink:href="#cv153"/>
+</ksj:BetAport>
+<ksj:BetAport gml:id="aport_154">
+  <ksj:depAport>大分</ksj:depAport>
+  <ksj:arrAport>成田</ksj:arrAport>
+  <ksj:distAirRt>924</ksj:distAirRt>
+  <ksj:frequency>12</ksj:frequency>
+  <ksj:numOfPass>74833</ksj:numOfPass>
+  <ksj:pasVolume>112860</ksj:pasVolume>
+  <ksj:airportLine xlink:href="#cv154"/>
+</ksj:BetAport>
+<ksj:BetAport gml:id="aport_155">
+  <ksj:depAport>成田</ksj:depAport>
+  <ksj:arrAport>鹿児島</ksj:arrAport>
+  <ksj:distAirRt>1204</ksj:distAirRt>
+  <ksj:frequency>6</ksj:frequency>
+  <ksj:numOfPass>44058</ksj:numOfPass>
+  <ksj:pasVolume>64260</ksj:pasVolume>
+  <ksj:airportLine xlink:href="#cv155"/>
+</ksj:BetAport>
+<ksj:BetAport gml:id="aport_156">
+  <ksj:depAport>鹿児島</ksj:depAport>
+  <ksj:arrAport>成田</ksj:arrAport>
+  <ksj:distAirRt>1204</ksj:distAirRt>
+  <ksj:frequency>6</ksj:frequency>
+  <ksj:numOfPass>45748</ksj:numOfPass>
+  <ksj:pasVolume>63900</ksj:pasVolume>
+  <ksj:airportLine xlink:href="#cv156"/>
+</ksj:BetAport>
+<ksj:BetAport gml:id="aport_157">
+  <ksj:depAport>成田</ksj:depAport>
+  <ksj:arrAport>石垣</ksj:arrAport>
+  <ksj:distAirRt>2006</ksj:distAirRt>
+  <ksj:frequency>3</ksj:frequency>
+  <ksj:numOfPass>12239</ksj:numOfPass>
+  <ksj:pasVolume>27612</ksj:pasVolume>
+  <ksj:airportLine xlink:href="#cv157"/>
+</ksj:BetAport>
+<ksj:BetAport gml:id="aport_158">
+  <ksj:depAport>石垣</ksj:depAport>
+  <ksj:arrAport>成田</ksj:arrAport>
+  <ksj:distAirRt>2006</ksj:distAirRt>
+  <ksj:frequency>3</ksj:frequency>
+  <ksj:numOfPass>13159</ksj:numOfPass>
+  <ksj:pasVolume>27612</ksj:pasVolume>
+  <ksj:airportLine xlink:href="#cv158"/>
+</ksj:BetAport>
+<ksj:BetAport gml:id="aport_159">
+  <ksj:depAport>大阪</ksj:depAport>
+  <ksj:arrAport>釧路</ksj:arrAport>
+  <ksj:distAirRt>1336</ksj:distAirRt>
+  <ksj:frequency>0</ksj:frequency>
+  <ksj:numOfPass>6092</ksj:numOfPass>
+  <ksj:pasVolume>8466</ksj:pasVolume>
+  <ksj:airportLine xlink:href="#cv159"/>
+</ksj:BetAport>
+<ksj:BetAport gml:id="aport_160">
+  <ksj:depAport>釧路</ksj:depAport>
+  <ksj:arrAport>大阪</ksj:arrAport>
+  <ksj:distAirRt>1336</ksj:distAirRt>
+  <ksj:frequency>0</ksj:frequency>
+  <ksj:numOfPass>3936</ksj:numOfPass>
+  <ksj:pasVolume>8466</ksj:pasVolume>
+  <ksj:numOfCargo>26</ksj:numOfCargo>
+  <ksj:airportLine xlink:href="#cv160"/>
+</ksj:BetAport>
+<ksj:BetAport gml:id="aport_161">
+  <ksj:depAport>大阪</ksj:depAport>
+  <ksj:arrAport>函館</ksj:arrAport>
+  <ksj:distAirRt>1049</ksj:distAirRt>
+  <ksj:frequency>5</ksj:frequency>
+  <ksj:numOfPass>11948</ksj:numOfPass>
+  <ksj:pasVolume>14128</ksj:pasVolume>
+  <ksj:airportLine xlink:href="#cv161"/>
+</ksj:BetAport>
+<ksj:BetAport gml:id="aport_162">
+  <ksj:depAport>函館</ksj:depAport>
+  <ksj:arrAport>大阪</ksj:arrAport>
+  <ksj:distAirRt>1049</ksj:distAirRt>
+  <ksj:frequency>5</ksj:frequency>
+  <ksj:numOfPass>11119</ksj:numOfPass>
+  <ksj:pasVolume>14028</ksj:pasVolume>
+  <ksj:airportLine xlink:href="#cv162"/>
+</ksj:BetAport>
+<ksj:BetAport gml:id="aport_163">
+  <ksj:depAport>大阪</ksj:depAport>
+  <ksj:arrAport>旭川</ksj:arrAport>
+  <ksj:distAirRt>1320</ksj:distAirRt>
+  <ksj:frequency>0</ksj:frequency>
+  <ksj:numOfPass>4299</ksj:numOfPass>
+  <ksj:pasVolume>5115</ksj:pasVolume>
+  <ksj:airportLine xlink:href="#cv163"/>
+</ksj:BetAport>
+<ksj:BetAport gml:id="aport_164">
+  <ksj:depAport>旭川</ksj:depAport>
+  <ksj:arrAport>大阪</ksj:arrAport>
+  <ksj:distAirRt>1320</ksj:distAirRt>
+  <ksj:frequency>0</ksj:frequency>
+  <ksj:numOfPass>2144</ksj:numOfPass>
+  <ksj:pasVolume>5115</ksj:pasVolume>
+  <ksj:numOfCargo>2</ksj:numOfCargo>
+  <ksj:airportLine xlink:href="#cv164"/>
+</ksj:BetAport>
+<ksj:BetAport gml:id="aport_165">
+  <ksj:depAport>大阪</ksj:depAport>
+  <ksj:arrAport>青森</ksj:arrAport>
+  <ksj:distAirRt>946</ksj:distAirRt>
+  <ksj:frequency>21</ksj:frequency>
+  <ksj:numOfPass>50712</ksj:numOfPass>
+  <ksj:pasVolume>74820</ksj:pasVolume>
+  <ksj:numOfCargo>42</ksj:numOfCargo>
+  <ksj:airportLine xlink:href="#cv165"/>
+</ksj:BetAport>
+<ksj:BetAport gml:id="aport_166">
+  <ksj:depAport>青森</ksj:depAport>
+  <ksj:arrAport>大阪</ksj:arrAport>
+  <ksj:distAirRt>946</ksj:distAirRt>
+  <ksj:frequency>21</ksj:frequency>
+  <ksj:numOfPass>50370</ksj:numOfPass>
+  <ksj:pasVolume>74366</ksj:pasVolume>
+  <ksj:numOfCargo>30</ksj:numOfCargo>
+  <ksj:airportLine xlink:href="#cv166"/>
+</ksj:BetAport>
+<ksj:BetAport gml:id="aport_167">
+  <ksj:depAport>大阪</ksj:depAport>
+  <ksj:arrAport>三沢</ksj:arrAport>
+  <ksj:distAirRt>985</ksj:distAirRt>
+  <ksj:frequency>5</ksj:frequency>
+  <ksj:numOfPass>15009</ksj:numOfPass>
+  <ksj:pasVolume>20900</ksj:pasVolume>
+  <ksj:numOfCargo>2</ksj:numOfCargo>
+  <ksj:airportLine xlink:href="#cv167"/>
+</ksj:BetAport>
+<ksj:BetAport gml:id="aport_168">
+  <ksj:depAport>三沢</ksj:depAport>
+  <ksj:arrAport>大阪</ksj:arrAport>
+  <ksj:distAirRt>985</ksj:distAirRt>
+  <ksj:frequency>5</ksj:frequency>
+  <ksj:numOfPass>11156</ksj:numOfPass>
+  <ksj:airportLine xlink:href="#cv168"/>
+</ksj:BetAport>
+<ksj:BetAport gml:id="aport_169">
+  <ksj:depAport>大阪</ksj:depAport>
+  <ksj:arrAport>花巻</ksj:arrAport>
+  <ksj:distAirRt>870</ksj:distAirRt>
+  <ksj:frequency>26</ksj:frequency>
+  <ksj:numOfPass>65609</ksj:numOfPass>
+  <ksj:pasVolume>102582</ksj:pasVolume>
+  <ksj:numOfCargo>31</ksj:numOfCargo>
+  <ksj:airportLine xlink:href="#cv169"/>
+</ksj:BetAport>
+<ksj:BetAport gml:id="aport_170">
+  <ksj:depAport>花巻</ksj:depAport>
+  <ksj:arrAport>大阪</ksj:arrAport>
+  <ksj:distAirRt>870</ksj:distAirRt>
+  <ksj:frequency>26</ksj:frequency>
+  <ksj:numOfPass>62660</ksj:numOfPass>
+  <ksj:pasVolume>102430</ksj:pasVolume>
+  <ksj:numOfCargo>93</ksj:numOfCargo>
+  <ksj:airportLine xlink:href="#cv170"/>
+</ksj:BetAport>
+<ksj:BetAport gml:id="aport_171">
+  <ksj:depAport>大阪</ksj:depAport>
+  <ksj:arrAport>仙台</ksj:arrAport>
+  <ksj:distAirRt>803</ksj:distAirRt>
+  <ksj:frequency>118</ksj:frequency>
+  <ksj:numOfPass>489518</ksj:numOfPass>
+  <ksj:pasVolume>821253</ksj:pasVolume>
+  <ksj:numOfCargo>1257</ksj:numOfCargo>
+  <ksj:airportLine xlink:href="#cv171"/>
+</ksj:BetAport>
+<ksj:BetAport gml:id="aport_172">
+  <ksj:depAport>仙台</ksj:depAport>
+  <ksj:arrAport>大阪</ksj:arrAport>
+  <ksj:distAirRt>803</ksj:distAirRt>
+  <ksj:frequency>117</ksj:frequency>
+  <ksj:numOfPass>489027</ksj:numOfPass>
+  <ksj:pasVolume>816730</ksj:pasVolume>
+  <ksj:numOfCargo>1951</ksj:numOfCargo>
+  <ksj:airportLine xlink:href="#cv172"/>
+</ksj:BetAport>
+<ksj:BetAport gml:id="aport_173">
+  <ksj:depAport>大阪</ksj:depAport>
+  <ksj:arrAport>秋田</ksj:arrAport>
+  <ksj:distAirRt>793</ksj:distAirRt>
+  <ksj:frequency>36</ksj:frequency>
+  <ksj:numOfPass>75369</ksj:numOfPass>
+  <ksj:pasVolume>128642</ksj:pasVolume>
+  <ksj:numOfCargo>36</ksj:numOfCargo>
+  <ksj:airportLine xlink:href="#cv173"/>
+</ksj:BetAport>
+<ksj:BetAport gml:id="aport_174">
+  <ksj:depAport>秋田</ksj:depAport>
+  <ksj:arrAport>大阪</ksj:arrAport>
+  <ksj:distAirRt>793</ksj:distAirRt>
+  <ksj:frequency>36</ksj:frequency>
+  <ksj:numOfPass>79352</ksj:numOfPass>
+  <ksj:pasVolume>128138</ksj:pasVolume>
+  <ksj:numOfCargo>8</ksj:numOfCargo>
+  <ksj:airportLine xlink:href="#cv174"/>
+</ksj:BetAport>
+<ksj:BetAport gml:id="aport_175">
+  <ksj:depAport>大阪</ksj:depAport>
+  <ksj:arrAport>山形</ksj:arrAport>
+  <ksj:distAirRt>730</ksj:distAirRt>
+  <ksj:frequency>20</ksj:frequency>
+  <ksj:numOfPass>40588</ksj:numOfPass>
+  <ksj:pasVolume>64124</ksj:pasVolume>
+  <ksj:airportLine xlink:href="#cv175"/>
+</ksj:BetAport>
+<ksj:BetAport gml:id="aport_176">
+  <ksj:depAport>山形</ksj:depAport>
+  <ksj:arrAport>大阪</ksj:arrAport>
+  <ksj:distAirRt>730</ksj:distAirRt>
+  <ksj:frequency>20</ksj:frequency>
+  <ksj:numOfPass>41127</ksj:numOfPass>
+  <ksj:pasVolume>63974</ksj:pasVolume>
+  <ksj:airportLine xlink:href="#cv176"/>
+</ksj:BetAport>
+<ksj:BetAport gml:id="aport_177">
+  <ksj:depAport>大阪</ksj:depAport>
+  <ksj:arrAport>福島</ksj:arrAport>
+  <ksj:distAirRt>662</ksj:distAirRt>
+  <ksj:frequency>33</ksj:frequency>
+  <ksj:numOfPass>64931</ksj:numOfPass>
+  <ksj:pasVolume>96012</ksj:pasVolume>
+  <ksj:numOfCargo>1</ksj:numOfCargo>
+  <ksj:airportLine xlink:href="#cv177"/>
+</ksj:BetAport>
+<ksj:BetAport gml:id="aport_178">
+  <ksj:depAport>福島</ksj:depAport>
+  <ksj:arrAport>大阪</ksj:arrAport>
+  <ksj:distAirRt>662</ksj:distAirRt>
+  <ksj:frequency>33</ksj:frequency>
+  <ksj:numOfPass>66284</ksj:numOfPass>
+  <ksj:pasVolume>95888</ksj:pasVolume>
+  <ksj:numOfCargo>1</ksj:numOfCargo>
+  <ksj:airportLine xlink:href="#cv178"/>
+</ksj:BetAport>
+<ksj:BetAport gml:id="aport_179">
+  <ksj:depAport>大阪</ksj:depAport>
+  <ksj:arrAport>新潟</ksj:arrAport>
+  <ksj:distAirRt>611</ksj:distAirRt>
+  <ksj:frequency>67</ksj:frequency>
+  <ksj:numOfPass>188165</ksj:numOfPass>
+  <ksj:pasVolume>303193</ksj:pasVolume>
+  <ksj:numOfCargo>62</ksj:numOfCargo>
+  <ksj:airportLine xlink:href="#cv179"/>
+</ksj:BetAport>
+<ksj:BetAport gml:id="aport_180">
+  <ksj:depAport>新潟</ksj:depAport>
+  <ksj:arrAport>大阪</ksj:arrAport>
+  <ksj:distAirRt>611</ksj:distAirRt>
+  <ksj:frequency>67</ksj:frequency>
+  <ksj:numOfPass>187890</ksj:numOfPass>
+  <ksj:pasVolume>301804</ksj:pasVolume>
+  <ksj:numOfCargo>68</ksj:numOfCargo>
+  <ksj:airportLine xlink:href="#cv180"/>
+</ksj:BetAport>
+<ksj:BetAport gml:id="aport_181">
+  <ksj:depAport>大阪</ksj:depAport>
+  <ksj:arrAport>但馬</ksj:arrAport>
+  <ksj:distAirRt>175</ksj:distAirRt>
+  <ksj:frequency>12</ksj:frequency>
+  <ksj:numOfPass>13766</ksj:numOfPass>
+  <ksj:pasVolume>22939</ksj:pasVolume>
+  <ksj:airportLine xlink:href="#cv181"/>
+</ksj:BetAport>
+<ksj:BetAport gml:id="aport_182">
+  <ksj:depAport>但馬</ksj:depAport>
+  <ksj:arrAport>大阪</ksj:arrAport>
+  <ksj:distAirRt>175</ksj:distAirRt>
+  <ksj:frequency>12</ksj:frequency>
+  <ksj:numOfPass>14367</ksj:numOfPass>
+  <ksj:pasVolume>21564</ksj:pasVolume>
+  <ksj:airportLine xlink:href="#cv182"/>
+</ksj:BetAport>
+<ksj:BetAport gml:id="aport_183">
+  <ksj:depAport>大阪</ksj:depAport>
+  <ksj:arrAport>隠岐</ksj:arrAport>
+  <ksj:distAirRt>366</ksj:distAirRt>
+  <ksj:frequency>6</ksj:frequency>
+  <ksj:numOfPass>17549</ksj:numOfPass>
+  <ksj:pasVolume>29201</ksj:pasVolume>
+  <ksj:numOfCargo>1</ksj:numOfCargo>
+  <ksj:airportLine xlink:href="#cv183"/>
+</ksj:BetAport>
+<ksj:BetAport gml:id="aport_184">
+  <ksj:depAport>隠岐</ksj:depAport>
+  <ksj:arrAport>大阪</ksj:arrAport>
+  <ksj:distAirRt>366</ksj:distAirRt>
+  <ksj:frequency>6</ksj:frequency>
+  <ksj:numOfPass>17830</ksj:numOfPass>
+  <ksj:pasVolume>29127</ksj:pasVolume>
+  <ksj:airportLine xlink:href="#cv184"/>
+</ksj:BetAport>
+<ksj:BetAport gml:id="aport_185">
+  <ksj:depAport>大阪</ksj:depAport>
+  <ksj:arrAport>出雲</ksj:arrAport>
+  <ksj:distAirRt>362</ksj:distAirRt>
+  <ksj:frequency>41</ksj:frequency>
+  <ksj:numOfPass>65560</ksj:numOfPass>
+  <ksj:pasVolume>105388</ksj:pasVolume>
+  <ksj:numOfCargo>20</ksj:numOfCargo>
+  <ksj:airportLine xlink:href="#cv185"/>
+</ksj:BetAport>
+<ksj:BetAport gml:id="aport_186">
+  <ksj:depAport>出雲</ksj:depAport>
+  <ksj:arrAport>大阪</ksj:arrAport>
+  <ksj:distAirRt>362</ksj:distAirRt>
+  <ksj:frequency>41</ksj:frequency>
+  <ksj:numOfPass>65420</ksj:numOfPass>
+  <ksj:pasVolume>104982</ksj:pasVolume>
+  <ksj:numOfCargo>17</ksj:numOfCargo>
+  <ksj:airportLine xlink:href="#cv186"/>
+</ksj:BetAport>
+<ksj:BetAport gml:id="aport_187">
+  <ksj:depAport>大阪</ksj:depAport>
+  <ksj:arrAport>石見</ksj:arrAport>
+  <ksj:distAirRt>477</ksj:distAirRt>
+  <ksj:frequency>0</ksj:frequency>
+  <ksj:numOfPass>2549</ksj:numOfPass>
+  <ksj:pasVolume>3774</ksj:pasVolume>
+  <ksj:airportLine xlink:href="#cv187"/>
+</ksj:BetAport>
+<ksj:BetAport gml:id="aport_188">
+  <ksj:depAport>石見</ksj:depAport>
+  <ksj:arrAport>大阪</ksj:arrAport>
+  <ksj:distAirRt>477</ksj:distAirRt>
+  <ksj:frequency>0</ksj:frequency>
+  <ksj:numOfPass>2348</ksj:numOfPass>
+  <ksj:pasVolume>3774</ksj:pasVolume>
+  <ksj:airportLine xlink:href="#cv188"/>
+</ksj:BetAport>
+<ksj:BetAport gml:id="aport_189">
+  <ksj:depAport>大阪</ksj:depAport>
+  <ksj:arrAport>松山</ksj:arrAport>
+  <ksj:distAirRt>378</ksj:distAirRt>
+  <ksj:frequency>82</ksj:frequency>
+  <ksj:numOfPass>252754</ksj:numOfPass>
+  <ksj:pasVolume>439070</ksj:pasVolume>
+  <ksj:numOfCargo>101</ksj:numOfCargo>
+  <ksj:airportLine xlink:href="#cv189"/>
+</ksj:BetAport>
+<ksj:BetAport gml:id="aport_190">
+  <ksj:depAport>松山</ksj:depAport>
+  <ksj:arrAport>大阪</ksj:arrAport>
+  <ksj:distAirRt>378</ksj:distAirRt>
+  <ksj:frequency>81</ksj:frequency>
+  <ksj:numOfPass>250336</ksj:numOfPass>
+  <ksj:pasVolume>438619</ksj:pasVolume>
+  <ksj:numOfCargo>328</ksj:numOfCargo>
+  <ksj:airportLine xlink:href="#cv190"/>
+</ksj:BetAport>
+<ksj:BetAport gml:id="aport_191">
+  <ksj:depAport>大阪</ksj:depAport>
+  <ksj:arrAport>高知</ksj:arrAport>
+  <ksj:distAirRt>300</ksj:distAirRt>
+  <ksj:frequency>47</ksj:frequency>
+  <ksj:numOfPass>140349</ksj:numOfPass>
+  <ksj:pasVolume>269646</ksj:pasVolume>
+  <ksj:numOfCargo>18</ksj:numOfCargo>
+  <ksj:airportLine xlink:href="#cv191"/>
+</ksj:BetAport>
+<ksj:BetAport gml:id="aport_192">
+  <ksj:depAport>高知</ksj:depAport>
+  <ksj:arrAport>大阪</ksj:arrAport>
+  <ksj:distAirRt>300</ksj:distAirRt>
+  <ksj:frequency>47</ksj:frequency>
+  <ksj:numOfPass>139442</ksj:numOfPass>
+  <ksj:pasVolume>269578</ksj:pasVolume>
+  <ksj:numOfCargo>126</ksj:numOfCargo>
+  <ksj:airportLine xlink:href="#cv192"/>
+</ksj:BetAport>
+<ksj:BetAport gml:id="aport_193">
+  <ksj:depAport>大阪</ksj:depAport>
+  <ksj:arrAport>長崎</ksj:arrAport>
+  <ksj:distAirRt>673</ksj:distAirRt>
+  <ksj:frequency>42</ksj:frequency>
+  <ksj:numOfPass>152824</ksj:numOfPass>
+  <ksj:pasVolume>244702</ksj:pasVolume>
+  <ksj:numOfCargo>168</ksj:numOfCargo>
+  <ksj:airportLine xlink:href="#cv193"/>
+</ksj:BetAport>
+<ksj:BetAport gml:id="aport_194">
+  <ksj:depAport>長崎</ksj:depAport>
+  <ksj:arrAport>大阪</ksj:arrAport>
+  <ksj:distAirRt>673</ksj:distAirRt>
+  <ksj:frequency>42</ksj:frequency>
+  <ksj:numOfPass>150016</ksj:numOfPass>
+  <ksj:pasVolume>245210</ksj:pasVolume>
+  <ksj:numOfCargo>454</ksj:numOfCargo>
+  <ksj:airportLine xlink:href="#cv194"/>
+</ksj:BetAport>
+<ksj:BetAport gml:id="aport_195">
+  <ksj:depAport>大阪</ksj:depAport>
+  <ksj:arrAport>熊本</ksj:arrAport>
+  <ksj:distAirRt>621</ksj:distAirRt>
+  <ksj:frequency>69</ksj:frequency>
+  <ksj:numOfPass>217676</ksj:numOfPass>
+  <ksj:pasVolume>339553</ksj:pasVolume>
+  <ksj:numOfCargo>561</ksj:numOfCargo>
+  <ksj:airportLine xlink:href="#cv195"/>
+</ksj:BetAport>
+<ksj:BetAport gml:id="aport_196">
+  <ksj:depAport>熊本</ksj:depAport>
+  <ksj:arrAport>大阪</ksj:arrAport>
+  <ksj:distAirRt>621</ksj:distAirRt>
+  <ksj:frequency>69</ksj:frequency>
+  <ksj:numOfPass>215301</ksj:numOfPass>
+  <ksj:pasVolume>356266</ksj:pasVolume>
+  <ksj:numOfCargo>726</ksj:numOfCargo>
+  <ksj:airportLine xlink:href="#cv196"/>
+</ksj:BetAport>
+<ksj:BetAport gml:id="aport_197">
+  <ksj:depAport>大阪</ksj:depAport>
+  <ksj:arrAport>大分</ksj:arrAport>
+  <ksj:distAirRt>462</ksj:distAirRt>
+  <ksj:frequency>48</ksj:frequency>
+  <ksj:numOfPass>95486</ksj:numOfPass>
+  <ksj:pasVolume>169761</ksj:pasVolume>
+  <ksj:numOfCargo>55</ksj:numOfCargo>
+  <ksj:airportLine xlink:href="#cv197"/>
+</ksj:BetAport>
+<ksj:BetAport gml:id="aport_198">
+  <ksj:depAport>大分</ksj:depAport>
+  <ksj:arrAport>大阪</ksj:arrAport>
+  <ksj:distAirRt>462</ksj:distAirRt>
+  <ksj:frequency>48</ksj:frequency>
+  <ksj:numOfPass>94501</ksj:numOfPass>
+  <ksj:pasVolume>169110</ksj:pasVolume>
+  <ksj:numOfCargo>214</ksj:numOfCargo>
+  <ksj:airportLine xlink:href="#cv198"/>
+</ksj:BetAport>
+<ksj:BetAport gml:id="aport_199">
+  <ksj:depAport>大阪</ksj:depAport>
+  <ksj:arrAport>宮崎</ksj:arrAport>
+  <ksj:distAirRt>568</ksj:distAirRt>
+  <ksj:frequency>82</ksj:frequency>
+  <ksj:numOfPass>267675</ksj:numOfPass>
+  <ksj:pasVolume>451012</ksj:pasVolume>
+  <ksj:numOfCargo>283</ksj:numOfCargo>
+  <ksj:airportLine xlink:href="#cv199"/>
+</ksj:BetAport>
+<ksj:BetAport gml:id="aport_200">
+  <ksj:depAport>宮崎</ksj:depAport>
+  <ksj:arrAport>大阪</ksj:arrAport>
+  <ksj:distAirRt>568</ksj:distAirRt>
+  <ksj:frequency>82</ksj:frequency>
+  <ksj:numOfPass>266317</ksj:numOfPass>
+  <ksj:pasVolume>438278</ksj:pasVolume>
+  <ksj:numOfCargo>781</ksj:numOfCargo>
+  <ksj:airportLine xlink:href="#cv200"/>
+</ksj:BetAport>
+<ksj:BetAport gml:id="aport_201">
+  <ksj:depAport>大阪</ksj:depAport>
+  <ksj:arrAport>鹿児島</ksj:arrAport>
+  <ksj:distAirRt>655</ksj:distAirRt>
+  <ksj:frequency>89</ksj:frequency>
+  <ksj:numOfPass>336521</ksj:numOfPass>
+  <ksj:pasVolume>606824</ksj:pasVolume>
+  <ksj:numOfCargo>764</ksj:numOfCargo>
+  <ksj:airportLine xlink:href="#cv201"/>
+</ksj:BetAport>
+<ksj:BetAport gml:id="aport_202">
+  <ksj:depAport>鹿児島</ksj:depAport>
+  <ksj:arrAport>大阪</ksj:arrAport>
+  <ksj:distAirRt>655</ksj:distAirRt>
+  <ksj:frequency>89</ksj:frequency>
+  <ksj:numOfPass>331259</ksj:numOfPass>
+  <ksj:pasVolume>612499</ksj:pasVolume>
+  <ksj:numOfCargo>2659</ksj:numOfCargo>
+  <ksj:airportLine xlink:href="#cv202"/>
+</ksj:BetAport>
+<ksj:BetAport gml:id="aport_203">
+  <ksj:depAport>大阪</ksj:depAport>
+  <ksj:arrAport>種子島</ksj:arrAport>
+  <ksj:distAirRt>692</ksj:distAirRt>
+  <ksj:frequency>0</ksj:frequency>
+  <ksj:numOfPass>1639</ksj:numOfPass>
+  <ksj:pasVolume>3330</ksj:pasVolume>
+  <ksj:airportLine xlink:href="#cv203"/>
+</ksj:BetAport>
+<ksj:BetAport gml:id="aport_204">
+  <ksj:depAport>種子島</ksj:depAport>
+  <ksj:arrAport>大阪</ksj:arrAport>
+  <ksj:distAirRt>692</ksj:distAirRt>
+  <ksj:frequency>0</ksj:frequency>
+  <ksj:numOfPass>1682</ksj:numOfPass>
+  <ksj:pasVolume>3330</ksj:pasVolume>
+  <ksj:airportLine xlink:href="#cv204"/>
+</ksj:BetAport>
+<ksj:BetAport gml:id="aport_205">
+  <ksj:depAport>大阪</ksj:depAport>
+  <ksj:arrAport>屋久島</ksj:arrAport>
+  <ksj:distAirRt>707</ksj:distAirRt>
+  <ksj:frequency>6</ksj:frequency>
+  <ksj:numOfPass>17819</ksj:numOfPass>
+  <ksj:pasVolume>26640</ksj:pasVolume>
+  <ksj:airportLine xlink:href="#cv205"/>
+</ksj:BetAport>
+<ksj:BetAport gml:id="aport_206">
+  <ksj:depAport>屋久島</ksj:depAport>
+  <ksj:arrAport>大阪</ksj:arrAport>
+  <ksj:distAirRt>707</ksj:distAirRt>
+  <ksj:frequency>6</ksj:frequency>
+  <ksj:numOfPass>16367</ksj:numOfPass>
+  <ksj:pasVolume>26528</ksj:pasVolume>
+  <ksj:airportLine xlink:href="#cv206"/>
+</ksj:BetAport>
+<ksj:BetAport gml:id="aport_207">
+  <ksj:depAport>大阪</ksj:depAport>
+  <ksj:arrAport>奄美</ksj:arrAport>
+  <ksj:distAirRt>989</ksj:distAirRt>
+  <ksj:frequency>7</ksj:frequency>
+  <ksj:numOfPass>41298</ksj:numOfPass>
+  <ksj:pasVolume>67320</ksj:pasVolume>
+  <ksj:numOfCargo>5</ksj:numOfCargo>
+  <ksj:airportLine xlink:href="#cv207"/>
+</ksj:BetAport>
+<ksj:BetAport gml:id="aport_208">
+  <ksj:depAport>奄美</ksj:depAport>
+  <ksj:arrAport>大阪</ksj:arrAport>
+  <ksj:distAirRt>989</ksj:distAirRt>
+  <ksj:frequency>7</ksj:frequency>
+  <ksj:numOfPass>41107</ksj:numOfPass>
+  <ksj:pasVolume>67320</ksj:pasVolume>
+  <ksj:numOfCargo>21</ksj:numOfCargo>
+  <ksj:airportLine xlink:href="#cv208"/>
+</ksj:BetAport>
+<ksj:BetAport gml:id="aport_209">
+  <ksj:depAport>関西</ksj:depAport>
+  <ksj:arrAport>函館</ksj:arrAport>
+  <ksj:distAirRt>1197</ksj:distAirRt>
+  <ksj:frequency>10</ksj:frequency>
+  <ksj:numOfPass>42622</ksj:numOfPass>
+  <ksj:pasVolume>74783</ksj:pasVolume>
+  <ksj:numOfCargo>70</ksj:numOfCargo>
+  <ksj:airportLine xlink:href="#cv209"/>
+</ksj:BetAport>
+<ksj:BetAport gml:id="aport_210">
+  <ksj:depAport>函館</ksj:depAport>
+  <ksj:arrAport>関西</ksj:arrAport>
+  <ksj:distAirRt>1197</ksj:distAirRt>
+  <ksj:frequency>10</ksj:frequency>
+  <ksj:numOfPass>42155</ksj:numOfPass>
+  <ksj:pasVolume>74153</ksj:pasVolume>
+  <ksj:numOfCargo>12</ksj:numOfCargo>
+  <ksj:airportLine xlink:href="#cv210"/>
+</ksj:BetAport>
+<ksj:BetAport gml:id="aport_211">
+  <ksj:depAport>関西</ksj:depAport>
+  <ksj:arrAport>旭川</ksj:arrAport>
+  <ksj:distAirRt>1461</ksj:distAirRt>
+  <ksj:frequency>2</ksj:frequency>
+  <ksj:numOfPass>6038</ksj:numOfPass>
+  <ksj:pasVolume>19156</ksj:pasVolume>
+  <ksj:airportLine xlink:href="#cv211"/>
+</ksj:BetAport>
+<ksj:BetAport gml:id="aport_212">
+  <ksj:depAport>旭川</ksj:depAport>
+  <ksj:arrAport>関西</ksj:arrAport>
+  <ksj:distAirRt>1461</ksj:distAirRt>
+  <ksj:frequency>2</ksj:frequency>
+  <ksj:numOfPass>13050</ksj:numOfPass>
+  <ksj:pasVolume>19156</ksj:pasVolume>
+  <ksj:numOfCargo>17</ksj:numOfCargo>
+  <ksj:airportLine xlink:href="#cv212"/>
+</ksj:BetAport>
+<ksj:BetAport gml:id="aport_213">
+  <ksj:depAport>関西</ksj:depAport>
+  <ksj:arrAport>女満別</ksj:arrAport>
+  <ksj:distAirRt>1589</ksj:distAirRt>
+  <ksj:frequency>2</ksj:frequency>
+  <ksj:numOfPass>15874</ksj:numOfPass>
+  <ksj:pasVolume>19264</ksj:pasVolume>
+  <ksj:airportLine xlink:href="#cv213"/>
+</ksj:BetAport>
+<ksj:BetAport gml:id="aport_214">
+  <ksj:depAport>女満別</ksj:depAport>
+  <ksj:arrAport>関西</ksj:arrAport>
+  <ksj:distAirRt>1589</ksj:distAirRt>
+  <ksj:frequency>2</ksj:frequency>
+  <ksj:numOfPass>11370</ksj:numOfPass>
+  <ksj:pasVolume>19271</ksj:pasVolume>
+  <ksj:numOfCargo>25</ksj:numOfCargo>
+  <ksj:airportLine xlink:href="#cv214"/>
+</ksj:BetAport>
+<ksj:BetAport gml:id="aport_215">
+  <ksj:depAport>関西</ksj:depAport>
+  <ksj:arrAport>仙台</ksj:arrAport>
+  <ksj:distAirRt>910</ksj:distAirRt>
+  <ksj:frequency>11</ksj:frequency>
+  <ksj:numOfPass>93127</ksj:numOfPass>
+  <ksj:pasVolume>105660</ksj:pasVolume>
+  <ksj:airportLine xlink:href="#cv215"/>
+</ksj:BetAport>
+<ksj:BetAport gml:id="aport_216">
+  <ksj:depAport>仙台</ksj:depAport>
+  <ksj:arrAport>関西</ksj:arrAport>
+  <ksj:distAirRt>910</ksj:distAirRt>
+  <ksj:frequency>11</ksj:frequency>
+  <ksj:numOfPass>93460</ksj:numOfPass>
+  <ksj:pasVolume>105660</ksj:pasVolume>
+  <ksj:airportLine xlink:href="#cv216"/>
+</ksj:BetAport>
+<ksj:BetAport gml:id="aport_217">
+  <ksj:depAport>関西</ksj:depAport>
+  <ksj:arrAport>松山</ksj:arrAport>
+  <ksj:distAirRt>353</ksj:distAirRt>
+  <ksj:frequency>0</ksj:frequency>
+  <ksj:pasVolume>0</ksj:pasVolume>
+  <ksj:airportLine xlink:href="#cv217"/>
+</ksj:BetAport>
+<ksj:BetAport gml:id="aport_218">
+  <ksj:depAport>松山</ksj:depAport>
+  <ksj:arrAport>関西</ksj:arrAport>
+  <ksj:distAirRt>353</ksj:distAirRt>
+  <ksj:frequency>0</ksj:frequency>
+  <ksj:pasVolume>0</ksj:pasVolume>
+  <ksj:airportLine xlink:href="#cv218"/>
+</ksj:BetAport>
+<ksj:BetAport gml:id="aport_219">
+  <ksj:depAport>関西</ksj:depAport>
+  <ksj:arrAport>長崎</ksj:arrAport>
+  <ksj:distAirRt>648</ksj:distAirRt>
+  <ksj:frequency>9</ksj:frequency>
+  <ksj:numOfPass>69497</ksj:numOfPass>
+  <ksj:pasVolume>88920</ksj:pasVolume>
+  <ksj:airportLine xlink:href="#cv219"/>
+</ksj:BetAport>
+<ksj:BetAport gml:id="aport_220">
+  <ksj:depAport>長崎</ksj:depAport>
+  <ksj:arrAport>関西</ksj:arrAport>
+  <ksj:distAirRt>648</ksj:distAirRt>
+  <ksj:frequency>9</ksj:frequency>
+  <ksj:numOfPass>73505</ksj:numOfPass>
+  <ksj:pasVolume>88920</ksj:pasVolume>
+  <ksj:airportLine xlink:href="#cv220"/>
+</ksj:BetAport>
+<ksj:BetAport gml:id="aport_221">
+  <ksj:depAport>関西</ksj:depAport>
+  <ksj:arrAport>佐賀</ksj:arrAport>
+  <ksj:distAirRt>624</ksj:distAirRt>
+  <ksj:frequency>0</ksj:frequency>
+  <ksj:pasVolume>0</ksj:pasVolume>
+  <ksj:airportLine xlink:href="#cv221"/>
+</ksj:BetAport>
+<ksj:BetAport gml:id="aport_222">
+  <ksj:depAport>佐賀</ksj:depAport>
+  <ksj:arrAport>関西</ksj:arrAport>
+  <ksj:distAirRt>624</ksj:distAirRt>
+  <ksj:frequency>4</ksj:frequency>
+  <ksj:pasVolume>0</ksj:pasVolume>
+  <ksj:numOfCargo>939</ksj:numOfCargo>
+  <ksj:airportLine xlink:href="#cv222"/>
+</ksj:BetAport>
+<ksj:BetAport gml:id="aport_223">
+  <ksj:depAport>関西</ksj:depAport>
+  <ksj:arrAport>鹿児島</ksj:arrAport>
+  <ksj:distAirRt>612</ksj:distAirRt>
+  <ksj:frequency>19</ksj:frequency>
+  <ksj:numOfPass>153899</ksj:numOfPass>
+  <ksj:pasVolume>184860</ksj:pasVolume>
+  <ksj:airportLine xlink:href="#cv223"/>
+</ksj:BetAport>
+<ksj:BetAport gml:id="aport_224">
+  <ksj:depAport>鹿児島</ksj:depAport>
+  <ksj:arrAport>関西</ksj:arrAport>
+  <ksj:distAirRt>612</ksj:distAirRt>
+  <ksj:frequency>19</ksj:frequency>
+  <ksj:numOfPass>156480</ksj:numOfPass>
+  <ksj:pasVolume>184860</ksj:pasVolume>
+  <ksj:airportLine xlink:href="#cv224"/>
+</ksj:BetAport>
+<ksj:BetAport gml:id="aport_225">
+  <ksj:depAport>関西</ksj:depAport>
+  <ksj:arrAport>石垣</ksj:arrAport>
+  <ksj:distAirRt>1650</ksj:distAirRt>
+  <ksj:frequency>16</ksj:frequency>
+  <ksj:numOfPass>98079</ksj:numOfPass>
+  <ksj:pasVolume>138462</ksj:pasVolume>
+  <ksj:numOfCargo>193</ksj:numOfCargo>
+  <ksj:airportLine xlink:href="#cv225"/>
+</ksj:BetAport>
+<ksj:BetAport gml:id="aport_226">
+  <ksj:depAport>石垣</ksj:depAport>
+  <ksj:arrAport>関西</ksj:arrAport>
+  <ksj:distAirRt>1650</ksj:distAirRt>
+  <ksj:frequency>16</ksj:frequency>
+  <ksj:numOfPass>85450</ksj:numOfPass>
+  <ksj:pasVolume>137071</ksj:pasVolume>
+  <ksj:numOfCargo>87</ksj:numOfCargo>
+  <ksj:airportLine xlink:href="#cv226"/>
+</ksj:BetAport>
+<ksj:BetAport gml:id="aport_227">
+  <ksj:depAport>関西</ksj:depAport>
+  <ksj:arrAport>石垣</ksj:arrAport>
+  <ksj:distAirRt>1650</ksj:distAirRt>
+  <ksj:frequency>1</ksj:frequency>
+  <ksj:numOfPass>4014</ksj:numOfPass>
+  <ksj:pasVolume>8755</ksj:pasVolume>
+  <ksj:numOfCargo>16</ksj:numOfCargo>
+  <ksj:airportLine xlink:href="#cv227"/>
+</ksj:BetAport>
+<ksj:BetAport gml:id="aport_228">
+  <ksj:depAport>石垣</ksj:depAport>
+  <ksj:trsAport>那覇</ksj:trsAport>
+  <ksj:arrAport>関西</ksj:arrAport>
+  <ksj:distAirRt>1650</ksj:distAirRt>
+  <ksj:frequency>1</ksj:frequency>
+  <ksj:numOfPass>9397</ksj:numOfPass>
+  <ksj:pasVolume>9620</ksj:pasVolume>
+  <ksj:numOfCargo>81</ksj:numOfCargo>
+  <ksj:airportLine xlink:href="#cv228"/>
+</ksj:BetAport>
+<ksj:BetAport gml:id="aport_229">
+  <ksj:depAport>新千歳</ksj:depAport>
+  <ksj:arrAport>稚内</ksj:arrAport>
+  <ksj:distAirRt>357</ksj:distAirRt>
+  <ksj:frequency>12</ksj:frequency>
+  <ksj:numOfPass>23419</ksj:numOfPass>
+  <ksj:pasVolume>58792</ksj:pasVolume>
+  <ksj:numOfCargo>2</ksj:numOfCargo>
+  <ksj:airportLine xlink:href="#cv229"/>
+</ksj:BetAport>
+<ksj:BetAport gml:id="aport_230">
+  <ksj:depAport>稚内</ksj:depAport>
+  <ksj:arrAport>新千歳</ksj:arrAport>
+  <ksj:distAirRt>357</ksj:distAirRt>
+  <ksj:frequency>12</ksj:frequency>
+  <ksj:numOfPass>24341</ksj:numOfPass>
+  <ksj:pasVolume>58570</ksj:pasVolume>
+  <ksj:numOfCargo>3</ksj:numOfCargo>
+  <ksj:airportLine xlink:href="#cv230"/>
+</ksj:BetAport>
+<ksj:BetAport gml:id="aport_231">
+  <ksj:depAport>新千歳</ksj:depAport>
+  <ksj:arrAport>釧路</ksj:arrAport>
+  <ksj:distAirRt>276</ksj:distAirRt>
+  <ksj:frequency>20</ksj:frequency>
+  <ksj:numOfPass>46892</ksj:numOfPass>
+  <ksj:pasVolume>109609</ksj:pasVolume>
+  <ksj:numOfCargo>4</ksj:numOfCargo>
+  <ksj:airportLine xlink:href="#cv231"/>
+</ksj:BetAport>
+<ksj:BetAport gml:id="aport_232">
+  <ksj:depAport>釧路</ksj:depAport>
+  <ksj:arrAport>新千歳</ksj:arrAport>
+  <ksj:distAirRt>276</ksj:distAirRt>
+  <ksj:frequency>20</ksj:frequency>
+  <ksj:numOfPass>49960</ksj:numOfPass>
+  <ksj:pasVolume>109536</ksj:pasVolume>
+  <ksj:numOfCargo>37</ksj:numOfCargo>
+  <ksj:airportLine xlink:href="#cv232"/>
+</ksj:BetAport>
+<ksj:BetAport gml:id="aport_233">
+  <ksj:depAport>新千歳</ksj:depAport>
+  <ksj:arrAport>函館</ksj:arrAport>
+  <ksj:distAirRt>217</ksj:distAirRt>
+  <ksj:frequency>13</ksj:frequency>
+  <ksj:numOfPass>27761</ksj:numOfPass>
+  <ksj:pasVolume>52984</ksj:pasVolume>
+  <ksj:numOfCargo>2</ksj:numOfCargo>
+  <ksj:airportLine xlink:href="#cv233"/>
+</ksj:BetAport>
+<ksj:BetAport gml:id="aport_234">
+  <ksj:depAport>函館</ksj:depAport>
+  <ksj:arrAport>新千歳</ksj:arrAport>
+  <ksj:distAirRt>217</ksj:distAirRt>
+  <ksj:frequency>13</ksj:frequency>
+  <ksj:numOfPass>27507</ksj:numOfPass>
+  <ksj:pasVolume>52912</ksj:pasVolume>
+  <ksj:numOfCargo>2</ksj:numOfCargo>
+  <ksj:airportLine xlink:href="#cv234"/>
+</ksj:BetAport>
+<ksj:BetAport gml:id="aport_235">
+  <ksj:depAport>新千歳</ksj:depAport>
+  <ksj:arrAport>利尻</ksj:arrAport>
+  <ksj:distAirRt>368</ksj:distAirRt>
+  <ksj:frequency>2</ksj:frequency>
+  <ksj:numOfPass>9789</ksj:numOfPass>
+  <ksj:pasVolume>15119</ksj:pasVolume>
+  <ksj:airportLine xlink:href="#cv235"/>
+</ksj:BetAport>
+<ksj:BetAport gml:id="aport_236">
+  <ksj:depAport>利尻</ksj:depAport>
+  <ksj:arrAport>新千歳</ksj:arrAport>
+  <ksj:distAirRt>368</ksj:distAirRt>
+  <ksj:frequency>2</ksj:frequency>
+  <ksj:numOfPass>8240</ksj:numOfPass>
+  <ksj:pasVolume>15119</ksj:pasVolume>
+  <ksj:numOfCargo>3</ksj:numOfCargo>
+  <ksj:airportLine xlink:href="#cv236"/>
+</ksj:BetAport>
+<ksj:BetAport gml:id="aport_237">
+  <ksj:depAport>新千歳</ksj:depAport>
+  <ksj:arrAport>中標津</ksj:arrAport>
+  <ksj:distAirRt>374</ksj:distAirRt>
+  <ksj:frequency>20</ksj:frequency>
+  <ksj:numOfPass>48773</ksj:numOfPass>
+  <ksj:pasVolume>87556</ksj:pasVolume>
+  <ksj:airportLine xlink:href="#cv237"/>
+</ksj:BetAport>
+<ksj:BetAport gml:id="aport_238">
+  <ksj:depAport>中標津</ksj:depAport>
+  <ksj:arrAport>新千歳</ksj:arrAport>
+  <ksj:distAirRt>374</ksj:distAirRt>
+  <ksj:frequency>20</ksj:frequency>
+  <ksj:numOfPass>49729</ksj:numOfPass>
+  <ksj:pasVolume>87097</ksj:pasVolume>
+  <ksj:numOfCargo>27</ksj:numOfCargo>
+  <ksj:airportLine xlink:href="#cv238"/>
+</ksj:BetAport>
+<ksj:BetAport gml:id="aport_239">
+  <ksj:depAport>新千歳</ksj:depAport>
+  <ksj:arrAport>紋別</ksj:arrAport>
+  <ksj:distAirRt>319</ksj:distAirRt>
+  <ksj:frequency>1</ksj:frequency>
+  <ksj:numOfPass>5506</ksj:numOfPass>
+  <ksj:pasVolume>16159</ksj:pasVolume>
+  <ksj:airportLine xlink:href="#cv239"/>
+</ksj:BetAport>
+<ksj:BetAport gml:id="aport_240">
+  <ksj:depAport>紋別</ksj:depAport>
+  <ksj:arrAport>新千歳</ksj:arrAport>
+  <ksj:distAirRt>319</ksj:distAirRt>
+  <ksj:frequency>1</ksj:frequency>
+  <ksj:numOfPass>3626</ksj:numOfPass>
+  <ksj:pasVolume>16159</ksj:pasVolume>
+  <ksj:airportLine xlink:href="#cv240"/>
+</ksj:BetAport>
+<ksj:BetAport gml:id="aport_241">
+  <ksj:depAport>新千歳</ksj:depAport>
+  <ksj:arrAport>女満別</ksj:arrAport>
+  <ksj:distAirRt>354</ksj:distAirRt>
+  <ksj:frequency>41</ksj:frequency>
+  <ksj:numOfPass>85260</ksj:numOfPass>
+  <ksj:pasVolume>152209</ksj:pasVolume>
+  <ksj:numOfCargo>2</ksj:numOfCargo>
+  <ksj:airportLine xlink:href="#cv241"/>
+</ksj:BetAport>
+<ksj:BetAport gml:id="aport_242">
+  <ksj:depAport>女満別</ksj:depAport>
+  <ksj:arrAport>新千歳</ksj:arrAport>
+  <ksj:distAirRt>354</ksj:distAirRt>
+  <ksj:frequency>41</ksj:frequency>
+  <ksj:numOfPass>85024</ksj:numOfPass>
+  <ksj:pasVolume>150956</ksj:pasVolume>
+  <ksj:numOfCargo>22</ksj:numOfCargo>
+  <ksj:airportLine xlink:href="#cv242"/>
+</ksj:BetAport>
+<ksj:BetAport gml:id="aport_243">
+  <ksj:depAport>新千歳</ksj:depAport>
+  <ksj:arrAport>青森</ksj:arrAport>
+  <ksj:distAirRt>307</ksj:distAirRt>
+  <ksj:frequency>20</ksj:frequency>
+  <ksj:numOfPass>44687</ksj:numOfPass>
+  <ksj:pasVolume>68784</ksj:pasVolume>
+  <ksj:numOfCargo>4</ksj:numOfCargo>
+  <ksj:airportLine xlink:href="#cv243"/>
+</ksj:BetAport>
+<ksj:BetAport gml:id="aport_244">
+  <ksj:depAport>青森</ksj:depAport>
+  <ksj:arrAport>新千歳</ksj:arrAport>
+  <ksj:distAirRt>307</ksj:distAirRt>
+  <ksj:frequency>20</ksj:frequency>
+  <ksj:numOfPass>42769</ksj:numOfPass>
+  <ksj:pasVolume>68784</ksj:pasVolume>
+  <ksj:numOfCargo>26</ksj:numOfCargo>
+  <ksj:airportLine xlink:href="#cv244"/>
+</ksj:BetAport>
+<ksj:BetAport gml:id="aport_245">
+  <ksj:depAport>新千歳</ksj:depAport>
+  <ksj:arrAport>花巻</ksj:arrAport>
+  <ksj:distAirRt>467</ksj:distAirRt>
+  <ksj:frequency>24</ksj:frequency>
+  <ksj:numOfPass>44561</ksj:numOfPass>
+  <ksj:pasVolume>72362</ksj:pasVolume>
+  <ksj:numOfCargo>2</ksj:numOfCargo>
+  <ksj:airportLine xlink:href="#cv245"/>
+</ksj:BetAport>
+<ksj:BetAport gml:id="aport_246">
+  <ksj:depAport>花巻</ksj:depAport>
+  <ksj:arrAport>新千歳</ksj:arrAport>
+  <ksj:distAirRt>467</ksj:distAirRt>
+  <ksj:frequency>24</ksj:frequency>
+  <ksj:numOfPass>45351</ksj:numOfPass>
+  <ksj:pasVolume>72362</ksj:pasVolume>
+  <ksj:numOfCargo>8</ksj:numOfCargo>
+  <ksj:airportLine xlink:href="#cv246"/>
+</ksj:BetAport>
+<ksj:BetAport gml:id="aport_247">
+  <ksj:depAport>新千歳</ksj:depAport>
+  <ksj:arrAport>秋田</ksj:arrAport>
+  <ksj:distAirRt>443</ksj:distAirRt>
+  <ksj:frequency>30</ksj:frequency>
+  <ksj:numOfPass>46796</ksj:numOfPass>
+  <ksj:pasVolume>94833</ksj:pasVolume>
+  <ksj:numOfCargo>2</ksj:numOfCargo>
+  <ksj:airportLine xlink:href="#cv247"/>
+</ksj:BetAport>
+<ksj:BetAport gml:id="aport_248">
+  <ksj:depAport>秋田</ksj:depAport>
+  <ksj:arrAport>新千歳</ksj:arrAport>
+  <ksj:distAirRt>443</ksj:distAirRt>
+  <ksj:frequency>30</ksj:frequency>
+  <ksj:numOfPass>46839</ksj:numOfPass>
+  <ksj:pasVolume>94869</ksj:pasVolume>
+  <ksj:numOfCargo>5</ksj:numOfCargo>
+  <ksj:airportLine xlink:href="#cv248"/>
+</ksj:BetAport>
+<ksj:BetAport gml:id="aport_249">
+  <ksj:depAport>新千歳</ksj:depAport>
+  <ksj:arrAport>茨城</ksj:arrAport>
+  <ksj:distAirRt>807</ksj:distAirRt>
+  <ksj:frequency>11</ksj:frequency>
+  <ksj:numOfPass>57864</ksj:numOfPass>
+  <ksj:pasVolume>107085</ksj:pasVolume>
+  <ksj:airportLine xlink:href="#cv249"/>
+</ksj:BetAport>
+<ksj:BetAport gml:id="aport_250">
+  <ksj:depAport>茨城</ksj:depAport>
+  <ksj:arrAport>新千歳</ksj:arrAport>
+  <ksj:distAirRt>807</ksj:distAirRt>
+  <ksj:frequency>11</ksj:frequency>
+  <ksj:numOfPass>57849</ksj:numOfPass>
+  <ksj:pasVolume>107262</ksj:pasVolume>
+  <ksj:airportLine xlink:href="#cv250"/>
+</ksj:BetAport>
+<ksj:BetAport gml:id="aport_251">
+  <ksj:depAport>新千歳</ksj:depAport>
+  <ksj:arrAport>松本</ksj:arrAport>
+  <ksj:distAirRt>889</ksj:distAirRt>
+  <ksj:frequency>6</ksj:frequency>
+  <ksj:numOfPass>20762</ksj:numOfPass>
+  <ksj:pasVolume>27472</ksj:pasVolume>
+  <ksj:airportLine xlink:href="#cv251"/>
+</ksj:BetAport>
+<ksj:BetAport gml:id="aport_252">
+  <ksj:depAport>松本</ksj:depAport>
+  <ksj:arrAport>新千歳</ksj:arrAport>
+  <ksj:distAirRt>889</ksj:distAirRt>
+  <ksj:frequency>6</ksj:frequency>
+  <ksj:numOfPass>20777</ksj:numOfPass>
+  <ksj:pasVolume>27852</ksj:pasVolume>
+  <ksj:airportLine xlink:href="#cv252"/>
+</ksj:BetAport>
+<ksj:BetAport gml:id="aport_253">
+  <ksj:depAport>丘珠</ksj:depAport>
+  <ksj:arrAport>利尻</ksj:arrAport>
+  <ksj:distAirRt>238</ksj:distAirRt>
+  <ksj:frequency>6</ksj:frequency>
+  <ksj:numOfPass>8560</ksj:numOfPass>
+  <ksj:pasVolume>12528</ksj:pasVolume>
+  <ksj:airportLine xlink:href="#cv253"/>
+</ksj:BetAport>
+<ksj:BetAport gml:id="aport_254">
+  <ksj:depAport>利尻</ksj:depAport>
+  <ksj:arrAport>丘珠</ksj:arrAport>
+  <ksj:distAirRt>238</ksj:distAirRt>
+  <ksj:frequency>6</ksj:frequency>
+  <ksj:numOfPass>8599</ksj:numOfPass>
+  <ksj:pasVolume>12492</ksj:pasVolume>
+  <ksj:airportLine xlink:href="#cv254"/>
+</ksj:BetAport>
+<ksj:BetAport gml:id="aport_255">
+  <ksj:depAport>丘珠</ksj:depAport>
+  <ksj:arrAport>釧路</ksj:arrAport>
+  <ksj:distAirRt>282</ksj:distAirRt>
+  <ksj:frequency>22</ksj:frequency>
+  <ksj:numOfPass>21522</ksj:numOfPass>
+  <ksj:pasVolume>41256</ksj:pasVolume>
+  <ksj:numOfCargo>4</ksj:numOfCargo>
+  <ksj:airportLine xlink:href="#cv255"/>
+</ksj:BetAport>
+<ksj:BetAport gml:id="aport_256">
+  <ksj:depAport>釧路</ksj:depAport>
+  <ksj:arrAport>丘珠</ksj:arrAport>
+  <ksj:distAirRt>282</ksj:distAirRt>
+  <ksj:frequency>21</ksj:frequency>
+  <ksj:numOfPass>21820</ksj:numOfPass>
+  <ksj:pasVolume>41148</ksj:pasVolume>
+  <ksj:numOfCargo>1</ksj:numOfCargo>
+  <ksj:airportLine xlink:href="#cv256"/>
+</ksj:BetAport>
+<ksj:BetAport gml:id="aport_257">
+  <ksj:depAport>丘珠</ksj:depAport>
+  <ksj:arrAport>函館</ksj:arrAport>
+  <ksj:distAirRt>257</ksj:distAirRt>
+  <ksj:frequency>32</ksj:frequency>
+  <ksj:numOfPass>37376</ksj:numOfPass>
+  <ksj:pasVolume>60804</ksj:pasVolume>
+  <ksj:numOfCargo>2</ksj:numOfCargo>
+  <ksj:airportLine xlink:href="#cv257"/>
+</ksj:BetAport>
+<ksj:BetAport gml:id="aport_258">
+  <ksj:depAport>函館</ksj:depAport>
+  <ksj:arrAport>丘珠</ksj:arrAport>
+  <ksj:distAirRt>257</ksj:distAirRt>
+  <ksj:frequency>32</ksj:frequency>
+  <ksj:numOfPass>37383</ksj:numOfPass>
+  <ksj:pasVolume>60624</ksj:pasVolume>
+  <ksj:numOfCargo>2</ksj:numOfCargo>
+  <ksj:airportLine xlink:href="#cv258"/>
+</ksj:BetAport>
+<ksj:BetAport gml:id="aport_259">
+  <ksj:depAport>丘珠</ksj:depAport>
+  <ksj:arrAport>三沢</ksj:arrAport>
+  <ksj:distAirRt>389</ksj:distAirRt>
+  <ksj:frequency>3</ksj:frequency>
+  <ksj:numOfPass>3899</ksj:numOfPass>
+  <ksj:pasVolume>6840</ksj:pasVolume>
+  <ksj:airportLine xlink:href="#cv259"/>
+</ksj:BetAport>
+<ksj:BetAport gml:id="aport_260">
+  <ksj:depAport>三沢</ksj:depAport>
+  <ksj:arrAport>丘珠</ksj:arrAport>
+  <ksj:distAirRt>389</ksj:distAirRt>
+  <ksj:frequency>3</ksj:frequency>
+  <ksj:numOfPass>4160</ksj:numOfPass>
+  <ksj:pasVolume>6840</ksj:pasVolume>
+  <ksj:airportLine xlink:href="#cv260"/>
+</ksj:BetAport>
+<ksj:BetAport gml:id="aport_261">
+  <ksj:depAport>丘珠</ksj:depAport>
+  <ksj:trsAport>函館</ksj:trsAport>
+  <ksj:arrAport>三沢</ksj:arrAport>
+  <ksj:distAirRt>470</ksj:distAirRt>
+  <ksj:frequency>2</ksj:frequency>
+  <ksj:numOfPass>4415</ksj:numOfPass>
+  <ksj:pasVolume>4320</ksj:pasVolume>
+  <ksj:airportLine xlink:href="#cv261"/>
+</ksj:BetAport>
+<ksj:BetAport gml:id="aport_262">
+  <ksj:depAport>三沢</ksj:depAport>
+  <ksj:trsAport>函館</ksj:trsAport>
+  <ksj:arrAport>丘珠</ksj:arrAport>
+  <ksj:distAirRt>470</ksj:distAirRt>
+  <ksj:frequency>2</ksj:frequency>
+  <ksj:numOfPass>4186</ksj:numOfPass>
+  <ksj:pasVolume>4320</ksj:pasVolume>
+  <ksj:airportLine xlink:href="#cv262"/>
+</ksj:BetAport>
+<ksj:BetAport gml:id="aport_263">
+  <ksj:depAport>函館</ksj:depAport>
+  <ksj:arrAport>旭川</ksj:arrAport>
+  <ksj:distAirRt>282</ksj:distAirRt>
+  <ksj:frequency>0</ksj:frequency>
+  <ksj:numOfPass>162</ksj:numOfPass>
+  <ksj:pasVolume>468</ksj:pasVolume>
+  <ksj:airportLine xlink:href="#cv263"/>
+</ksj:BetAport>
+<ksj:BetAport gml:id="aport_264">
+  <ksj:depAport>旭川</ksj:depAport>
+  <ksj:arrAport>函館</ksj:arrAport>
+  <ksj:distAirRt>282</ksj:distAirRt>
+  <ksj:frequency>0</ksj:frequency>
+  <ksj:numOfPass>196</ksj:numOfPass>
+  <ksj:pasVolume>432</ksj:pasVolume>
+  <ksj:airportLine xlink:href="#cv264"/>
+</ksj:BetAport>
+<ksj:BetAport gml:id="aport_265">
+  <ksj:depAport>函館</ksj:depAport>
+  <ksj:arrAport>奥尻</ksj:arrAport>
+  <ksj:distAirRt>176</ksj:distAirRt>
+  <ksj:frequency>6</ksj:frequency>
+  <ksj:numOfPass>5151</ksj:numOfPass>
+  <ksj:pasVolume>12204</ksj:pasVolume>
+  <ksj:numOfCargo>1</ksj:numOfCargo>
+  <ksj:airportLine xlink:href="#cv265"/>
+</ksj:BetAport>
+<ksj:BetAport gml:id="aport_266">
+  <ksj:depAport>奥尻</ksj:depAport>
+  <ksj:arrAport>函館</ksj:arrAport>
+  <ksj:distAirRt>176</ksj:distAirRt>
+  <ksj:frequency>6</ksj:frequency>
+  <ksj:numOfPass>4975</ksj:numOfPass>
+  <ksj:pasVolume>12132</ksj:pasVolume>
+  <ksj:numOfCargo>3</ksj:numOfCargo>
+  <ksj:airportLine xlink:href="#cv266"/>
+</ksj:BetAport>
+<ksj:BetAport gml:id="aport_267">
+  <ksj:depAport>仙台</ksj:depAport>
+  <ksj:arrAport>新千歳</ksj:arrAport>
+  <ksj:distAirRt>664</ksj:distAirRt>
+  <ksj:frequency>111</ksj:frequency>
+  <ksj:numOfPass>356833</ksj:numOfPass>
+  <ksj:pasVolume>638352</ksj:pasVolume>
+  <ksj:numOfCargo>538</ksj:numOfCargo>
+  <ksj:airportLine xlink:href="#cv267"/>
+</ksj:BetAport>
+<ksj:BetAport gml:id="aport_268">
+  <ksj:depAport>新千歳</ksj:depAport>
+  <ksj:arrAport>仙台</ksj:arrAport>
+  <ksj:distAirRt>664</ksj:distAirRt>
+  <ksj:frequency>111</ksj:frequency>
+  <ksj:numOfPass>357923</ksj:numOfPass>
+  <ksj:pasVolume>638477</ksj:pasVolume>
+  <ksj:numOfCargo>376</ksj:numOfCargo>
+  <ksj:airportLine xlink:href="#cv268"/>
+</ksj:BetAport>
+<ksj:BetAport gml:id="aport_269">
+  <ksj:depAport>仙台</ksj:depAport>
+  <ksj:arrAport>広島</ksj:arrAport>
+  <ksj:distAirRt>1002</ksj:distAirRt>
+  <ksj:frequency>12</ksj:frequency>
+  <ksj:numOfPass>27821</ksj:numOfPass>
+  <ksj:pasVolume>43060</ksj:pasVolume>
+  <ksj:airportLine xlink:href="#cv269"/>
+</ksj:BetAport>
+<ksj:BetAport gml:id="aport_270">
+  <ksj:depAport>広島</ksj:depAport>
+  <ksj:arrAport>仙台</ksj:arrAport>
+  <ksj:distAirRt>1002</ksj:distAirRt>
+  <ksj:frequency>12</ksj:frequency>
+  <ksj:numOfPass>29814</ksj:numOfPass>
+  <ksj:pasVolume>42890</ksj:pasVolume>
+  <ksj:airportLine xlink:href="#cv270"/>
+</ksj:BetAport>
+<ksj:BetAport gml:id="aport_271">
+  <ksj:depAport>仙台</ksj:depAport>
+  <ksj:arrAport>那覇</ksj:arrAport>
+  <ksj:distAirRt>2010</ksj:distAirRt>
+  <ksj:frequency>6</ksj:frequency>
+  <ksj:numOfPass>69290</ksj:numOfPass>
+  <ksj:pasVolume>99892</ksj:pasVolume>
+  <ksj:numOfCargo>1124</ksj:numOfCargo>
+  <ksj:airportLine xlink:href="#cv271"/>
+</ksj:BetAport>
+<ksj:BetAport gml:id="aport_272">
+  <ksj:depAport>那覇</ksj:depAport>
+  <ksj:arrAport>仙台</ksj:arrAport>
+  <ksj:distAirRt>2010</ksj:distAirRt>
+  <ksj:frequency>6</ksj:frequency>
+  <ksj:numOfPass>70871</ksj:numOfPass>
+  <ksj:pasVolume>97738</ksj:pasVolume>
+  <ksj:numOfCargo>331</ksj:numOfCargo>
+  <ksj:airportLine xlink:href="#cv272"/>
+</ksj:BetAport>
+<ksj:BetAport gml:id="aport_273">
+  <ksj:depAport>福島</ksj:depAport>
+  <ksj:arrAport>新千歳</ksj:arrAport>
+  <ksj:distAirRt>720</ksj:distAirRt>
+  <ksj:frequency>13</ksj:frequency>
+  <ksj:numOfPass>48791</ksj:numOfPass>
+  <ksj:pasVolume>92592</ksj:pasVolume>
+  <ksj:numOfCargo>36</ksj:numOfCargo>
+  <ksj:airportLine xlink:href="#cv273"/>
+</ksj:BetAport>
+<ksj:BetAport gml:id="aport_274">
+  <ksj:depAport>新千歳</ksj:depAport>
+  <ksj:arrAport>福島</ksj:arrAport>
+  <ksj:distAirRt>720</ksj:distAirRt>
+  <ksj:frequency>13</ksj:frequency>
+  <ksj:numOfPass>49635</ksj:numOfPass>
+  <ksj:pasVolume>92862</ksj:pasVolume>
+  <ksj:numOfCargo>4</ksj:numOfCargo>
+  <ksj:airportLine xlink:href="#cv274"/>
+</ksj:BetAport>
+<ksj:BetAport gml:id="aport_275">
+  <ksj:depAport>茨城</ksj:depAport>
+  <ksj:trsAport>神戸</ksj:trsAport>
+  <ksj:arrAport>米子</ksj:arrAport>
+  <ksj:distAirRt>1118</ksj:distAirRt>
+  <ksj:frequency>0</ksj:frequency>
+  <ksj:numOfPass>2253</ksj:numOfPass>
+  <ksj:pasVolume>2124</ksj:pasVolume>
+  <ksj:airportLine xlink:href="#cv275"/>
+</ksj:BetAport>
+<ksj:BetAport gml:id="aport_276">
+  <ksj:depAport>米子</ksj:depAport>
+  <ksj:trsAport>神戸</ksj:trsAport>
+  <ksj:arrAport>茨城</ksj:arrAport>
+  <ksj:distAirRt>1118</ksj:distAirRt>
+  <ksj:frequency>0</ksj:frequency>
+  <ksj:numOfPass>2065</ksj:numOfPass>
+  <ksj:pasVolume>2124</ksj:pasVolume>
+  <ksj:airportLine xlink:href="#cv276"/>
+</ksj:BetAport>
+<ksj:BetAport gml:id="aport_277">
+  <ksj:depAport>大島</ksj:depAport>
+  <ksj:arrAport>調布</ksj:arrAport>
+  <ksj:distAirRt>104</ksj:distAirRt>
+  <ksj:frequency>19</ksj:frequency>
+  <ksj:numOfPass>11202</ksj:numOfPass>
+  <ksj:pasVolume>19239</ksj:pasVolume>
+  <ksj:numOfCargo>1</ksj:numOfCargo>
+  <ksj:airportLine xlink:href="#cv277"/>
+</ksj:BetAport>
+<ksj:BetAport gml:id="aport_278">
+  <ksj:depAport>調布</ksj:depAport>
+  <ksj:arrAport>大島</ksj:arrAport>
+  <ksj:distAirRt>104</ksj:distAirRt>
+  <ksj:frequency>19</ksj:frequency>
+  <ksj:numOfPass>9039</ksj:numOfPass>
+  <ksj:pasVolume>19277</ksj:pasVolume>
+  <ksj:numOfCargo>15</ksj:numOfCargo>
+  <ksj:airportLine xlink:href="#cv278"/>
+</ksj:BetAport>
+<ksj:BetAport gml:id="aport_279">
+  <ksj:depAport>大島</ksj:depAport>
+  <ksj:arrAport>利島</ksj:arrAport>
+  <ksj:distAirRt>30</ksj:distAirRt>
+  <ksj:frequency>6</ksj:frequency>
+  <ksj:numOfPass>1192</ksj:numOfPass>
+  <ksj:pasVolume>2916</ksj:pasVolume>
+  <ksj:airportLine xlink:href="#cv279"/>
+</ksj:BetAport>
+<ksj:BetAport gml:id="aport_280">
+  <ksj:depAport>利島</ksj:depAport>
+  <ksj:arrAport>大島</ksj:arrAport>
+  <ksj:distAirRt>30</ksj:distAirRt>
+  <ksj:frequency>6</ksj:frequency>
+  <ksj:numOfPass>1381</ksj:numOfPass>
+  <ksj:pasVolume>2916</ksj:pasVolume>
+  <ksj:airportLine xlink:href="#cv280"/>
+</ksj:BetAport>
+<ksj:BetAport gml:id="aport_281">
+  <ksj:depAport>三宅島</ksj:depAport>
+  <ksj:arrAport>大島</ksj:arrAport>
+  <ksj:distAirRt>80</ksj:distAirRt>
+  <ksj:frequency>6</ksj:frequency>
+  <ksj:numOfPass>2259</ksj:numOfPass>
+  <ksj:pasVolume>3060</ksj:pasVolume>
+  <ksj:airportLine xlink:href="#cv281"/>
+</ksj:BetAport>
+<ksj:BetAport gml:id="aport_282">
+  <ksj:depAport>大島</ksj:depAport>
+  <ksj:arrAport>三宅島</ksj:arrAport>
+  <ksj:distAirRt>80</ksj:distAirRt>
+  <ksj:frequency>6</ksj:frequency>
+  <ksj:numOfPass>1043</ksj:numOfPass>
+  <ksj:pasVolume>3015</ksj:pasVolume>
+  <ksj:airportLine xlink:href="#cv282"/>
+</ksj:BetAport>
+<ksj:BetAport gml:id="aport_283">
+  <ksj:depAport>三宅島</ksj:depAport>
+  <ksj:arrAport>御蔵島</ksj:arrAport>
+  <ksj:distAirRt>21</ksj:distAirRt>
+  <ksj:frequency>6</ksj:frequency>
+  <ksj:numOfPass>1611</ksj:numOfPass>
+  <ksj:pasVolume>3051</ksj:pasVolume>
+  <ksj:airportLine xlink:href="#cv283"/>
+</ksj:BetAport>
+<ksj:BetAport gml:id="aport_284">
+  <ksj:depAport>御蔵島</ksj:depAport>
+  <ksj:arrAport>三宅島</ksj:arrAport>
+  <ksj:distAirRt>21</ksj:distAirRt>
+  <ksj:frequency>6</ksj:frequency>
+  <ksj:numOfPass>2134</ksj:numOfPass>
+  <ksj:pasVolume>3078</ksj:pasVolume>
+  <ksj:airportLine xlink:href="#cv284"/>
+</ksj:BetAport>
+<ksj:BetAport gml:id="aport_285">
+  <ksj:depAport>八丈島</ksj:depAport>
+  <ksj:arrAport>青ヶ島</ksj:arrAport>
+  <ksj:distAirRt>74</ksj:distAirRt>
+  <ksj:frequency>6</ksj:frequency>
+  <ksj:numOfPass>2539</ksj:numOfPass>
+  <ksj:pasVolume>3159</ksj:pasVolume>
+  <ksj:airportLine xlink:href="#cv285"/>
+</ksj:BetAport>
+<ksj:BetAport gml:id="aport_286">
+  <ksj:depAport>青ヶ島</ksj:depAport>
+  <ksj:arrAport>八丈島</ksj:arrAport>
+  <ksj:distAirRt>74</ksj:distAirRt>
+  <ksj:frequency>6</ksj:frequency>
+  <ksj:numOfPass>2507</ksj:numOfPass>
+  <ksj:pasVolume>3159</ksj:pasVolume>
+  <ksj:airportLine xlink:href="#cv286"/>
+</ksj:BetAport>
+<ksj:BetAport gml:id="aport_287">
+  <ksj:depAport>八丈島</ksj:depAport>
+  <ksj:arrAport>御蔵島</ksj:arrAport>
+  <ksj:distAirRt>85</ksj:distAirRt>
+  <ksj:frequency>6</ksj:frequency>
+  <ksj:numOfPass>1430</ksj:numOfPass>
+  <ksj:pasVolume>3096</ksj:pasVolume>
+  <ksj:airportLine xlink:href="#cv287"/>
+</ksj:BetAport>
+<ksj:BetAport gml:id="aport_288">
+  <ksj:depAport>御蔵島</ksj:depAport>
+  <ksj:arrAport>八丈島</ksj:arrAport>
+  <ksj:distAirRt>85</ksj:distAirRt>
+  <ksj:frequency>6</ksj:frequency>
+  <ksj:numOfPass>1360</ksj:numOfPass>
+  <ksj:pasVolume>3060</ksj:pasVolume>
+  <ksj:airportLine xlink:href="#cv288"/>
+</ksj:BetAport>
+<ksj:BetAport gml:id="aport_289">
+  <ksj:depAport>調布</ksj:depAport>
+  <ksj:arrAport>神津島</ksj:arrAport>
+  <ksj:distAirRt>172</ksj:distAirRt>
+  <ksj:frequency>18</ksj:frequency>
+  <ksj:numOfPass>9011</ksj:numOfPass>
+  <ksj:pasVolume>17784</ksj:pasVolume>
+  <ksj:airportLine xlink:href="#cv289"/>
+</ksj:BetAport>
+<ksj:BetAport gml:id="aport_290">
+  <ksj:depAport>神津島</ksj:depAport>
+  <ksj:arrAport>調布</ksj:arrAport>
+  <ksj:distAirRt>172</ksj:distAirRt>
+  <ksj:frequency>18</ksj:frequency>
+  <ksj:numOfPass>10843</ksj:numOfPass>
+  <ksj:pasVolume>17841</ksj:pasVolume>
+  <ksj:numOfCargo>1</ksj:numOfCargo>
+  <ksj:airportLine xlink:href="#cv290"/>
+</ksj:BetAport>
+<ksj:BetAport gml:id="aport_291">
+  <ksj:depAport>新島</ksj:depAport>
+  <ksj:arrAport>調布</ksj:arrAport>
+  <ksj:distAirRt>147</ksj:distAirRt>
+  <ksj:frequency>25</ksj:frequency>
+  <ksj:numOfPass>16076</ksj:numOfPass>
+  <ksj:pasVolume>24859</ksj:pasVolume>
+  <ksj:numOfCargo>6</ksj:numOfCargo>
+  <ksj:airportLine xlink:href="#cv291"/>
+</ksj:BetAport>
+<ksj:BetAport gml:id="aport_292">
+  <ksj:depAport>調布</ksj:depAport>
+  <ksj:arrAport>新島</ksj:arrAport>
+  <ksj:distAirRt>147</ksj:distAirRt>
+  <ksj:frequency>24</ksj:frequency>
+  <ksj:numOfPass>13163</ksj:numOfPass>
+  <ksj:pasVolume>26681</ksj:pasVolume>
+  <ksj:numOfCargo>25</ksj:numOfCargo>
+  <ksj:airportLine xlink:href="#cv292"/>
+</ksj:BetAport>
+<ksj:BetAport gml:id="aport_293">
+  <ksj:depAport>新潟</ksj:depAport>
+  <ksj:arrAport>新千歳</ksj:arrAport>
+  <ksj:distAirRt>755</ksj:distAirRt>
+  <ksj:frequency>36</ksj:frequency>
+  <ksj:numOfPass>75320</ksj:numOfPass>
+  <ksj:pasVolume>168279</ksj:pasVolume>
+  <ksj:numOfCargo>27</ksj:numOfCargo>
+  <ksj:airportLine xlink:href="#cv293"/>
+</ksj:BetAport>
+<ksj:BetAport gml:id="aport_294">
+  <ksj:depAport>新千歳</ksj:depAport>
+  <ksj:arrAport>新潟</ksj:arrAport>
+  <ksj:distAirRt>755</ksj:distAirRt>
+  <ksj:frequency>36</ksj:frequency>
+  <ksj:numOfPass>76047</ksj:numOfPass>
+  <ksj:pasVolume>168596</ksj:pasVolume>
+  <ksj:numOfCargo>75</ksj:numOfCargo>
+  <ksj:airportLine xlink:href="#cv294"/>
+</ksj:BetAport>
+<ksj:BetAport gml:id="aport_295">
+  <ksj:depAport>新潟</ksj:depAport>
+  <ksj:arrAport>那覇</ksj:arrAport>
+  <ksj:distAirRt>1935</ksj:distAirRt>
+  <ksj:frequency>4</ksj:frequency>
+  <ksj:numOfPass>18383</ksj:numOfPass>
+  <ksj:pasVolume>32429</ksj:pasVolume>
+  <ksj:numOfCargo>28</ksj:numOfCargo>
+  <ksj:airportLine xlink:href="#cv295"/>
+</ksj:BetAport>
+<ksj:BetAport gml:id="aport_296">
+  <ksj:depAport>那覇</ksj:depAport>
+  <ksj:arrAport>新潟</ksj:arrAport>
+  <ksj:distAirRt>1935</ksj:distAirRt>
+  <ksj:frequency>4</ksj:frequency>
+  <ksj:numOfPass>18437</ksj:numOfPass>
+  <ksj:pasVolume>32529</ksj:pasVolume>
+  <ksj:numOfCargo>3</ksj:numOfCargo>
+  <ksj:airportLine xlink:href="#cv296"/>
+</ksj:BetAport>
+<ksj:BetAport gml:id="aport_297">
+  <ksj:depAport>富山</ksj:depAport>
+  <ksj:arrAport>新千歳</ksj:arrAport>
+  <ksj:distAirRt>875</ksj:distAirRt>
+  <ksj:frequency>6</ksj:frequency>
+  <ksj:numOfPass>26517</ksj:numOfPass>
+  <ksj:pasVolume>45954</ksj:pasVolume>
+  <ksj:numOfCargo>34</ksj:numOfCargo>
+  <ksj:airportLine xlink:href="#cv297"/>
+</ksj:BetAport>
+<ksj:BetAport gml:id="aport_298">
+  <ksj:depAport>新千歳</ksj:depAport>
+  <ksj:arrAport>富山</ksj:arrAport>
+  <ksj:distAirRt>875</ksj:distAirRt>
+  <ksj:frequency>6</ksj:frequency>
+  <ksj:numOfPass>28379</ksj:numOfPass>
+  <ksj:pasVolume>46224</ksj:pasVolume>
+  <ksj:numOfCargo>47</ksj:numOfCargo>
+  <ksj:airportLine xlink:href="#cv298"/>
+</ksj:BetAport>
+<ksj:BetAport gml:id="aport_299">
+  <ksj:depAport>金沢</ksj:depAport>
+  <ksj:arrAport>新千歳</ksj:arrAport>
+  <ksj:distAirRt>959</ksj:distAirRt>
+  <ksj:frequency>6</ksj:frequency>
+  <ksj:numOfPass>33439</ksj:numOfPass>
+  <ksj:pasVolume>45234</ksj:pasVolume>
+  <ksj:numOfCargo>69</ksj:numOfCargo>
+  <ksj:airportLine xlink:href="#cv299"/>
+</ksj:BetAport>
+<ksj:BetAport gml:id="aport_300">
+  <ksj:depAport>新千歳</ksj:depAport>
+  <ksj:arrAport>金沢</ksj:arrAport>
+  <ksj:distAirRt>959</ksj:distAirRt>
+  <ksj:frequency>6</ksj:frequency>
+  <ksj:numOfPass>33125</ksj:numOfPass>
+  <ksj:pasVolume>45360</ksj:pasVolume>
+  <ksj:numOfCargo>55</ksj:numOfCargo>
+  <ksj:airportLine xlink:href="#cv300"/>
+</ksj:BetAport>
+<ksj:BetAport gml:id="aport_301">
+  <ksj:depAport>金沢</ksj:depAport>
+  <ksj:arrAport>仙台</ksj:arrAport>
+  <ksj:distAirRt>601</ksj:distAirRt>
+  <ksj:frequency>12</ksj:frequency>
+  <ksj:numOfPass>21744</ksj:numOfPass>
+  <ksj:pasVolume>32080</ksj:pasVolume>
+  <ksj:airportLine xlink:href="#cv301"/>
+</ksj:BetAport>
+<ksj:BetAport gml:id="aport_302">
+  <ksj:depAport>仙台</ksj:depAport>
+  <ksj:arrAport>金沢</ksj:arrAport>
+  <ksj:distAirRt>601</ksj:distAirRt>
+  <ksj:frequency>12</ksj:frequency>
+  <ksj:numOfPass>21168</ksj:numOfPass>
+  <ksj:pasVolume>32030</ksj:pasVolume>
+  <ksj:airportLine xlink:href="#cv302"/>
+</ksj:BetAport>
+<ksj:BetAport gml:id="aport_303">
+  <ksj:depAport>静岡</ksj:depAport>
+  <ksj:arrAport>新千歳</ksj:arrAport>
+  <ksj:distAirRt>1137</ksj:distAirRt>
+  <ksj:frequency>9</ksj:frequency>
+  <ksj:numOfPass>36418</ksj:numOfPass>
+  <ksj:pasVolume>68455</ksj:pasVolume>
+  <ksj:numOfCargo>219</ksj:numOfCargo>
+  <ksj:airportLine xlink:href="#cv303"/>
+</ksj:BetAport>
+<ksj:BetAport gml:id="aport_304">
+  <ksj:depAport>新千歳</ksj:depAport>
+  <ksj:arrAport>静岡</ksj:arrAport>
+  <ksj:distAirRt>1137</ksj:distAirRt>
+  <ksj:frequency>9</ksj:frequency>
+  <ksj:numOfPass>37141</ksj:numOfPass>
+  <ksj:pasVolume>67636</ksj:pasVolume>
+  <ksj:airportLine xlink:href="#cv304"/>
+</ksj:BetAport>
+<ksj:BetAport gml:id="aport_305">
+  <ksj:depAport>静岡</ksj:depAport>
+  <ksj:arrAport>福岡</ksj:arrAport>
+  <ksj:distAirRt>876</ksj:distAirRt>
+  <ksj:frequency>20</ksj:frequency>
+  <ksj:numOfPass>52999</ksj:numOfPass>
+  <ksj:pasVolume>83880</ksj:pasVolume>
+  <ksj:airportLine xlink:href="#cv305"/>
+</ksj:BetAport>
+<ksj:BetAport gml:id="aport_306">
+  <ksj:depAport>福岡</ksj:depAport>
+  <ksj:arrAport>静岡</ksj:arrAport>
+  <ksj:distAirRt>876</ksj:distAirRt>
+  <ksj:frequency>20</ksj:frequency>
+  <ksj:numOfPass>53615</ksj:numOfPass>
+  <ksj:pasVolume>83980</ksj:pasVolume>
+  <ksj:airportLine xlink:href="#cv306"/>
+</ksj:BetAport>
+<ksj:BetAport gml:id="aport_307">
+  <ksj:depAport>静岡</ksj:depAport>
+  <ksj:arrAport>鹿児島</ksj:arrAport>
+  <ksj:distAirRt>771</ksj:distAirRt>
+  <ksj:frequency>4</ksj:frequency>
+  <ksj:numOfPass>12397</ksj:numOfPass>
+  <ksj:pasVolume>18688</ksj:pasVolume>
+  <ksj:airportLine xlink:href="#cv307"/>
+</ksj:BetAport>
+<ksj:BetAport gml:id="aport_308">
+  <ksj:depAport>鹿児島</ksj:depAport>
+  <ksj:arrAport>静岡</ksj:arrAport>
+  <ksj:distAirRt>771</ksj:distAirRt>
+  <ksj:frequency>4</ksj:frequency>
+  <ksj:numOfPass>11730</ksj:numOfPass>
+  <ksj:pasVolume>18612</ksj:pasVolume>
+  <ksj:airportLine xlink:href="#cv308"/>
+</ksj:BetAport>
+<ksj:BetAport gml:id="aport_309">
+  <ksj:depAport>静岡</ksj:depAport>
+  <ksj:arrAport>那覇</ksj:arrAport>
+  <ksj:distAirRt>1558</ksj:distAirRt>
+  <ksj:frequency>6</ksj:frequency>
+  <ksj:numOfPass>35628</ksj:numOfPass>
+  <ksj:pasVolume>58500</ksj:pasVolume>
+  <ksj:numOfCargo>140</ksj:numOfCargo>
+  <ksj:airportLine xlink:href="#cv309"/>
+</ksj:BetAport>
+<ksj:BetAport gml:id="aport_310">
+  <ksj:depAport>那覇</ksj:depAport>
+  <ksj:arrAport>静岡</ksj:arrAport>
+  <ksj:distAirRt>1558</ksj:distAirRt>
+  <ksj:frequency>7</ksj:frequency>
+  <ksj:numOfPass>36070</ksj:numOfPass>
+  <ksj:pasVolume>59852</ksj:pasVolume>
+  <ksj:airportLine xlink:href="#cv310"/>
+</ksj:BetAport>
+<ksj:BetAport gml:id="aport_311">
+  <ksj:depAport>名古屋</ksj:depAport>
+  <ksj:arrAport>青森</ksj:arrAport>
+  <ksj:distAirRt>785</ksj:distAirRt>
+  <ksj:frequency>14</ksj:frequency>
+  <ksj:numOfPass>43140</ksj:numOfPass>
+  <ksj:pasVolume>63776</ksj:pasVolume>
+  <ksj:airportLine xlink:href="#cv311"/>
+</ksj:BetAport>
+<ksj:BetAport gml:id="aport_312">
+  <ksj:depAport>青森</ksj:depAport>
+  <ksj:arrAport>名古屋</ksj:arrAport>
+  <ksj:distAirRt>785</ksj:distAirRt>
+  <ksj:frequency>14</ksj:frequency>
+  <ksj:numOfPass>41051</ksj:numOfPass>
+  <ksj:pasVolume>63700</ksj:pasVolume>
+  <ksj:airportLine xlink:href="#cv312"/>
+</ksj:BetAport>
+<ksj:BetAport gml:id="aport_313">
+  <ksj:depAport>名古屋</ksj:depAport>
+  <ksj:arrAport>花巻</ksj:arrAport>
+  <ksj:distAirRt>704</ksj:distAirRt>
+  <ksj:frequency>17</ksj:frequency>
+  <ksj:numOfPass>51483</ksj:numOfPass>
+  <ksj:pasVolume>74736</ksj:pasVolume>
+  <ksj:airportLine xlink:href="#cv313"/>
+</ksj:BetAport>
+<ksj:BetAport gml:id="aport_314">
+  <ksj:depAport>花巻</ksj:depAport>
+  <ksj:arrAport>名古屋</ksj:arrAport>
+  <ksj:distAirRt>704</ksj:distAirRt>
+  <ksj:frequency>17</ksj:frequency>
+  <ksj:numOfPass>53321</ksj:numOfPass>
+  <ksj:pasVolume>74652</ksj:pasVolume>
+  <ksj:airportLine xlink:href="#cv314"/>
+</ksj:BetAport>
+<ksj:BetAport gml:id="aport_315">
+  <ksj:depAport>名古屋</ksj:depAport>
+  <ksj:arrAport>山形</ksj:arrAport>
+  <ksj:distAirRt>582</ksj:distAirRt>
+  <ksj:frequency>0</ksj:frequency>
+  <ksj:pasVolume>0</ksj:pasVolume>
+  <ksj:airportLine xlink:href="#cv315"/>
+</ksj:BetAport>
+<ksj:BetAport gml:id="aport_316">
+  <ksj:depAport>山形</ksj:depAport>
+  <ksj:arrAport>名古屋</ksj:arrAport>
+  <ksj:distAirRt>582</ksj:distAirRt>
+  <ksj:frequency>0</ksj:frequency>
+  <ksj:pasVolume>0</ksj:pasVolume>
+  <ksj:airportLine xlink:href="#cv316"/>
+</ksj:BetAport>
+<ksj:BetAport gml:id="aport_317">
+  <ksj:depAport>名古屋</ksj:depAport>
+  <ksj:arrAport>新潟</ksj:arrAport>
+  <ksj:distAirRt>495</ksj:distAirRt>
+  <ksj:frequency>6</ksj:frequency>
+  <ksj:numOfPass>20740</ksj:numOfPass>
+  <ksj:pasVolume>29176</ksj:pasVolume>
+  <ksj:airportLine xlink:href="#cv317"/>
+</ksj:BetAport>
+<ksj:BetAport gml:id="aport_318">
+  <ksj:depAport>新潟</ksj:depAport>
+  <ksj:arrAport>名古屋</ksj:arrAport>
+  <ksj:distAirRt>495</ksj:distAirRt>
+  <ksj:frequency>6</ksj:frequency>
+  <ksj:numOfPass>19232</ksj:numOfPass>
+  <ksj:pasVolume>26668</ksj:pasVolume>
+  <ksj:airportLine xlink:href="#cv318"/>
+</ksj:BetAport>
+<ksj:BetAport gml:id="aport_319">
+  <ksj:depAport>名古屋</ksj:depAport>
+  <ksj:arrAport>高知</ksj:arrAport>
+  <ksj:distAirRt>511</ksj:distAirRt>
+  <ksj:frequency>5</ksj:frequency>
+  <ksj:numOfPass>16923</ksj:numOfPass>
+  <ksj:pasVolume>22888</ksj:pasVolume>
+  <ksj:airportLine xlink:href="#cv319"/>
+</ksj:BetAport>
+<ksj:BetAport gml:id="aport_320">
+  <ksj:depAport>高知</ksj:depAport>
+  <ksj:arrAport>名古屋</ksj:arrAport>
+  <ksj:distAirRt>511</ksj:distAirRt>
+  <ksj:frequency>5</ksj:frequency>
+  <ksj:numOfPass>16017</ksj:numOfPass>
+  <ksj:pasVolume>22888</ksj:pasVolume>
+  <ksj:airportLine xlink:href="#cv320"/>
+</ksj:BetAport>
+<ksj:BetAport gml:id="aport_321">
+  <ksj:depAport>名古屋</ksj:depAport>
+  <ksj:arrAport>福岡</ksj:arrAport>
+  <ksj:distAirRt>750</ksj:distAirRt>
+  <ksj:frequency>34</ksj:frequency>
+  <ksj:numOfPass>111885</ksj:numOfPass>
+  <ksj:pasVolume>147460</ksj:pasVolume>
+  <ksj:airportLine xlink:href="#cv321"/>
+</ksj:BetAport>
+<ksj:BetAport gml:id="aport_322">
+  <ksj:depAport>福岡</ksj:depAport>
+  <ksj:arrAport>名古屋</ksj:arrAport>
+  <ksj:distAirRt>750</ksj:distAirRt>
+  <ksj:frequency>34</ksj:frequency>
+  <ksj:numOfPass>112282</ksj:numOfPass>
+  <ksj:pasVolume>149336</ksj:pasVolume>
+  <ksj:airportLine xlink:href="#cv322"/>
+</ksj:BetAport>
+<ksj:BetAport gml:id="aport_323">
+  <ksj:depAport>名古屋</ksj:depAport>
+  <ksj:arrAport>熊本</ksj:arrAport>
+  <ksj:distAirRt>795</ksj:distAirRt>
+  <ksj:frequency>18</ksj:frequency>
+  <ksj:numOfPass>50354</ksj:numOfPass>
+  <ksj:pasVolume>81236</ksj:pasVolume>
+  <ksj:airportLine xlink:href="#cv323"/>
+</ksj:BetAport>
+<ksj:BetAport gml:id="aport_324">
+  <ksj:depAport>熊本</ksj:depAport>
+  <ksj:arrAport>名古屋</ksj:arrAport>
+  <ksj:distAirRt>795</ksj:distAirRt>
+  <ksj:frequency>18</ksj:frequency>
+  <ksj:numOfPass>49740</ksj:numOfPass>
+  <ksj:pasVolume>80672</ksj:pasVolume>
+  <ksj:airportLine xlink:href="#cv324"/>
+</ksj:BetAport>
+<ksj:BetAport gml:id="aport_325">
+  <ksj:depAport>中部</ksj:depAport>
+  <ksj:arrAport>函館</ksj:arrAport>
+  <ksj:distAirRt>960</ksj:distAirRt>
+  <ksj:frequency>9</ksj:frequency>
+  <ksj:numOfPass>48256</ksj:numOfPass>
+  <ksj:pasVolume>77739</ksj:pasVolume>
+  <ksj:numOfCargo>6</ksj:numOfCargo>
+  <ksj:airportLine xlink:href="#cv325"/>
+</ksj:BetAport>
+<ksj:BetAport gml:id="aport_326">
+  <ksj:depAport>函館</ksj:depAport>
+  <ksj:arrAport>中部</ksj:arrAport>
+  <ksj:distAirRt>960</ksj:distAirRt>
+  <ksj:frequency>9</ksj:frequency>
+  <ksj:numOfPass>44097</ksj:numOfPass>
+  <ksj:pasVolume>77565</ksj:pasVolume>
+  <ksj:numOfCargo>133</ksj:numOfCargo>
+  <ksj:airportLine xlink:href="#cv326"/>
+</ksj:BetAport>
+<ksj:BetAport gml:id="aport_327">
+  <ksj:depAport>中部</ksj:depAport>
+  <ksj:arrAport>旭川</ksj:arrAport>
+  <ksj:distAirRt>1222</ksj:distAirRt>
+  <ksj:frequency>7</ksj:frequency>
+  <ksj:numOfPass>25546</ksj:numOfPass>
+  <ksj:pasVolume>50102</ksj:pasVolume>
+  <ksj:numOfCargo>3</ksj:numOfCargo>
+  <ksj:airportLine xlink:href="#cv327"/>
+</ksj:BetAport>
+<ksj:BetAport gml:id="aport_328">
+  <ksj:depAport>旭川</ksj:depAport>
+  <ksj:arrAport>中部</ksj:arrAport>
+  <ksj:distAirRt>1222</ksj:distAirRt>
+  <ksj:frequency>6</ksj:frequency>
+  <ksj:numOfPass>26947</ksj:numOfPass>
+  <ksj:pasVolume>49609</ksj:pasVolume>
+  <ksj:numOfCargo>33</ksj:numOfCargo>
+  <ksj:airportLine xlink:href="#cv328"/>
+</ksj:BetAport>
+<ksj:BetAport gml:id="aport_329">
+  <ksj:depAport>中部</ksj:depAport>
+  <ksj:arrAport>女満別</ksj:arrAport>
+  <ksj:distAirRt>1368</ksj:distAirRt>
+  <ksj:frequency>6</ksj:frequency>
+  <ksj:numOfPass>27943</ksj:numOfPass>
+  <ksj:pasVolume>46878</ksj:pasVolume>
+  <ksj:numOfCargo>1</ksj:numOfCargo>
+  <ksj:airportLine xlink:href="#cv329"/>
+</ksj:BetAport>
+<ksj:BetAport gml:id="aport_330">
+  <ksj:depAport>女満別</ksj:depAport>
+  <ksj:arrAport>中部</ksj:arrAport>
+  <ksj:distAirRt>1368</ksj:distAirRt>
+  <ksj:frequency>6</ksj:frequency>
+  <ksj:numOfPass>23093</ksj:numOfPass>
+  <ksj:pasVolume>47926</ksj:pasVolume>
+  <ksj:numOfCargo>27</ksj:numOfCargo>
+  <ksj:airportLine xlink:href="#cv330"/>
+</ksj:BetAport>
+<ksj:BetAport gml:id="aport_331">
+  <ksj:depAport>中部</ksj:depAport>
+  <ksj:arrAport>新千歳</ksj:arrAport>
+  <ksj:distAirRt>1084</ksj:distAirRt>
+  <ksj:frequency>106</ksj:frequency>
+  <ksj:numOfPass>604142</ksj:numOfPass>
+  <ksj:pasVolume>1007181</ksj:pasVolume>
+  <ksj:numOfCargo>3346</ksj:numOfCargo>
+  <ksj:airportLine xlink:href="#cv331"/>
+</ksj:BetAport>
+<ksj:BetAport gml:id="aport_332">
+  <ksj:depAport>新千歳</ksj:depAport>
+  <ksj:arrAport>中部</ksj:arrAport>
+  <ksj:distAirRt>1084</ksj:distAirRt>
+  <ksj:frequency>106</ksj:frequency>
+  <ksj:numOfPass>624210</ksj:numOfPass>
+  <ksj:pasVolume>998932</ksj:pasVolume>
+  <ksj:numOfCargo>2956</ksj:numOfCargo>
+  <ksj:airportLine xlink:href="#cv332"/>
+</ksj:BetAport>
+<ksj:BetAport gml:id="aport_333">
+  <ksj:depAport>中部</ksj:depAport>
+  <ksj:arrAport>仙台</ksj:arrAport>
+  <ksj:distAirRt>657</ksj:distAirRt>
+  <ksj:frequency>46</ksj:frequency>
+  <ksj:numOfPass>122288</ksj:numOfPass>
+  <ksj:pasVolume>213548</ksj:pasVolume>
+  <ksj:numOfCargo>387</ksj:numOfCargo>
+  <ksj:airportLine xlink:href="#cv333"/>
+</ksj:BetAport>
+<ksj:BetAport gml:id="aport_334">
+  <ksj:depAport>仙台</ksj:depAport>
+  <ksj:arrAport>中部</ksj:arrAport>
+  <ksj:distAirRt>657</ksj:distAirRt>
+  <ksj:frequency>46</ksj:frequency>
+  <ksj:numOfPass>120440</ksj:numOfPass>
+  <ksj:pasVolume>217224</ksj:pasVolume>
+  <ksj:numOfCargo>83</ksj:numOfCargo>
+  <ksj:airportLine xlink:href="#cv334"/>
+</ksj:BetAport>
+<ksj:BetAport gml:id="aport_335">
+  <ksj:depAport>中部</ksj:depAport>
+  <ksj:arrAport>秋田</ksj:arrAport>
+  <ksj:distAirRt>721</ksj:distAirRt>
+  <ksj:frequency>13</ksj:frequency>
+  <ksj:numOfPass>32631</ksj:numOfPass>
+  <ksj:pasVolume>54136</ksj:pasVolume>
+  <ksj:numOfCargo>21</ksj:numOfCargo>
+  <ksj:airportLine xlink:href="#cv335"/>
+</ksj:BetAport>
+<ksj:BetAport gml:id="aport_336">
+  <ksj:depAport>秋田</ksj:depAport>
+  <ksj:arrAport>中部</ksj:arrAport>
+  <ksj:distAirRt>721</ksj:distAirRt>
+  <ksj:frequency>14</ksj:frequency>
+  <ksj:numOfPass>32264</ksj:numOfPass>
+  <ksj:pasVolume>54317</ksj:pasVolume>
+  <ksj:numOfCargo>1</ksj:numOfCargo>
+  <ksj:airportLine xlink:href="#cv336"/>
+</ksj:BetAport>
+<ksj:BetAport gml:id="aport_337">
+  <ksj:depAport>中部</ksj:depAport>
+  <ksj:arrAport>新潟</ksj:arrAport>
+  <ksj:distAirRt>585</ksj:distAirRt>
+  <ksj:frequency>13</ksj:frequency>
+  <ksj:numOfPass>28019</ksj:numOfPass>
+  <ksj:pasVolume>53339</ksj:pasVolume>
+  <ksj:numOfCargo>11</ksj:numOfCargo>
+  <ksj:airportLine xlink:href="#cv337"/>
+</ksj:BetAport>
+<ksj:BetAport gml:id="aport_338">
+  <ksj:depAport>新潟</ksj:depAport>
+  <ksj:arrAport>中部</ksj:arrAport>
+  <ksj:distAirRt>585</ksj:distAirRt>
+  <ksj:frequency>13</ksj:frequency>
+  <ksj:numOfPass>28647</ksj:numOfPass>
+  <ksj:pasVolume>53263</ksj:pasVolume>
+  <ksj:numOfCargo>6</ksj:numOfCargo>
+  <ksj:airportLine xlink:href="#cv338"/>
+</ksj:BetAport>
+<ksj:BetAport gml:id="aport_339">
+  <ksj:depAport>中部</ksj:depAport>
+  <ksj:arrAport>松山</ksj:arrAport>
+  <ksj:distAirRt>544</ksj:distAirRt>
+  <ksj:frequency>20</ksj:frequency>
+  <ksj:numOfPass>50312</ksj:numOfPass>
+  <ksj:pasVolume>80556</ksj:pasVolume>
+  <ksj:numOfCargo>2</ksj:numOfCargo>
+  <ksj:airportLine xlink:href="#cv339"/>
+</ksj:BetAport>
+<ksj:BetAport gml:id="aport_340">
+  <ksj:depAport>松山</ksj:depAport>
+  <ksj:arrAport>中部</ksj:arrAport>
+  <ksj:distAirRt>544</ksj:distAirRt>
+  <ksj:frequency>21</ksj:frequency>
+  <ksj:numOfPass>51001</ksj:numOfPass>
+  <ksj:pasVolume>80829</ksj:pasVolume>
+  <ksj:numOfCargo>2</ksj:numOfCargo>
+  <ksj:airportLine xlink:href="#cv340"/>
+</ksj:BetAport>
+<ksj:BetAport gml:id="aport_341">
+  <ksj:depAport>中部</ksj:depAport>
+  <ksj:arrAport>福岡</ksj:arrAport>
+  <ksj:distAirRt>744</ksj:distAirRt>
+  <ksj:frequency>81</ksj:frequency>
+  <ksj:numOfPass>386116</ksj:numOfPass>
+  <ksj:pasVolume>602342</ksj:pasVolume>
+  <ksj:numOfCargo>1693</ksj:numOfCargo>
+  <ksj:airportLine xlink:href="#cv341"/>
+</ksj:BetAport>
+<ksj:BetAport gml:id="aport_342">
+  <ksj:depAport>福岡</ksj:depAport>
+  <ksj:arrAport>中部</ksj:arrAport>
+  <ksj:distAirRt>744</ksj:distAirRt>
+  <ksj:frequency>81</ksj:frequency>
+  <ksj:numOfPass>387492</ksj:numOfPass>
+  <ksj:pasVolume>606776</ksj:pasVolume>
+  <ksj:numOfCargo>1213</ksj:numOfCargo>
+  <ksj:airportLine xlink:href="#cv342"/>
+</ksj:BetAport>
+<ksj:BetAport gml:id="aport_343">
+  <ksj:depAport>中部</ksj:depAport>
+  <ksj:arrAport>長崎</ksj:arrAport>
+  <ksj:distAirRt>830</ksj:distAirRt>
+  <ksj:frequency>14</ksj:frequency>
+  <ksj:numOfPass>64325</ksj:numOfPass>
+  <ksj:pasVolume>111311</ksj:pasVolume>
+  <ksj:numOfCargo>88</ksj:numOfCargo>
+  <ksj:airportLine xlink:href="#cv343"/>
+</ksj:BetAport>
+<ksj:BetAport gml:id="aport_344">
+  <ksj:depAport>長崎</ksj:depAport>
+  <ksj:arrAport>中部</ksj:arrAport>
+  <ksj:distAirRt>830</ksj:distAirRt>
+  <ksj:frequency>14</ksj:frequency>
+  <ksj:numOfPass>63833</ksj:numOfPass>
+  <ksj:pasVolume>111306</ksj:pasVolume>
+  <ksj:numOfCargo>168</ksj:numOfCargo>
+  <ksj:airportLine xlink:href="#cv344"/>
+</ksj:BetAport>
+<ksj:BetAport gml:id="aport_345">
+  <ksj:depAport>中部</ksj:depAport>
+  <ksj:arrAport>熊本</ksj:arrAport>
+  <ksj:distAirRt>750</ksj:distAirRt>
+  <ksj:frequency>20</ksj:frequency>
+  <ksj:numOfPass>71831</ksj:numOfPass>
+  <ksj:pasVolume>150456</ksj:pasVolume>
+  <ksj:numOfCargo>172</ksj:numOfCargo>
+  <ksj:airportLine xlink:href="#cv345"/>
+</ksj:BetAport>
+<ksj:BetAport gml:id="aport_346">
+  <ksj:depAport>熊本</ksj:depAport>
+  <ksj:arrAport>中部</ksj:arrAport>
+  <ksj:distAirRt>750</ksj:distAirRt>
+  <ksj:frequency>20</ksj:frequency>
+  <ksj:numOfPass>71925</ksj:numOfPass>
+  <ksj:pasVolume>133139</ksj:pasVolume>
+  <ksj:numOfCargo>301</ksj:numOfCargo>
+  <ksj:airportLine xlink:href="#cv346"/>
+</ksj:BetAport>
+<ksj:BetAport gml:id="aport_347">
+  <ksj:depAport>中部</ksj:depAport>
+  <ksj:arrAport>大分</ksj:arrAport>
+  <ksj:distAirRt>612</ksj:distAirRt>
+  <ksj:frequency>13</ksj:frequency>
+  <ksj:numOfPass>33468</ksj:numOfPass>
+  <ksj:pasVolume>50400</ksj:pasVolume>
+  <ksj:airportLine xlink:href="#cv347"/>
+</ksj:BetAport>
+<ksj:BetAport gml:id="aport_348">
+  <ksj:depAport>大分</ksj:depAport>
+  <ksj:arrAport>中部</ksj:arrAport>
+  <ksj:distAirRt>612</ksj:distAirRt>
+  <ksj:frequency>13</ksj:frequency>
+  <ksj:numOfPass>31699</ksj:numOfPass>
+  <ksj:pasVolume>50190</ksj:pasVolume>
+  <ksj:airportLine xlink:href="#cv348"/>
+</ksj:BetAport>
+<ksj:BetAport gml:id="aport_349">
+  <ksj:depAport>中部</ksj:depAport>
+  <ksj:arrAport>宮崎</ksj:arrAport>
+  <ksj:distAirRt>692</ksj:distAirRt>
+  <ksj:frequency>21</ksj:frequency>
+  <ksj:numOfPass>88852</ksj:numOfPass>
+  <ksj:pasVolume>155425</ksj:pasVolume>
+  <ksj:numOfCargo>75</ksj:numOfCargo>
+  <ksj:airportLine xlink:href="#cv349"/>
+</ksj:BetAport>
+<ksj:BetAport gml:id="aport_350">
+  <ksj:depAport>宮崎</ksj:depAport>
+  <ksj:arrAport>中部</ksj:arrAport>
+  <ksj:distAirRt>692</ksj:distAirRt>
+  <ksj:frequency>21</ksj:frequency>
+  <ksj:numOfPass>87559</ksj:numOfPass>
+  <ksj:pasVolume>166623</ksj:pasVolume>
+  <ksj:numOfCargo>189</ksj:numOfCargo>
+  <ksj:airportLine xlink:href="#cv350"/>
+</ksj:BetAport>
+<ksj:BetAport gml:id="aport_351">
+  <ksj:depAport>中部</ksj:depAport>
+  <ksj:arrAport>鹿児島</ksj:arrAport>
+  <ksj:distAirRt>806</ksj:distAirRt>
+  <ksj:frequency>34</ksj:frequency>
+  <ksj:numOfPass>176638</ksj:numOfPass>
+  <ksj:pasVolume>314236</ksj:pasVolume>
+  <ksj:numOfCargo>322</ksj:numOfCargo>
+  <ksj:airportLine xlink:href="#cv351"/>
+</ksj:BetAport>
+<ksj:BetAport gml:id="aport_352">
+  <ksj:depAport>鹿児島</ksj:depAport>
+  <ksj:arrAport>中部</ksj:arrAport>
+  <ksj:distAirRt>806</ksj:distAirRt>
+  <ksj:frequency>34</ksj:frequency>
+  <ksj:numOfPass>173551</ksj:numOfPass>
+  <ksj:pasVolume>311338</ksj:pasVolume>
+  <ksj:numOfCargo>569</ksj:numOfCargo>
+  <ksj:airportLine xlink:href="#cv352"/>
+</ksj:BetAport>
+<ksj:BetAport gml:id="aport_353">
+  <ksj:depAport>中部</ksj:depAport>
+  <ksj:arrAport>那覇</ksj:arrAport>
+  <ksj:distAirRt>1470</ksj:distAirRt>
+  <ksj:frequency>70</ksj:frequency>
+  <ksj:numOfPass>473596</ksj:numOfPass>
+  <ksj:pasVolume>664605</ksj:pasVolume>
+  <ksj:numOfCargo>10423</ksj:numOfCargo>
+  <ksj:airportLine xlink:href="#cv353"/>
+</ksj:BetAport>
+<ksj:BetAport gml:id="aport_354">
+  <ksj:depAport>那覇</ksj:depAport>
+  <ksj:arrAport>中部</ksj:arrAport>
+  <ksj:distAirRt>1470</ksj:distAirRt>
+  <ksj:frequency>68</ksj:frequency>
+  <ksj:numOfPass>475064</ksj:numOfPass>
+  <ksj:pasVolume>672976</ksj:pasVolume>
+  <ksj:numOfCargo>4964</ksj:numOfCargo>
+  <ksj:airportLine xlink:href="#cv354"/>
+</ksj:BetAport>
+<ksj:BetAport gml:id="aport_355">
+  <ksj:depAport>中部</ksj:depAport>
+  <ksj:arrAport>石垣</ksj:arrAport>
+  <ksj:distAirRt>1865</ksj:distAirRt>
+  <ksj:frequency>6</ksj:frequency>
+  <ksj:numOfPass>40846</ksj:numOfPass>
+  <ksj:pasVolume>59035</ksj:pasVolume>
+  <ksj:numOfCargo>184</ksj:numOfCargo>
+  <ksj:airportLine xlink:href="#cv355"/>
+</ksj:BetAport>
+<ksj:BetAport gml:id="aport_356">
+  <ksj:depAport>石垣</ksj:depAport>
+  <ksj:arrAport>中部</ksj:arrAport>
+  <ksj:distAirRt>1865</ksj:distAirRt>
+  <ksj:frequency>6</ksj:frequency>
+  <ksj:numOfPass>34860</ksj:numOfPass>
+  <ksj:pasVolume>59546</ksj:pasVolume>
+  <ksj:numOfCargo>5</ksj:numOfCargo>
+  <ksj:airportLine xlink:href="#cv356"/>
+</ksj:BetAport>
+<ksj:BetAport gml:id="aport_357">
+  <ksj:depAport>神戸</ksj:depAport>
+  <ksj:arrAport>新千歳</ksj:arrAport>
+  <ksj:distAirRt>1251</ksj:distAirRt>
+  <ksj:frequency>32</ksj:frequency>
+  <ksj:numOfPass>189822</ksj:numOfPass>
+  <ksj:pasVolume>292534</ksj:pasVolume>
+  <ksj:numOfCargo>475</ksj:numOfCargo>
+  <ksj:airportLine xlink:href="#cv357"/>
+</ksj:BetAport>
+<ksj:BetAport gml:id="aport_358">
+  <ksj:depAport>新千歳</ksj:depAport>
+  <ksj:arrAport>神戸</ksj:arrAport>
+  <ksj:distAirRt>1251</ksj:distAirRt>
+  <ksj:frequency>32</ksj:frequency>
+  <ksj:numOfPass>199706</ksj:numOfPass>
+  <ksj:pasVolume>292402</ksj:pasVolume>
+  <ksj:numOfCargo>305</ksj:numOfCargo>
+  <ksj:airportLine xlink:href="#cv358"/>
+</ksj:BetAport>
+<ksj:BetAport gml:id="aport_359">
+  <ksj:depAport>神戸</ksj:depAport>
+  <ksj:arrAport>茨城</ksj:arrAport>
+  <ksj:distAirRt>750</ksj:distAirRt>
+  <ksj:frequency>10</ksj:frequency>
+  <ksj:numOfPass>53678</ksj:numOfPass>
+  <ksj:pasVolume>98589</ksj:pasVolume>
+  <ksj:airportLine xlink:href="#cv359"/>
+</ksj:BetAport>
+<ksj:BetAport gml:id="aport_360">
+  <ksj:depAport>茨城</ksj:depAport>
+  <ksj:arrAport>神戸</ksj:arrAport>
+  <ksj:distAirRt>750</ksj:distAirRt>
+  <ksj:frequency>10</ksj:frequency>
+  <ksj:numOfPass>53213</ksj:numOfPass>
+  <ksj:pasVolume>98589</ksj:pasVolume>
+  <ksj:airportLine xlink:href="#cv360"/>
+</ksj:BetAport>
+<ksj:BetAport gml:id="aport_361">
+  <ksj:depAport>神戸</ksj:depAport>
+  <ksj:arrAport>米子</ksj:arrAport>
+  <ksj:distAirRt>368</ksj:distAirRt>
+  <ksj:frequency>0</ksj:frequency>
+  <ksj:numOfPass>750</ksj:numOfPass>
+  <ksj:pasVolume>2124</ksj:pasVolume>
+  <ksj:airportLine xlink:href="#cv361"/>
+</ksj:BetAport>
+<ksj:BetAport gml:id="aport_362">
+  <ksj:depAport>米子</ksj:depAport>
+  <ksj:arrAport>神戸</ksj:arrAport>
+  <ksj:distAirRt>368</ksj:distAirRt>
+  <ksj:frequency>0</ksj:frequency>
+  <ksj:numOfPass>539</ksj:numOfPass>
+  <ksj:pasVolume>2124</ksj:pasVolume>
+  <ksj:airportLine xlink:href="#cv362"/>
+</ksj:BetAport>
+<ksj:BetAport gml:id="aport_363">
+  <ksj:depAport>神戸</ksj:depAport>
+  <ksj:arrAport>長崎</ksj:arrAport>
+  <ksj:distAirRt>650</ksj:distAirRt>
+  <ksj:frequency>6</ksj:frequency>
+  <ksj:numOfPass>43022</ksj:numOfPass>
+  <ksj:pasVolume>63366</ksj:pasVolume>
+  <ksj:airportLine xlink:href="#cv363"/>
+</ksj:BetAport>
+<ksj:BetAport gml:id="aport_364">
+  <ksj:depAport>長崎</ksj:depAport>
+  <ksj:arrAport>神戸</ksj:arrAport>
+  <ksj:distAirRt>650</ksj:distAirRt>
+  <ksj:frequency>6</ksj:frequency>
+  <ksj:numOfPass>44031</ksj:numOfPass>
+  <ksj:pasVolume>63366</ksj:pasVolume>
+  <ksj:airportLine xlink:href="#cv364"/>
+</ksj:BetAport>
+<ksj:BetAport gml:id="aport_365">
+  <ksj:depAport>神戸</ksj:depAport>
+  <ksj:arrAport>鹿児島</ksj:arrAport>
+  <ksj:distAirRt>632</ksj:distAirRt>
+  <ksj:frequency>12</ksj:frequency>
+  <ksj:numOfPass>54741</ksj:numOfPass>
+  <ksj:pasVolume>118767</ksj:pasVolume>
+  <ksj:airportLine xlink:href="#cv365"/>
+</ksj:BetAport>
+<ksj:BetAport gml:id="aport_366">
+  <ksj:depAport>鹿児島</ksj:depAport>
+  <ksj:arrAport>神戸</ksj:arrAport>
+  <ksj:distAirRt>632</ksj:distAirRt>
+  <ksj:frequency>12</ksj:frequency>
+  <ksj:numOfPass>57823</ksj:numOfPass>
+  <ksj:pasVolume>118767</ksj:pasVolume>
+  <ksj:airportLine xlink:href="#cv366"/>
+</ksj:BetAport>
+<ksj:BetAport gml:id="aport_367">
+  <ksj:depAport>神戸</ksj:depAport>
+  <ksj:arrAport>那覇</ksj:arrAport>
+  <ksj:distAirRt>1308</ksj:distAirRt>
+  <ksj:frequency>38</ksj:frequency>
+  <ksj:numOfPass>209647</ksj:numOfPass>
+  <ksj:pasVolume>394419</ksj:pasVolume>
+  <ksj:numOfCargo>905</ksj:numOfCargo>
+  <ksj:airportLine xlink:href="#cv367"/>
+</ksj:BetAport>
+<ksj:BetAport gml:id="aport_368">
+  <ksj:depAport>那覇</ksj:depAport>
+  <ksj:arrAport>神戸</ksj:arrAport>
+  <ksj:distAirRt>1308</ksj:distAirRt>
+  <ksj:frequency>38</ksj:frequency>
+  <ksj:numOfPass>222867</ksj:numOfPass>
+  <ksj:pasVolume>408032</ksj:pasVolume>
+  <ksj:numOfCargo>1139</ksj:numOfCargo>
+  <ksj:airportLine xlink:href="#cv368"/>
+</ksj:BetAport>
+<ksj:BetAport gml:id="aport_369">
+  <ksj:depAport>神戸</ksj:depAport>
+  <ksj:arrAport>石垣</ksj:arrAport>
+  <ksj:distAirRt>1680</ksj:distAirRt>
+  <ksj:frequency>2</ksj:frequency>
+  <ksj:numOfPass>11492</ksj:numOfPass>
+  <ksj:pasVolume>26373</ksj:pasVolume>
+  <ksj:airportLine xlink:href="#cv369"/>
+</ksj:BetAport>
+<ksj:BetAport gml:id="aport_370">
+  <ksj:depAport>石垣</ksj:depAport>
+  <ksj:arrAport>神戸</ksj:arrAport>
+  <ksj:distAirRt>1680</ksj:distAirRt>
+  <ksj:frequency>2</ksj:frequency>
+  <ksj:numOfPass>9246</ksj:numOfPass>
+  <ksj:pasVolume>26373</ksj:pasVolume>
+  <ksj:airportLine xlink:href="#cv370"/>
+</ksj:BetAport>
+<ksj:BetAport gml:id="aport_371">
+  <ksj:depAport>出雲</ksj:depAport>
+  <ksj:arrAport>隠岐</ksj:arrAport>
+  <ksj:distAirRt>143</ksj:distAirRt>
+  <ksj:frequency>6</ksj:frequency>
+  <ksj:numOfPass>7219</ksj:numOfPass>
+  <ksj:pasVolume>12780</ksj:pasVolume>
+  <ksj:airportLine xlink:href="#cv371"/>
+</ksj:BetAport>
+<ksj:BetAport gml:id="aport_372">
+  <ksj:depAport>隠岐</ksj:depAport>
+  <ksj:arrAport>出雲</ksj:arrAport>
+  <ksj:distAirRt>143</ksj:distAirRt>
+  <ksj:frequency>6</ksj:frequency>
+  <ksj:numOfPass>7515</ksj:numOfPass>
+  <ksj:pasVolume>12818</ksj:pasVolume>
+  <ksj:numOfCargo>1</ksj:numOfCargo>
+  <ksj:airportLine xlink:href="#cv372"/>
+</ksj:BetAport>
+<ksj:BetAport gml:id="aport_373">
+  <ksj:depAport>岡山</ksj:depAport>
+  <ksj:arrAport>新千歳</ksj:arrAport>
+  <ksj:distAirRt>1266</ksj:distAirRt>
+  <ksj:frequency>5</ksj:frequency>
+  <ksj:numOfPass>27549</ksj:numOfPass>
+  <ksj:pasVolume>38430</ksj:pasVolume>
+  <ksj:numOfCargo>1</ksj:numOfCargo>
+  <ksj:airportLine xlink:href="#cv373"/>
+</ksj:BetAport>
+<ksj:BetAport gml:id="aport_374">
+  <ksj:depAport>新千歳</ksj:depAport>
+  <ksj:arrAport>岡山</ksj:arrAport>
+  <ksj:distAirRt>1266</ksj:distAirRt>
+  <ksj:frequency>5</ksj:frequency>
+  <ksj:numOfPass>27926</ksj:numOfPass>
+  <ksj:pasVolume>38286</ksj:pasVolume>
+  <ksj:airportLine xlink:href="#cv374"/>
+</ksj:BetAport>
+<ksj:BetAport gml:id="aport_375">
+  <ksj:depAport>広島</ksj:depAport>
+  <ksj:arrAport>新千歳</ksj:arrAport>
+  <ksj:distAirRt>1361</ksj:distAirRt>
+  <ksj:frequency>13</ksj:frequency>
+  <ksj:numOfPass>68245</ksj:numOfPass>
+  <ksj:pasVolume>120487</ksj:pasVolume>
+  <ksj:numOfCargo>546</ksj:numOfCargo>
+  <ksj:airportLine xlink:href="#cv375"/>
+</ksj:BetAport>
+<ksj:BetAport gml:id="aport_376">
+  <ksj:depAport>新千歳</ksj:depAport>
+  <ksj:arrAport>広島</ksj:arrAport>
+  <ksj:distAirRt>1361</ksj:distAirRt>
+  <ksj:frequency>13</ksj:frequency>
+  <ksj:numOfPass>69754</ksj:numOfPass>
+  <ksj:pasVolume>120027</ksj:pasVolume>
+  <ksj:numOfCargo>257</ksj:numOfCargo>
+  <ksj:airportLine xlink:href="#cv376"/>
+</ksj:BetAport>
+<ksj:BetAport gml:id="aport_377">
+  <ksj:depAport>広島</ksj:depAport>
+  <ksj:arrAport>那覇</ksj:arrAport>
+  <ksj:distAirRt>1143</ksj:distAirRt>
+  <ksj:frequency>7</ksj:frequency>
+  <ksj:numOfPass>60234</ksj:numOfPass>
+  <ksj:pasVolume>98547</ksj:pasVolume>
+  <ksj:numOfCargo>1250</ksj:numOfCargo>
+  <ksj:airportLine xlink:href="#cv377"/>
+</ksj:BetAport>
+<ksj:BetAport gml:id="aport_378">
+  <ksj:depAport>那覇</ksj:depAport>
+  <ksj:arrAport>広島</ksj:arrAport>
+  <ksj:distAirRt>1143</ksj:distAirRt>
+  <ksj:frequency>6</ksj:frequency>
+  <ksj:numOfPass>59995</ksj:numOfPass>
+  <ksj:pasVolume>98169</ksj:pasVolume>
+  <ksj:numOfCargo>389</ksj:numOfCargo>
+  <ksj:airportLine xlink:href="#cv378"/>
+</ksj:BetAport>
+<ksj:BetAport gml:id="aport_379">
+  <ksj:depAport>高松</ksj:depAport>
+  <ksj:arrAport>那覇</ksj:arrAport>
+  <ksj:distAirRt>1194</ksj:distAirRt>
+  <ksj:frequency>6</ksj:frequency>
+  <ksj:numOfPass>55731</ksj:numOfPass>
+  <ksj:pasVolume>97997</ksj:pasVolume>
+  <ksj:numOfCargo>1288</ksj:numOfCargo>
+  <ksj:airportLine xlink:href="#cv379"/>
+</ksj:BetAport>
+<ksj:BetAport gml:id="aport_380">
+  <ksj:depAport>那覇</ksj:depAport>
+  <ksj:arrAport>高松</ksj:arrAport>
+  <ksj:distAirRt>1194</ksj:distAirRt>
+  <ksj:frequency>6</ksj:frequency>
+  <ksj:numOfPass>56326</ksj:numOfPass>
+  <ksj:pasVolume>98280</ksj:pasVolume>
+  <ksj:numOfCargo>247</ksj:numOfCargo>
+  <ksj:airportLine xlink:href="#cv380"/>
+</ksj:BetAport>
+<ksj:BetAport gml:id="aport_381">
+  <ksj:depAport>福岡</ksj:depAport>
+  <ksj:arrAport>花巻</ksj:arrAport>
+  <ksj:distAirRt>1323</ksj:distAirRt>
+  <ksj:frequency>6</ksj:frequency>
+  <ksj:numOfPass>11011</ksj:numOfPass>
+  <ksj:pasVolume>18146</ksj:pasVolume>
+  <ksj:airportLine xlink:href="#cv381"/>
+</ksj:BetAport>
+<ksj:BetAport gml:id="aport_382">
+  <ksj:depAport>花巻</ksj:depAport>
+  <ksj:arrAport>福岡</ksj:arrAport>
+  <ksj:distAirRt>1323</ksj:distAirRt>
+  <ksj:frequency>6</ksj:frequency>
+  <ksj:numOfPass>10521</ksj:numOfPass>
+  <ksj:pasVolume>17896</ksj:pasVolume>
+  <ksj:numOfCargo>4</ksj:numOfCargo>
+  <ksj:airportLine xlink:href="#cv382"/>
+</ksj:BetAport>
+<ksj:BetAport gml:id="aport_383">
+  <ksj:depAport>福岡</ksj:depAport>
+  <ksj:arrAport>仙台</ksj:arrAport>
+  <ksj:distAirRt>1256</ksj:distAirRt>
+  <ksj:frequency>51</ksj:frequency>
+  <ksj:numOfPass>164604</ksj:numOfPass>
+  <ksj:pasVolume>276690</ksj:pasVolume>
+  <ksj:numOfCargo>19</ksj:numOfCargo>
+  <ksj:airportLine xlink:href="#cv383"/>
+</ksj:BetAport>
+<ksj:BetAport gml:id="aport_384">
+  <ksj:depAport>仙台</ksj:depAport>
+  <ksj:arrAport>福岡</ksj:arrAport>
+  <ksj:distAirRt>1256</ksj:distAirRt>
+  <ksj:frequency>51</ksj:frequency>
+  <ksj:numOfPass>165026</ksj:numOfPass>
+  <ksj:pasVolume>276772</ksj:pasVolume>
+  <ksj:numOfCargo>94</ksj:numOfCargo>
+  <ksj:airportLine xlink:href="#cv384"/>
+</ksj:BetAport>
+<ksj:BetAport gml:id="aport_385">
+  <ksj:depAport>福岡</ksj:depAport>
+  <ksj:arrAport>新潟</ksj:arrAport>
+  <ksj:distAirRt>1156</ksj:distAirRt>
+  <ksj:frequency>20</ksj:frequency>
+  <ksj:numOfPass>63103</ksj:numOfPass>
+  <ksj:pasVolume>118267</ksj:pasVolume>
+  <ksj:numOfCargo>24</ksj:numOfCargo>
+  <ksj:airportLine xlink:href="#cv385"/>
+</ksj:BetAport>
+<ksj:BetAport gml:id="aport_386">
+  <ksj:depAport>新潟</ksj:depAport>
+  <ksj:arrAport>福岡</ksj:arrAport>
+  <ksj:distAirRt>1156</ksj:distAirRt>
+  <ksj:frequency>20</ksj:frequency>
+  <ksj:numOfPass>63546</ksj:numOfPass>
+  <ksj:pasVolume>120202</ksj:pasVolume>
+  <ksj:numOfCargo>44</ksj:numOfCargo>
+  <ksj:airportLine xlink:href="#cv386"/>
+</ksj:BetAport>
+<ksj:BetAport gml:id="aport_387">
+  <ksj:depAport>福岡</ksj:depAport>
+  <ksj:arrAport>金沢</ksj:arrAport>
+  <ksj:distAirRt>802</ksj:distAirRt>
+  <ksj:frequency>24</ksj:frequency>
+  <ksj:numOfPass>67508</ksj:numOfPass>
+  <ksj:pasVolume>120001</ksj:pasVolume>
+  <ksj:numOfCargo>39</ksj:numOfCargo>
+  <ksj:airportLine xlink:href="#cv387"/>
+</ksj:BetAport>
+<ksj:BetAport gml:id="aport_388">
+  <ksj:depAport>金沢</ksj:depAport>
+  <ksj:arrAport>福岡</ksj:arrAport>
+  <ksj:distAirRt>802</ksj:distAirRt>
+  <ksj:frequency>24</ksj:frequency>
+  <ksj:numOfPass>67876</ksj:numOfPass>
+  <ksj:pasVolume>119976</ksj:pasVolume>
+  <ksj:numOfCargo>29</ksj:numOfCargo>
+  <ksj:airportLine xlink:href="#cv388"/>
+</ksj:BetAport>
+<ksj:BetAport gml:id="aport_389">
+  <ksj:depAport>福岡</ksj:depAport>
+  <ksj:arrAport>松本</ksj:arrAport>
+  <ksj:distAirRt>906</ksj:distAirRt>
+  <ksj:frequency>6</ksj:frequency>
+  <ksj:numOfPass>21142</ksj:numOfPass>
+  <ksj:pasVolume>27944</ksj:pasVolume>
+  <ksj:airportLine xlink:href="#cv389"/>
+</ksj:BetAport>
+<ksj:BetAport gml:id="aport_390">
+  <ksj:depAport>松本</ksj:depAport>
+  <ksj:arrAport>福岡</ksj:arrAport>
+  <ksj:distAirRt>906</ksj:distAirRt>
+  <ksj:frequency>6</ksj:frequency>
+  <ksj:numOfPass>20364</ksj:numOfPass>
+  <ksj:pasVolume>27312</ksj:pasVolume>
+  <ksj:airportLine xlink:href="#cv390"/>
+</ksj:BetAport>
+<ksj:BetAport gml:id="aport_391">
+  <ksj:depAport>福岡</ksj:depAport>
+  <ksj:arrAport>出雲</ksj:arrAport>
+  <ksj:distAirRt>415</ksj:distAirRt>
+  <ksj:frequency>13</ksj:frequency>
+  <ksj:numOfPass>17787</ksj:numOfPass>
+  <ksj:pasVolume>26066</ksj:pasVolume>
+  <ksj:airportLine xlink:href="#cv391"/>
+</ksj:BetAport>
+<ksj:BetAport gml:id="aport_392">
+  <ksj:depAport>出雲</ksj:depAport>
+  <ksj:arrAport>福岡</ksj:arrAport>
+  <ksj:distAirRt>415</ksj:distAirRt>
+  <ksj:frequency>13</ksj:frequency>
+  <ksj:numOfPass>16957</ksj:numOfPass>
+  <ksj:pasVolume>26034</ksj:pasVolume>
+  <ksj:numOfCargo>3</ksj:numOfCargo>
+  <ksj:airportLine xlink:href="#cv392"/>
+</ksj:BetAport>
+<ksj:BetAport gml:id="aport_393">
+  <ksj:depAport>福岡</ksj:depAport>
+  <ksj:arrAport>徳島</ksj:arrAport>
+  <ksj:distAirRt>514</ksj:distAirRt>
+  <ksj:frequency>13</ksj:frequency>
+  <ksj:numOfPass>15455</ksj:numOfPass>
+  <ksj:pasVolume>26064</ksj:pasVolume>
+  <ksj:airportLine xlink:href="#cv393"/>
+</ksj:BetAport>
+<ksj:BetAport gml:id="aport_394">
+  <ksj:depAport>徳島</ksj:depAport>
+  <ksj:arrAport>福岡</ksj:arrAport>
+  <ksj:distAirRt>514</ksj:distAirRt>
+  <ksj:frequency>13</ksj:frequency>
+  <ksj:numOfPass>15324</ksj:numOfPass>
+  <ksj:pasVolume>26028</ksj:pasVolume>
+  <ksj:airportLine xlink:href="#cv394"/>
+</ksj:BetAport>
+<ksj:BetAport gml:id="aport_395">
+  <ksj:depAport>福岡</ksj:depAport>
+  <ksj:arrAport>松山</ksj:arrAport>
+  <ksj:distAirRt>319</ksj:distAirRt>
+  <ksj:frequency>46</ksj:frequency>
+  <ksj:numOfPass>56116</ksj:numOfPass>
+  <ksj:pasVolume>91444</ksj:pasVolume>
+  <ksj:numOfCargo>5</ksj:numOfCargo>
+  <ksj:airportLine xlink:href="#cv395"/>
+</ksj:BetAport>
+<ksj:BetAport gml:id="aport_396">
+  <ksj:depAport>松山</ksj:depAport>
+  <ksj:arrAport>福岡</ksj:arrAport>
+  <ksj:distAirRt>319</ksj:distAirRt>
+  <ksj:frequency>39</ksj:frequency>
+  <ksj:numOfPass>55603</ksj:numOfPass>
+  <ksj:pasVolume>91332</ksj:pasVolume>
+  <ksj:numOfCargo>23</ksj:numOfCargo>
+  <ksj:airportLine xlink:href="#cv396"/>
+</ksj:BetAport>
+<ksj:BetAport gml:id="aport_397">
+  <ksj:depAport>福岡</ksj:depAport>
+  <ksj:arrAport>高知</ksj:arrAport>
+  <ksj:distAirRt>419</ksj:distAirRt>
+  <ksj:frequency>20</ksj:frequency>
+  <ksj:numOfPass>27271</ksj:numOfPass>
+  <ksj:pasVolume>49163</ksj:pasVolume>
+  <ksj:numOfCargo>1</ksj:numOfCargo>
+  <ksj:airportLine xlink:href="#cv397"/>
+</ksj:BetAport>
+<ksj:BetAport gml:id="aport_398">
+  <ksj:depAport>高知</ksj:depAport>
+  <ksj:arrAport>福岡</ksj:arrAport>
+  <ksj:distAirRt>419</ksj:distAirRt>
+  <ksj:frequency>20</ksj:frequency>
+  <ksj:numOfPass>27952</ksj:numOfPass>
+  <ksj:pasVolume>49150</ksj:pasVolume>
+  <ksj:airportLine xlink:href="#cv398"/>
+</ksj:BetAport>
+<ksj:BetAport gml:id="aport_399">
+  <ksj:depAport>福岡</ksj:depAport>
+  <ksj:arrAport>福江</ksj:arrAport>
+  <ksj:distAirRt>260</ksj:distAirRt>
+  <ksj:frequency>28</ksj:frequency>
+  <ksj:numOfPass>48240</ksj:numOfPass>
+  <ksj:pasVolume>85543</ksj:pasVolume>
+  <ksj:numOfCargo>28</ksj:numOfCargo>
+  <ksj:airportLine xlink:href="#cv399"/>
+</ksj:BetAport>
+<ksj:BetAport gml:id="aport_400">
+  <ksj:depAport>福江</ksj:depAport>
+  <ksj:arrAport>福岡</ksj:arrAport>
+  <ksj:distAirRt>260</ksj:distAirRt>
+  <ksj:frequency>28</ksj:frequency>
+  <ksj:numOfPass>50993</ksj:numOfPass>
+  <ksj:pasVolume>85624</ksj:pasVolume>
+  <ksj:numOfCargo>156</ksj:numOfCargo>
+  <ksj:airportLine xlink:href="#cv400"/>
+</ksj:BetAport>
+<ksj:BetAport gml:id="aport_401">
+  <ksj:depAport>福岡</ksj:depAport>
+  <ksj:arrAport>対馬</ksj:arrAport>
+  <ksj:distAirRt>190</ksj:distAirRt>
+  <ksj:frequency>27</ksj:frequency>
+  <ksj:numOfPass>90560</ksj:numOfPass>
+  <ksj:pasVolume>182174</ksj:pasVolume>
+  <ksj:numOfCargo>223</ksj:numOfCargo>
+  <ksj:airportLine xlink:href="#cv401"/>
+</ksj:BetAport>
+<ksj:BetAport gml:id="aport_402">
+  <ksj:depAport>対馬</ksj:depAport>
+  <ksj:arrAport>福岡</ksj:arrAport>
+  <ksj:distAirRt>190</ksj:distAirRt>
+  <ksj:frequency>27</ksj:frequency>
+  <ksj:numOfPass>92767</ksj:numOfPass>
+  <ksj:pasVolume>182171</ksj:pasVolume>
+  <ksj:numOfCargo>153</ksj:numOfCargo>
+  <ksj:airportLine xlink:href="#cv402"/>
+</ksj:BetAport>
+<ksj:BetAport gml:id="aport_403">
+  <ksj:depAport>福岡</ksj:depAport>
+  <ksj:arrAport>宮崎</ksj:arrAport>
+  <ksj:distAirRt>307</ksj:distAirRt>
+  <ksj:frequency>104</ksj:frequency>
+  <ksj:numOfPass>230308</ksj:numOfPass>
+  <ksj:pasVolume>436010</ksj:pasVolume>
+  <ksj:numOfCargo>83</ksj:numOfCargo>
+  <ksj:airportLine xlink:href="#cv403"/>
+</ksj:BetAport>
+<ksj:BetAport gml:id="aport_404">
+  <ksj:depAport>宮崎</ksj:depAport>
+  <ksj:arrAport>福岡</ksj:arrAport>
+  <ksj:distAirRt>307</ksj:distAirRt>
+  <ksj:frequency>104</ksj:frequency>
+  <ksj:numOfPass>230342</ksj:numOfPass>
+  <ksj:pasVolume>435933</ksj:pasVolume>
+  <ksj:numOfCargo>40</ksj:numOfCargo>
+  <ksj:airportLine xlink:href="#cv404"/>
+</ksj:BetAport>
+<ksj:BetAport gml:id="aport_405">
+  <ksj:depAport>福岡</ksj:depAport>
+  <ksj:arrAport>屋久島</ksj:arrAport>
+  <ksj:distAirRt>408</ksj:distAirRt>
+  <ksj:frequency>6</ksj:frequency>
+  <ksj:numOfPass>7409</ksj:numOfPass>
+  <ksj:pasVolume>12254</ksj:pasVolume>
+  <ksj:numOfCargo>1</ksj:numOfCargo>
+  <ksj:airportLine xlink:href="#cv405"/>
+</ksj:BetAport>
+<ksj:BetAport gml:id="aport_406">
+  <ksj:depAport>屋久島</ksj:depAport>
+  <ksj:arrAport>福岡</ksj:arrAport>
+  <ksj:distAirRt>408</ksj:distAirRt>
+  <ksj:frequency>6</ksj:frequency>
+  <ksj:numOfPass>7229</ksj:numOfPass>
+  <ksj:pasVolume>12854</ksj:pasVolume>
+  <ksj:airportLine xlink:href="#cv406"/>
+</ksj:BetAport>
+<ksj:BetAport gml:id="aport_407">
+  <ksj:depAport>福岡</ksj:depAport>
+  <ksj:arrAport>奄美</ksj:arrAport>
+  <ksj:distAirRt>672</ksj:distAirRt>
+  <ksj:frequency>6</ksj:frequency>
+  <ksj:numOfPass>17317</ksj:numOfPass>
+  <ksj:pasVolume>26862</ksj:pasVolume>
+  <ksj:numOfCargo>13</ksj:numOfCargo>
+  <ksj:airportLine xlink:href="#cv407"/>
+</ksj:BetAport>
+<ksj:BetAport gml:id="aport_408">
+  <ksj:depAport>奄美</ksj:depAport>
+  <ksj:arrAport>福岡</ksj:arrAport>
+  <ksj:distAirRt>672</ksj:distAirRt>
+  <ksj:frequency>6</ksj:frequency>
+  <ksj:numOfPass>16676</ksj:numOfPass>
+  <ksj:pasVolume>26788</ksj:pasVolume>
+  <ksj:numOfCargo>9</ksj:numOfCargo>
+  <ksj:airportLine xlink:href="#cv408"/>
+</ksj:BetAport>
+<ksj:BetAport gml:id="aport_409">
+  <ksj:depAport>福岡</ksj:depAport>
+  <ksj:arrAport>石垣</ksj:arrAport>
+  <ksj:distAirRt>1370</ksj:distAirRt>
+  <ksj:frequency>2</ksj:frequency>
+  <ksj:numOfPass>9571</ksj:numOfPass>
+  <ksj:pasVolume>14497</ksj:pasVolume>
+  <ksj:numOfCargo>2</ksj:numOfCargo>
+  <ksj:airportLine xlink:href="#cv409"/>
+</ksj:BetAport>
+<ksj:BetAport gml:id="aport_410">
+  <ksj:depAport>石垣</ksj:depAport>
+  <ksj:arrAport>福岡</ksj:arrAport>
+  <ksj:distAirRt>1370</ksj:distAirRt>
+  <ksj:frequency>2</ksj:frequency>
+  <ksj:numOfPass>9908</ksj:numOfPass>
+  <ksj:pasVolume>14616</ksj:pasVolume>
+  <ksj:numOfCargo>1</ksj:numOfCargo>
+  <ksj:airportLine xlink:href="#cv410"/>
+</ksj:BetAport>
+<ksj:BetAport gml:id="aport_411">
+  <ksj:depAport>長崎</ksj:depAport>
+  <ksj:arrAport>壱岐</ksj:arrAport>
+  <ksj:distAirRt>126</ksj:distAirRt>
+  <ksj:frequency>12</ksj:frequency>
+  <ksj:numOfPass>15387</ksj:numOfPass>
+  <ksj:pasVolume>26286</ksj:pasVolume>
+  <ksj:airportLine xlink:href="#cv411"/>
+</ksj:BetAport>
+<ksj:BetAport gml:id="aport_412">
+  <ksj:depAport>壱岐</ksj:depAport>
+  <ksj:arrAport>長崎</ksj:arrAport>
+  <ksj:distAirRt>126</ksj:distAirRt>
+  <ksj:frequency>12</ksj:frequency>
+  <ksj:numOfPass>16380</ksj:numOfPass>
+  <ksj:pasVolume>26208</ksj:pasVolume>
+  <ksj:numOfCargo>1</ksj:numOfCargo>
+  <ksj:airportLine xlink:href="#cv412"/>
+</ksj:BetAport>
+<ksj:BetAport gml:id="aport_413">
+  <ksj:depAport>長崎</ksj:depAport>
+  <ksj:arrAport>福江</ksj:arrAport>
+  <ksj:distAirRt>202</ksj:distAirRt>
+  <ksj:frequency>19</ksj:frequency>
+  <ksj:numOfPass>14921</ksj:numOfPass>
+  <ksj:pasVolume>39273</ksj:pasVolume>
+  <ksj:numOfCargo>1</ksj:numOfCargo>
+  <ksj:airportLine xlink:href="#cv413"/>
+</ksj:BetAport>
+<ksj:BetAport gml:id="aport_414">
+  <ksj:depAport>福江</ksj:depAport>
+  <ksj:arrAport>長崎</ksj:arrAport>
+  <ksj:distAirRt>202</ksj:distAirRt>
+  <ksj:frequency>19</ksj:frequency>
+  <ksj:numOfPass>15955</ksj:numOfPass>
+  <ksj:pasVolume>39078</ksj:pasVolume>
+  <ksj:numOfCargo>42</ksj:numOfCargo>
+  <ksj:airportLine xlink:href="#cv414"/>
+</ksj:BetAport>
+<ksj:BetAport gml:id="aport_415">
+  <ksj:depAport>長崎</ksj:depAport>
+  <ksj:arrAport>対馬</ksj:arrAport>
+  <ksj:distAirRt>217</ksj:distAirRt>
+  <ksj:frequency>28</ksj:frequency>
+  <ksj:numOfPass>33833</ksj:numOfPass>
+  <ksj:pasVolume>57798</ksj:pasVolume>
+  <ksj:numOfCargo>2</ksj:numOfCargo>
+  <ksj:airportLine xlink:href="#cv415"/>
+</ksj:BetAport>
+<ksj:BetAport gml:id="aport_416">
+  <ksj:depAport>対馬</ksj:depAport>
+  <ksj:arrAport>長崎</ksj:arrAport>
+  <ksj:distAirRt>217</ksj:distAirRt>
+  <ksj:frequency>28</ksj:frequency>
+  <ksj:numOfPass>35307</ksj:numOfPass>
+  <ksj:pasVolume>57837</ksj:pasVolume>
+  <ksj:numOfCargo>7</ksj:numOfCargo>
+  <ksj:airportLine xlink:href="#cv416"/>
+</ksj:BetAport>
+<ksj:BetAport gml:id="aport_417">
+  <ksj:depAport>長崎</ksj:depAport>
+  <ksj:arrAport>那覇</ksj:arrAport>
+  <ksj:distAirRt>915</ksj:distAirRt>
+  <ksj:frequency>6</ksj:frequency>
+  <ksj:numOfPass>27631</ksj:numOfPass>
+  <ksj:pasVolume>61382</ksj:pasVolume>
+  <ksj:numOfCargo>79</ksj:numOfCargo>
+  <ksj:airportLine xlink:href="#cv417"/>
+</ksj:BetAport>
+<ksj:BetAport gml:id="aport_418">
+  <ksj:depAport>那覇</ksj:depAport>
+  <ksj:arrAport>長崎</ksj:arrAport>
+  <ksj:distAirRt>915</ksj:distAirRt>
+  <ksj:frequency>6</ksj:frequency>
+  <ksj:numOfPass>27132</ksj:numOfPass>
+  <ksj:pasVolume>62053</ksj:pasVolume>
+  <ksj:numOfCargo>1</ksj:numOfCargo>
+  <ksj:airportLine xlink:href="#cv418"/>
+</ksj:BetAport>
+<ksj:BetAport gml:id="aport_419">
+  <ksj:depAport>熊本</ksj:depAport>
+  <ksj:arrAport>那覇</ksj:arrAport>
+  <ksj:distAirRt>890</ksj:distAirRt>
+  <ksj:frequency>6</ksj:frequency>
+  <ksj:numOfPass>36672</ksj:numOfPass>
+  <ksj:pasVolume>62491</ksj:pasVolume>
+  <ksj:numOfCargo>345</ksj:numOfCargo>
+  <ksj:airportLine xlink:href="#cv419"/>
+</ksj:BetAport>
+<ksj:BetAport gml:id="aport_420">
+  <ksj:depAport>那覇</ksj:depAport>
+  <ksj:arrAport>熊本</ksj:arrAport>
+  <ksj:distAirRt>890</ksj:distAirRt>
+  <ksj:frequency>6</ksj:frequency>
+  <ksj:numOfPass>38560</ksj:numOfPass>
+  <ksj:pasVolume>63068</ksj:pasVolume>
+  <ksj:numOfCargo>19</ksj:numOfCargo>
+  <ksj:airportLine xlink:href="#cv420"/>
+</ksj:BetAport>
+<ksj:BetAport gml:id="aport_421">
+  <ksj:depAport>天草</ksj:depAport>
+  <ksj:arrAport>福岡</ksj:arrAport>
+  <ksj:distAirRt>221</ksj:distAirRt>
+  <ksj:frequency>18</ksj:frequency>
+  <ksj:numOfPass>22029</ksj:numOfPass>
+  <ksj:pasVolume>37713</ksj:pasVolume>
+  <ksj:numOfCargo>1</ksj:numOfCargo>
+  <ksj:airportLine xlink:href="#cv421"/>
+</ksj:BetAport>
+<ksj:BetAport gml:id="aport_422">
+  <ksj:depAport>福岡</ksj:depAport>
+  <ksj:arrAport>天草</ksj:arrAport>
+  <ksj:distAirRt>221</ksj:distAirRt>
+  <ksj:frequency>18</ksj:frequency>
+  <ksj:numOfPass>20909</ksj:numOfPass>
+  <ksj:pasVolume>37557</ksj:pasVolume>
+  <ksj:airportLine xlink:href="#cv422"/>
+</ksj:BetAport>
+<ksj:BetAport gml:id="aport_423">
+  <ksj:depAport>天草</ksj:depAport>
+  <ksj:arrAport>熊本</ksj:arrAport>
+  <ksj:distAirRt>119</ksj:distAirRt>
+  <ksj:frequency>6</ksj:frequency>
+  <ksj:numOfPass>6302</ksj:numOfPass>
+  <ksj:pasVolume>12831</ksj:pasVolume>
+  <ksj:airportLine xlink:href="#cv423"/>
+</ksj:BetAport>
+<ksj:BetAport gml:id="aport_424">
+  <ksj:depAport>熊本</ksj:depAport>
+  <ksj:arrAport>天草</ksj:arrAport>
+  <ksj:distAirRt>119</ksj:distAirRt>
+  <ksj:frequency>6</ksj:frequency>
+  <ksj:numOfPass>6788</ksj:numOfPass>
+  <ksj:pasVolume>12753</ksj:pasVolume>
+  <ksj:airportLine xlink:href="#cv424"/>
+</ksj:BetAport>
+<ksj:BetAport gml:id="aport_425">
+  <ksj:depAport>宮崎</ksj:depAport>
+  <ksj:arrAport>那覇</ksj:arrAport>
+  <ksj:distAirRt>859</ksj:distAirRt>
+  <ksj:frequency>6</ksj:frequency>
+  <ksj:numOfPass>34964</ksj:numOfPass>
+  <ksj:pasVolume>60480</ksj:pasVolume>
+  <ksj:numOfCargo>318</ksj:numOfCargo>
+  <ksj:airportLine xlink:href="#cv425"/>
+</ksj:BetAport>
+<ksj:BetAport gml:id="aport_426">
+  <ksj:depAport>那覇</ksj:depAport>
+  <ksj:arrAport>宮崎</ksj:arrAport>
+  <ksj:distAirRt>859</ksj:distAirRt>
+  <ksj:frequency>6</ksj:frequency>
+  <ksj:numOfPass>35968</ksj:numOfPass>
+  <ksj:pasVolume>58470</ksj:pasVolume>
+  <ksj:numOfCargo>2</ksj:numOfCargo>
+  <ksj:airportLine xlink:href="#cv426"/>
+</ksj:BetAport>
+<ksj:BetAport gml:id="aport_427">
+  <ksj:depAport>鹿児島</ksj:depAport>
+  <ksj:arrAport>松山</ksj:arrAport>
+  <ksj:distAirRt>377</ksj:distAirRt>
+  <ksj:frequency>12</ksj:frequency>
+  <ksj:numOfPass>8757</ksj:numOfPass>
+  <ksj:pasVolume>22932</ksj:pasVolume>
+  <ksj:numOfCargo>1</ksj:numOfCargo>
+  <ksj:airportLine xlink:href="#cv427"/>
+</ksj:BetAport>
+<ksj:BetAport gml:id="aport_428">
+  <ksj:depAport>松山</ksj:depAport>
+  <ksj:arrAport>鹿児島</ksj:arrAport>
+  <ksj:distAirRt>377</ksj:distAirRt>
+  <ksj:frequency>12</ksj:frequency>
+  <ksj:numOfPass>9015</ksj:numOfPass>
+  <ksj:pasVolume>22792</ksj:pasVolume>
+  <ksj:airportLine xlink:href="#cv428"/>
+</ksj:BetAport>
+<ksj:BetAport gml:id="aport_429">
+  <ksj:depAport>鹿児島</ksj:depAport>
+  <ksj:arrAport>福岡</ksj:arrAport>
+  <ksj:distAirRt>274</ksj:distAirRt>
+  <ksj:frequency>14</ksj:frequency>
+  <ksj:numOfPass>13243</ksj:numOfPass>
+  <ksj:pasVolume>26284</ksj:pasVolume>
+  <ksj:numOfCargo>10</ksj:numOfCargo>
+  <ksj:airportLine xlink:href="#cv429"/>
+</ksj:BetAport>
+<ksj:BetAport gml:id="aport_430">
+  <ksj:depAport>福岡</ksj:depAport>
+  <ksj:arrAport>鹿児島</ksj:arrAport>
+  <ksj:distAirRt>274</ksj:distAirRt>
+  <ksj:frequency>13</ksj:frequency>
+  <ksj:numOfPass>13538</ksj:numOfPass>
+  <ksj:pasVolume>26030</ksj:pasVolume>
+  <ksj:numOfCargo>41</ksj:numOfCargo>
+  <ksj:airportLine xlink:href="#cv430"/>
+</ksj:BetAport>
+<ksj:BetAport gml:id="aport_431">
+  <ksj:depAport>鹿児島</ksj:depAport>
+  <ksj:arrAport>種子島</ksj:arrAport>
+  <ksj:distAirRt>181</ksj:distAirRt>
+  <ksj:frequency>27</ksj:frequency>
+  <ksj:numOfPass>32485</ksj:numOfPass>
+  <ksj:pasVolume>52474</ksj:pasVolume>
+  <ksj:numOfCargo>121</ksj:numOfCargo>
+  <ksj:airportLine xlink:href="#cv431"/>
+</ksj:BetAport>
+<ksj:BetAport gml:id="aport_432">
+  <ksj:depAport>種子島</ksj:depAport>
+  <ksj:arrAport>鹿児島</ksj:arrAport>
+  <ksj:distAirRt>181</ksj:distAirRt>
+  <ksj:frequency>27</ksj:frequency>
+  <ksj:numOfPass>32443</ksj:numOfPass>
+  <ksj:pasVolume>52402</ksj:pasVolume>
+  <ksj:numOfCargo>31</ksj:numOfCargo>
+  <ksj:airportLine xlink:href="#cv432"/>
+</ksj:BetAport>
+<ksj:BetAport gml:id="aport_433">
+  <ksj:depAport>鹿児島</ksj:depAport>
+  <ksj:arrAport>屋久島</ksj:arrAport>
+  <ksj:distAirRt>194</ksj:distAirRt>
+  <ksj:frequency>36</ksj:frequency>
+  <ksj:numOfPass>53567</ksj:numOfPass>
+  <ksj:pasVolume>106890</ksj:pasVolume>
+  <ksj:numOfCargo>70</ksj:numOfCargo>
+  <ksj:airportLine xlink:href="#cv433"/>
+</ksj:BetAport>
+<ksj:BetAport gml:id="aport_434">
+  <ksj:depAport>屋久島</ksj:depAport>
+  <ksj:arrAport>鹿児島</ksj:arrAport>
+  <ksj:distAirRt>194</ksj:distAirRt>
+  <ksj:frequency>36</ksj:frequency>
+  <ksj:numOfPass>54340</ksj:numOfPass>
+  <ksj:pasVolume>107110</ksj:pasVolume>
+  <ksj:numOfCargo>62</ksj:numOfCargo>
+  <ksj:airportLine xlink:href="#cv434"/>
+</ksj:BetAport>
+<ksj:BetAport gml:id="aport_435">
+  <ksj:depAport>鹿児島</ksj:depAport>
+  <ksj:arrAport>奄美</ksj:arrAport>
+  <ksj:distAirRt>467</ksj:distAirRt>
+  <ksj:frequency>56</ksj:frequency>
+  <ksj:numOfPass>115244</ksj:numOfPass>
+  <ksj:pasVolume>202014</ksj:pasVolume>
+  <ksj:numOfCargo>406</ksj:numOfCargo>
+  <ksj:airportLine xlink:href="#cv435"/>
+</ksj:BetAport>
+<ksj:BetAport gml:id="aport_436">
+  <ksj:depAport>奄美</ksj:depAport>
+  <ksj:arrAport>鹿児島</ksj:arrAport>
+  <ksj:distAirRt>467</ksj:distAirRt>
+  <ksj:frequency>56</ksj:frequency>
+  <ksj:numOfPass>118148</ksj:numOfPass>
+  <ksj:pasVolume>201752</ksj:pasVolume>
+  <ksj:numOfCargo>252</ksj:numOfCargo>
+  <ksj:airportLine xlink:href="#cv436"/>
+</ksj:BetAport>
+<ksj:BetAport gml:id="aport_437">
+  <ksj:depAport>鹿児島</ksj:depAport>
+  <ksj:arrAport>喜界島</ksj:arrAport>
+  <ksj:distAirRt>467</ksj:distAirRt>
+  <ksj:frequency>14</ksj:frequency>
+  <ksj:numOfPass>15418</ksj:numOfPass>
+  <ksj:pasVolume>25076</ksj:pasVolume>
+  <ksj:numOfCargo>54</ksj:numOfCargo>
+  <ksj:airportLine xlink:href="#cv437"/>
+</ksj:BetAport>
+<ksj:BetAport gml:id="aport_438">
+  <ksj:depAport>喜界島</ksj:depAport>
+  <ksj:arrAport>鹿児島</ksj:arrAport>
+  <ksj:distAirRt>467</ksj:distAirRt>
+  <ksj:frequency>14</ksj:frequency>
+  <ksj:numOfPass>16161</ksj:numOfPass>
+  <ksj:pasVolume>25192</ksj:pasVolume>
+  <ksj:numOfCargo>16</ksj:numOfCargo>
+  <ksj:airportLine xlink:href="#cv438"/>
+</ksj:BetAport>
+<ksj:BetAport gml:id="aport_439">
+  <ksj:depAport>鹿児島</ksj:depAport>
+  <ksj:arrAport>徳之島</ksj:arrAport>
+  <ksj:distAirRt>560</ksj:distAirRt>
+  <ksj:frequency>28</ksj:frequency>
+  <ksj:numOfPass>60379</ksj:numOfPass>
+  <ksj:pasVolume>107622</ksj:pasVolume>
+  <ksj:numOfCargo>160</ksj:numOfCargo>
+  <ksj:airportLine xlink:href="#cv439"/>
+</ksj:BetAport>
+<ksj:BetAport gml:id="aport_440">
+  <ksj:depAport>徳之島</ksj:depAport>
+  <ksj:arrAport>鹿児島</ksj:arrAport>
+  <ksj:distAirRt>560</ksj:distAirRt>
+  <ksj:frequency>28</ksj:frequency>
+  <ksj:numOfPass>61110</ksj:numOfPass>
+  <ksj:pasVolume>107548</ksj:pasVolume>
+  <ksj:numOfCargo>23</ksj:numOfCargo>
+  <ksj:airportLine xlink:href="#cv440"/>
+</ksj:BetAport>
+<ksj:BetAport gml:id="aport_441">
+  <ksj:depAport>鹿児島</ksj:depAport>
+  <ksj:arrAport>沖永良部</ksj:arrAport>
+  <ksj:distAirRt>579</ksj:distAirRt>
+  <ksj:frequency>20</ksj:frequency>
+  <ksj:numOfPass>32788</ksj:numOfPass>
+  <ksj:pasVolume>65976</ksj:pasVolume>
+  <ksj:numOfCargo>103</ksj:numOfCargo>
+  <ksj:airportLine xlink:href="#cv441"/>
+</ksj:BetAport>
+<ksj:BetAport gml:id="aport_442">
+  <ksj:depAport>沖永良部</ksj:depAport>
+  <ksj:arrAport>鹿児島</ksj:arrAport>
+  <ksj:distAirRt>579</ksj:distAirRt>
+  <ksj:frequency>20</ksj:frequency>
+  <ksj:numOfPass>33266</ksj:numOfPass>
+  <ksj:pasVolume>64278</ksj:pasVolume>
+  <ksj:numOfCargo>17</ksj:numOfCargo>
+  <ksj:airportLine xlink:href="#cv442"/>
+</ksj:BetAport>
+<ksj:BetAport gml:id="aport_443">
+  <ksj:depAport>鹿児島</ksj:depAport>
+  <ksj:arrAport>与論</ksj:arrAport>
+  <ksj:distAirRt>627</ksj:distAirRt>
+  <ksj:frequency>6</ksj:frequency>
+  <ksj:numOfPass>12342</ksj:numOfPass>
+  <ksj:pasVolume>26600</ksj:pasVolume>
+  <ksj:numOfCargo>35</ksj:numOfCargo>
+  <ksj:airportLine xlink:href="#cv443"/>
+</ksj:BetAport>
+<ksj:BetAport gml:id="aport_444">
+  <ksj:depAport>与論</ksj:depAport>
+  <ksj:arrAport>鹿児島</ksj:arrAport>
+  <ksj:distAirRt>627</ksj:distAirRt>
+  <ksj:frequency>6</ksj:frequency>
+  <ksj:numOfPass>12754</ksj:numOfPass>
+  <ksj:pasVolume>24020</ksj:pasVolume>
+  <ksj:numOfCargo>5</ksj:numOfCargo>
+  <ksj:airportLine xlink:href="#cv444"/>
+</ksj:BetAport>
+<ksj:BetAport gml:id="aport_445">
+  <ksj:depAport>鹿児島</ksj:depAport>
+  <ksj:arrAport>那覇</ksj:arrAport>
+  <ksj:distAirRt>758</ksj:distAirRt>
+  <ksj:frequency>20</ksj:frequency>
+  <ksj:numOfPass>88370</ksj:numOfPass>
+  <ksj:pasVolume>198629</ksj:pasVolume>
+  <ksj:numOfCargo>762</ksj:numOfCargo>
+  <ksj:airportLine xlink:href="#cv445"/>
+</ksj:BetAport>
+<ksj:BetAport gml:id="aport_446">
+  <ksj:depAport>那覇</ksj:depAport>
+  <ksj:arrAport>鹿児島</ksj:arrAport>
+  <ksj:distAirRt>758</ksj:distAirRt>
+  <ksj:frequency>20</ksj:frequency>
+  <ksj:numOfPass>87557</ksj:numOfPass>
+  <ksj:pasVolume>173275</ksj:pasVolume>
+  <ksj:numOfCargo>83</ksj:numOfCargo>
+  <ksj:airportLine xlink:href="#cv446"/>
+</ksj:BetAport>
+<ksj:BetAport gml:id="aport_447">
+  <ksj:depAport>奄美</ksj:depAport>
+  <ksj:arrAport>喜界島</ksj:arrAport>
+  <ksj:distAirRt>81</ksj:distAirRt>
+  <ksj:frequency>20</ksj:frequency>
+  <ksj:numOfPass>18506</ksj:numOfPass>
+  <ksj:pasVolume>37908</ksj:pasVolume>
+  <ksj:numOfCargo>90</ksj:numOfCargo>
+  <ksj:airportLine xlink:href="#cv447"/>
+</ksj:BetAport>
+<ksj:BetAport gml:id="aport_448">
+  <ksj:depAport>喜界島</ksj:depAport>
+  <ksj:arrAport>奄美</ksj:arrAport>
+  <ksj:distAirRt>81</ksj:distAirRt>
+  <ksj:frequency>61</ksj:frequency>
+  <ksj:numOfPass>16608</ksj:numOfPass>
+  <ksj:pasVolume>37836</ksj:pasVolume>
+  <ksj:numOfCargo>52</ksj:numOfCargo>
+  <ksj:airportLine xlink:href="#cv448"/>
+</ksj:BetAport>
+<ksj:BetAport gml:id="aport_449">
+  <ksj:depAport>奄美</ksj:depAport>
+  <ksj:arrAport>徳之島</ksj:arrAport>
+  <ksj:distAirRt>181</ksj:distAirRt>
+  <ksj:frequency>13</ksj:frequency>
+  <ksj:numOfPass>11202</ksj:numOfPass>
+  <ksj:pasVolume>25560</ksj:pasVolume>
+  <ksj:numOfCargo>28</ksj:numOfCargo>
+  <ksj:airportLine xlink:href="#cv449"/>
+</ksj:BetAport>
+<ksj:BetAport gml:id="aport_450">
+  <ksj:depAport>徳之島</ksj:depAport>
+  <ksj:arrAport>奄美</ksj:arrAport>
+  <ksj:distAirRt>181</ksj:distAirRt>
+  <ksj:frequency>13</ksj:frequency>
+  <ksj:numOfPass>12119</ksj:numOfPass>
+  <ksj:pasVolume>25560</ksj:pasVolume>
+  <ksj:numOfCargo>1</ksj:numOfCargo>
+  <ksj:airportLine xlink:href="#cv450"/>
+</ksj:BetAport>
+<ksj:BetAport gml:id="aport_451">
+  <ksj:depAport>奄美</ksj:depAport>
+  <ksj:arrAport>沖永良部</ksj:arrAport>
+  <ksj:distAirRt>204</ksj:distAirRt>
+  <ksj:frequency>3</ksj:frequency>
+  <ksj:numOfPass>3774</ksj:numOfPass>
+  <ksj:pasVolume>7452</ksj:pasVolume>
+  <ksj:numOfCargo>12</ksj:numOfCargo>
+  <ksj:airportLine xlink:href="#cv451"/>
+</ksj:BetAport>
+<ksj:BetAport gml:id="aport_452">
+  <ksj:depAport>沖永良部</ksj:depAport>
+  <ksj:arrAport>奄美</ksj:arrAport>
+  <ksj:distAirRt>204</ksj:distAirRt>
+  <ksj:frequency>2</ksj:frequency>
+  <ksj:numOfPass>3329</ksj:numOfPass>
+  <ksj:pasVolume>5358</ksj:pasVolume>
+  <ksj:airportLine xlink:href="#cv452"/>
+</ksj:BetAport>
+<ksj:BetAport gml:id="aport_453">
+  <ksj:depAport>奄美</ksj:depAport>
+  <ksj:arrAport>与論</ksj:arrAport>
+  <ksj:distAirRt>256</ksj:distAirRt>
+  <ksj:frequency>2</ksj:frequency>
+  <ksj:numOfPass>2276</ksj:numOfPass>
+  <ksj:pasVolume>5472</ksj:pasVolume>
+  <ksj:numOfCargo>10</ksj:numOfCargo>
+  <ksj:airportLine xlink:href="#cv453"/>
+</ksj:BetAport>
+<ksj:BetAport gml:id="aport_454">
+  <ksj:depAport>与論</ksj:depAport>
+  <ksj:arrAport>奄美</ksj:arrAport>
+  <ksj:distAirRt>256</ksj:distAirRt>
+  <ksj:frequency>3</ksj:frequency>
+  <ksj:numOfPass>3210</ksj:numOfPass>
+  <ksj:pasVolume>6698</ksj:pasVolume>
+  <ksj:airportLine xlink:href="#cv454"/>
+</ksj:BetAport>
+<ksj:BetAport gml:id="aport_455">
+  <ksj:depAport>奄美</ksj:depAport>
+  <ksj:arrAport>那覇</ksj:arrAport>
+  <ksj:distAirRt>390</ksj:distAirRt>
+  <ksj:frequency>6</ksj:frequency>
+  <ksj:numOfPass>8249</ksj:numOfPass>
+  <ksj:pasVolume>14325</ksj:pasVolume>
+  <ksj:numOfCargo>24</ksj:numOfCargo>
+  <ksj:airportLine xlink:href="#cv455"/>
+</ksj:BetAport>
+<ksj:BetAport gml:id="aport_456">
+  <ksj:depAport>那覇</ksj:depAport>
+  <ksj:arrAport>奄美</ksj:arrAport>
+  <ksj:distAirRt>390</ksj:distAirRt>
+  <ksj:frequency>6</ksj:frequency>
+  <ksj:numOfPass>7932</ksj:numOfPass>
+  <ksj:pasVolume>14325</ksj:pasVolume>
+  <ksj:numOfCargo>22</ksj:numOfCargo>
+  <ksj:airportLine xlink:href="#cv456"/>
+</ksj:BetAport>
+<ksj:BetAport gml:id="aport_457">
+  <ksj:depAport>与論</ksj:depAport>
+  <ksj:arrAport>沖永良部</ksj:arrAport>
+  <ksj:distAirRt>100</ksj:distAirRt>
+  <ksj:frequency>2</ksj:frequency>
+  <ksj:numOfPass>2622</ksj:numOfPass>
+  <ksj:pasVolume>4538</ksj:pasVolume>
+  <ksj:numOfCargo>5</ksj:numOfCargo>
+  <ksj:airportLine xlink:href="#cv457"/>
+</ksj:BetAport>
+<ksj:BetAport gml:id="aport_458">
+  <ksj:depAport>沖永良部</ksj:depAport>
+  <ksj:arrAport>与論</ksj:arrAport>
+  <ksj:distAirRt>100</ksj:distAirRt>
+  <ksj:frequency>3</ksj:frequency>
+  <ksj:numOfPass>3442</ksj:numOfPass>
+  <ksj:pasVolume>7296</ksj:pasVolume>
+  <ksj:numOfCargo>5</ksj:numOfCargo>
+  <ksj:airportLine xlink:href="#cv458"/>
+</ksj:BetAport>
+<ksj:BetAport gml:id="aport_459">
+  <ksj:depAport>南大東島</ksj:depAport>
+  <ksj:arrAport>北大東島</ksj:arrAport>
+  <ksj:distAirRt>62</ksj:distAirRt>
+  <ksj:frequency>2</ksj:frequency>
+  <ksj:numOfPass>4588</ksj:numOfPass>
+  <ksj:pasVolume>6006</ksj:pasVolume>
+  <ksj:numOfCargo>27</ksj:numOfCargo>
+  <ksj:airportLine xlink:href="#cv459"/>
+</ksj:BetAport>
+<ksj:BetAport gml:id="aport_460">
+  <ksj:depAport>北大東島</ksj:depAport>
+  <ksj:arrAport>南大東島</ksj:arrAport>
+  <ksj:distAirRt>62</ksj:distAirRt>
+  <ksj:frequency>3</ksj:frequency>
+  <ksj:numOfPass>5754</ksj:numOfPass>
+  <ksj:pasVolume>7956</ksj:pasVolume>
+  <ksj:numOfCargo>23</ksj:numOfCargo>
+  <ksj:airportLine xlink:href="#cv460"/>
+</ksj:BetAport>
+<ksj:BetAport gml:id="aport_461">
+  <ksj:depAport>那覇</ksj:depAport>
+  <ksj:arrAport>茨城</ksj:arrAport>
+  <ksj:distAirRt>1742</ksj:distAirRt>
+  <ksj:frequency>2</ksj:frequency>
+  <ksj:numOfPass>12718</ksj:numOfPass>
+  <ksj:pasVolume>20532</ksj:pasVolume>
+  <ksj:airportLine xlink:href="#cv461"/>
+</ksj:BetAport>
+<ksj:BetAport gml:id="aport_462">
+  <ksj:depAport>茨城</ksj:depAport>
+  <ksj:arrAport>那覇</ksj:arrAport>
+  <ksj:distAirRt>1742</ksj:distAirRt>
+  <ksj:frequency>2</ksj:frequency>
+  <ksj:numOfPass>12555</ksj:numOfPass>
+  <ksj:pasVolume>20178</ksj:pasVolume>
+  <ksj:airportLine xlink:href="#cv462"/>
+</ksj:BetAport>
+<ksj:BetAport gml:id="aport_463">
+  <ksj:depAport>那覇</ksj:depAport>
+  <ksj:trsAport>神戸</ksj:trsAport>
+  <ksj:arrAport>茨城</ksj:arrAport>
+  <ksj:distAirRt>2058</ksj:distAirRt>
+  <ksj:frequency>3</ksj:frequency>
+  <ksj:numOfPass>32267</ksj:numOfPass>
+  <ksj:pasVolume>27789</ksj:pasVolume>
+  <ksj:airportLine xlink:href="#cv463"/>
+</ksj:BetAport>
+<ksj:BetAport gml:id="aport_464">
+  <ksj:depAport>茨城</ksj:depAport>
+  <ksj:trsAport>神戸</ksj:trsAport>
+  <ksj:arrAport>那覇</ksj:arrAport>
+  <ksj:distAirRt>2058</ksj:distAirRt>
+  <ksj:frequency>3</ksj:frequency>
+  <ksj:numOfPass>32511</ksj:numOfPass>
+  <ksj:pasVolume>27789</ksj:pasVolume>
+  <ksj:airportLine xlink:href="#cv464"/>
+</ksj:BetAport>
+<ksj:BetAport gml:id="aport_465">
+  <ksj:depAport>那覇</ksj:depAport>
+  <ksj:arrAport>金沢</ksj:arrAport>
+  <ksj:distAirRt>1577</ksj:distAirRt>
+  <ksj:frequency>6</ksj:frequency>
+  <ksj:numOfPass>31729</ksj:numOfPass>
+  <ksj:pasVolume>52780</ksj:pasVolume>
+  <ksj:numOfCargo>39</ksj:numOfCargo>
+  <ksj:airportLine xlink:href="#cv465"/>
+</ksj:BetAport>
+<ksj:BetAport gml:id="aport_466">
+  <ksj:depAport>金沢</ksj:depAport>
+  <ksj:arrAport>那覇</ksj:arrAport>
+  <ksj:distAirRt>1577</ksj:distAirRt>
+  <ksj:frequency>6</ksj:frequency>
+  <ksj:numOfPass>26949</ksj:numOfPass>
+  <ksj:pasVolume>52630</ksj:pasVolume>
+  <ksj:numOfCargo>103</ksj:numOfCargo>
+  <ksj:airportLine xlink:href="#cv466"/>
+</ksj:BetAport>
+<ksj:BetAport gml:id="aport_467">
+  <ksj:depAport>那覇</ksj:depAport>
+  <ksj:arrAport>岡山</ksj:arrAport>
+  <ksj:distAirRt>1252</ksj:distAirRt>
+  <ksj:frequency>8</ksj:frequency>
+  <ksj:numOfPass>45626</ksj:numOfPass>
+  <ksj:pasVolume>63095</ksj:pasVolume>
+  <ksj:numOfCargo>15</ksj:numOfCargo>
+  <ksj:airportLine xlink:href="#cv467"/>
+</ksj:BetAport>
+<ksj:BetAport gml:id="aport_468">
+  <ksj:depAport>岡山</ksj:depAport>
+  <ksj:arrAport>那覇</ksj:arrAport>
+  <ksj:distAirRt>1252</ksj:distAirRt>
+  <ksj:frequency>8</ksj:frequency>
+  <ksj:numOfPass>45225</ksj:numOfPass>
+  <ksj:pasVolume>63240</ksj:pasVolume>
+  <ksj:numOfCargo>223</ksj:numOfCargo>
+  <ksj:airportLine xlink:href="#cv468"/>
+</ksj:BetAport>
+<ksj:BetAport gml:id="aport_469">
+  <ksj:depAport>那覇</ksj:depAport>
+  <ksj:arrAport>松山</ksj:arrAport>
+  <ksj:distAirRt>1072</ksj:distAirRt>
+  <ksj:frequency>7</ksj:frequency>
+  <ksj:numOfPass>32836</ksj:numOfPass>
+  <ksj:pasVolume>59398</ksj:pasVolume>
+  <ksj:numOfCargo>3</ksj:numOfCargo>
+  <ksj:airportLine xlink:href="#cv469"/>
+</ksj:BetAport>
+<ksj:BetAport gml:id="aport_470">
+  <ksj:depAport>松山</ksj:depAport>
+  <ksj:arrAport>那覇</ksj:arrAport>
+  <ksj:distAirRt>1072</ksj:distAirRt>
+  <ksj:frequency>7</ksj:frequency>
+  <ksj:numOfPass>32777</ksj:numOfPass>
+  <ksj:pasVolume>59559</ksj:pasVolume>
+  <ksj:numOfCargo>73</ksj:numOfCargo>
+  <ksj:airportLine xlink:href="#cv470"/>
+</ksj:BetAport>
+<ksj:BetAport gml:id="aport_471">
+  <ksj:depAport>那覇</ksj:depAport>
+  <ksj:arrAport>与論</ksj:arrAport>
+  <ksj:distAirRt>231</ksj:distAirRt>
+  <ksj:frequency>8</ksj:frequency>
+  <ksj:numOfPass>13855</ksj:numOfPass>
+  <ksj:pasVolume>20591</ksj:pasVolume>
+  <ksj:numOfCargo>9</ksj:numOfCargo>
+  <ksj:airportLine xlink:href="#cv471"/>
+</ksj:BetAport>
+<ksj:BetAport gml:id="aport_472">
+  <ksj:depAport>与論</ksj:depAport>
+  <ksj:arrAport>那覇</ksj:arrAport>
+  <ksj:distAirRt>231</ksj:distAirRt>
+  <ksj:frequency>8</ksj:frequency>
+  <ksj:numOfPass>13845</ksj:numOfPass>
+  <ksj:pasVolume>20591</ksj:pasVolume>
+  <ksj:numOfCargo>3</ksj:numOfCargo>
+  <ksj:airportLine xlink:href="#cv472"/>
+</ksj:BetAport>
+<ksj:BetAport gml:id="aport_473">
+  <ksj:depAport>那覇</ksj:depAport>
+  <ksj:arrAport>北大東島</ksj:arrAport>
+  <ksj:distAirRt>417</ksj:distAirRt>
+  <ksj:frequency>4</ksj:frequency>
+  <ksj:numOfPass>6225</ksj:numOfPass>
+  <ksj:pasVolume>8190</ksj:pasVolume>
+  <ksj:numOfCargo>35</ksj:numOfCargo>
+  <ksj:airportLine xlink:href="#cv473"/>
+</ksj:BetAport>
+<ksj:BetAport gml:id="aport_474">
+  <ksj:depAport>北大東島</ksj:depAport>
+  <ksj:arrAport>那覇</ksj:arrAport>
+  <ksj:distAirRt>417</ksj:distAirRt>
+  <ksj:frequency>3</ksj:frequency>
+  <ksj:numOfPass>5034</ksj:numOfPass>
+  <ksj:pasVolume>6240</ksj:pasVolume>
+  <ksj:numOfCargo>25</ksj:numOfCargo>
+  <ksj:airportLine xlink:href="#cv474"/>
+</ksj:BetAport>
+<ksj:BetAport gml:id="aport_475">
+  <ksj:depAport>那覇</ksj:depAport>
+  <ksj:arrAport>南大東島</ksj:arrAport>
+  <ksj:distAirRt>414</ksj:distAirRt>
+  <ksj:frequency>9</ksj:frequency>
+  <ksj:numOfPass>14669</ksj:numOfPass>
+  <ksj:pasVolume>23187</ksj:pasVolume>
+  <ksj:numOfCargo>93</ksj:numOfCargo>
+  <ksj:airportLine xlink:href="#cv475"/>
+</ksj:BetAport>
+<ksj:BetAport gml:id="aport_476">
+  <ksj:depAport>南大東島</ksj:depAport>
+  <ksj:arrAport>那覇</ksj:arrAport>
+  <ksj:distAirRt>414</ksj:distAirRt>
+  <ksj:frequency>10</ksj:frequency>
+  <ksj:numOfPass>15831</ksj:numOfPass>
+  <ksj:pasVolume>25087</ksj:pasVolume>
+  <ksj:numOfCargo>85</ksj:numOfCargo>
+  <ksj:airportLine xlink:href="#cv476"/>
+</ksj:BetAport>
+<ksj:BetAport gml:id="aport_477">
+  <ksj:depAport>那覇</ksj:depAport>
+  <ksj:arrAport>久米島</ksj:arrAport>
+  <ksj:distAirRt>168</ksj:distAirRt>
+  <ksj:frequency>45</ksj:frequency>
+  <ksj:numOfPass>108719</ksj:numOfPass>
+  <ksj:pasVolume>160665</ksj:pasVolume>
+  <ksj:numOfCargo>472</ksj:numOfCargo>
+  <ksj:airportLine xlink:href="#cv477"/>
+</ksj:BetAport>
+<ksj:BetAport gml:id="aport_478">
+  <ksj:depAport>久米島</ksj:depAport>
+  <ksj:arrAport>那覇</ksj:arrAport>
+  <ksj:distAirRt>168</ksj:distAirRt>
+  <ksj:frequency>45</ksj:frequency>
+  <ksj:numOfPass>109136</ksj:numOfPass>
+  <ksj:pasVolume>160945</ksj:pasVolume>
+  <ksj:numOfCargo>981</ksj:numOfCargo>
+  <ksj:airportLine xlink:href="#cv478"/>
+</ksj:BetAport>
+<ksj:BetAport gml:id="aport_479">
+  <ksj:depAport>那覇</ksj:depAport>
+  <ksj:arrAport>宮古</ksj:arrAport>
+  <ksj:distAirRt>352</ksj:distAirRt>
+  <ksj:frequency>106</ksj:frequency>
+  <ksj:numOfPass>515781</ksj:numOfPass>
+  <ksj:pasVolume>772642</ksj:pasVolume>
+  <ksj:numOfCargo>5792</ksj:numOfCargo>
+  <ksj:airportLine xlink:href="#cv479"/>
+</ksj:BetAport>
+<ksj:BetAport gml:id="aport_480">
+  <ksj:depAport>宮古</ksj:depAport>
+  <ksj:arrAport>那覇</ksj:arrAport>
+  <ksj:distAirRt>352</ksj:distAirRt>
+  <ksj:frequency>106</ksj:frequency>
+  <ksj:numOfPass>519545</ksj:numOfPass>
+  <ksj:pasVolume>772467</ksj:pasVolume>
+  <ksj:numOfCargo>6349</ksj:numOfCargo>
+  <ksj:airportLine xlink:href="#cv480"/>
+</ksj:BetAport>
+<ksj:BetAport gml:id="aport_481">
+  <ksj:depAport>那覇</ksj:depAport>
+  <ksj:arrAport>石垣</ksj:arrAport>
+  <ksj:distAirRt>472</ksj:distAirRt>
+  <ksj:frequency>136</ksj:frequency>
+  <ksj:numOfPass>602548</ksj:numOfPass>
+  <ksj:pasVolume>984725</ksj:pasVolume>
+  <ksj:numOfCargo>7284</ksj:numOfCargo>
+  <ksj:airportLine xlink:href="#cv481"/>
+</ksj:BetAport>
+<ksj:BetAport gml:id="aport_482">
+  <ksj:depAport>石垣</ksj:depAport>
+  <ksj:arrAport>那覇</ksj:arrAport>
+  <ksj:distAirRt>472</ksj:distAirRt>
+  <ksj:frequency>138</ksj:frequency>
+  <ksj:numOfPass>624112</ksj:numOfPass>
+  <ksj:pasVolume>994266</ksj:pasVolume>
+  <ksj:numOfCargo>7207</ksj:numOfCargo>
+  <ksj:airportLine xlink:href="#cv482"/>
+</ksj:BetAport>
+<ksj:BetAport gml:id="aport_483">
+  <ksj:depAport>那覇</ksj:depAport>
+  <ksj:arrAport>与那国</ksj:arrAport>
+  <ksj:distAirRt>597</ksj:distAirRt>
+  <ksj:frequency>6</ksj:frequency>
+  <ksj:numOfPass>6616</ksj:numOfPass>
+  <ksj:pasVolume>13299</ksj:pasVolume>
+  <ksj:numOfCargo>38</ksj:numOfCargo>
+  <ksj:airportLine xlink:href="#cv483"/>
+</ksj:BetAport>
+<ksj:BetAport gml:id="aport_484">
+  <ksj:depAport>与那国</ksj:depAport>
+  <ksj:arrAport>那覇</ksj:arrAport>
+  <ksj:distAirRt>597</ksj:distAirRt>
+  <ksj:frequency>6</ksj:frequency>
+  <ksj:numOfPass>6748</ksj:numOfPass>
+  <ksj:pasVolume>13310</ksj:pasVolume>
+  <ksj:numOfCargo>122</ksj:numOfCargo>
+  <ksj:airportLine xlink:href="#cv484"/>
+</ksj:BetAport>
+<ksj:BetAport gml:id="aport_485">
+  <ksj:depAport>宮古</ksj:depAport>
+  <ksj:arrAport>石垣</ksj:arrAport>
+  <ksj:distAirRt>183</ksj:distAirRt>
+  <ksj:frequency>20</ksj:frequency>
+  <ksj:numOfPass>34358</ksj:numOfPass>
+  <ksj:pasVolume>76415</ksj:pasVolume>
+  <ksj:numOfCargo>97</ksj:numOfCargo>
+  <ksj:airportLine xlink:href="#cv485"/>
+</ksj:BetAport>
+<ksj:BetAport gml:id="aport_486">
+  <ksj:depAport>石垣</ksj:depAport>
+  <ksj:arrAport>宮古</ksj:arrAport>
+  <ksj:distAirRt>183</ksj:distAirRt>
+  <ksj:frequency>20</ksj:frequency>
+  <ksj:numOfPass>32773</ksj:numOfPass>
+  <ksj:pasVolume>76522</ksj:pasVolume>
+  <ksj:numOfCargo>278</ksj:numOfCargo>
+  <ksj:airportLine xlink:href="#cv486"/>
+</ksj:BetAport>
+<ksj:BetAport gml:id="aport_487">
+  <ksj:depAport>多良間</ksj:depAport>
+  <ksj:arrAport>宮古</ksj:arrAport>
+  <ksj:distAirRt>86</ksj:distAirRt>
+  <ksj:frequency>13</ksj:frequency>
+  <ksj:numOfPass>16731</ksj:numOfPass>
+  <ksj:pasVolume>27417</ksj:pasVolume>
+  <ksj:numOfCargo>83</ksj:numOfCargo>
+  <ksj:airportLine xlink:href="#cv487"/>
+</ksj:BetAport>
+<ksj:BetAport gml:id="aport_488">
+  <ksj:depAport>宮古</ksj:depAport>
+  <ksj:arrAport>多良間</ksj:arrAport>
+  <ksj:distAirRt>86</ksj:distAirRt>
+  <ksj:frequency>13</ksj:frequency>
+  <ksj:numOfPass>16752</ksj:numOfPass>
+  <ksj:pasVolume>27495</ksj:pasVolume>
+  <ksj:numOfCargo>163</ksj:numOfCargo>
+  <ksj:airportLine xlink:href="#cv488"/>
+</ksj:BetAport>
+<ksj:BetAport gml:id="aport_489">
+  <ksj:depAport>石垣</ksj:depAport>
+  <ksj:arrAport>与那国</ksj:arrAport>
+  <ksj:distAirRt>168</ksj:distAirRt>
+  <ksj:frequency>19</ksj:frequency>
+  <ksj:numOfPass>28772</ksj:numOfPass>
+  <ksj:pasVolume>42283</ksj:pasVolume>
+  <ksj:numOfCargo>186</ksj:numOfCargo>
+  <ksj:airportLine xlink:href="#cv489"/>
+</ksj:BetAport>
+<ksj:BetAport gml:id="aport_490">
+  <ksj:depAport>与那国</ksj:depAport>
+  <ksj:arrAport>石垣</ksj:arrAport>
+  <ksj:distAirRt>168</ksj:distAirRt>
+  <ksj:frequency>19</ksj:frequency>
+  <ksj:numOfPass>28603</ksj:numOfPass>
+  <ksj:pasVolume>42155</ksj:pasVolume>
+  <ksj:numOfCargo>198</ksj:numOfCargo>
+  <ksj:airportLine xlink:href="#cv490"/>
+</ksj:BetAport>
+</ksj:Dataset>
