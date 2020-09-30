@@ -14,7 +14,6 @@
 世界グラフを作るためのデータ整理の過程  
 見なくてよい.  
 ちなみに，依然として完璧な世界グラフではない
-こんにちは
 
 ## 世界グラフによるコロナ予測
 [天地創造.ipynb](https://colab.research.google.com/github/sirakik/japan_graph/blob/master/天地創造.ipynb)
